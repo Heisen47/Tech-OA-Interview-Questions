@@ -14,11 +14,12 @@
 
 [![Last update](https://img.shields.io/github/last-commit/perixtar/2026-Tech-OA-by-FastPrep/master?style=for-the-badge&label=LAST%20UPDATE&color=00C853)](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/commits/master)
 [![GitHub stars](https://img.shields.io/github/stars/perixtar/2026-Tech-OA-by-FastPrep?style=for-the-badge&logo=github&color=FFB300&label=STARS)](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/stargazers)
-[![Question bank](https://img.shields.io/badge/QUESTION%20BANK-1%2C600%2B-FF6D00?style=for-the-badge)](https://www.fastprep.io)
-[![Companies](https://img.shields.io/badge/COMPANIES-160%2B-2962FF?style=for-the-badge)](#coverage)
+[![Question bank](https://img.shields.io/badge/QUESTION%20BANK-2%2C100%2B-FF6D00?style=for-the-badge)](https://www.fastprep.io)
+[![Interactive App](https://img.shields.io/badge/INTERACTIVE%20WEB%20APP-OPEN%20NOW-7C3AED?style=for-the-badge)](index.html)
+[![Companies](https://img.shields.io/badge/COMPANIES-280%2B-2962FF?style=for-the-badge)](#coverage)
 [![Discord](https://img.shields.io/badge/DISCORD-JOIN%20US-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kSbWpSGUTH)
 
-<samp><a href="#how-it-works">how it works</a> · <a href="#coverage">coverage</a> · <a href="#question-bank">question bank</a> · <a href="#contribute">contribute</a> · <a href="#community">community</a></samp>
+<samp><a href="index.html">⚡ <b>interactive web app</b></a> · <a href="#how-it-works">how it works</a> · <a href="#coverage">coverage</a> · <a href="#question-bank">question bank</a> · <a href="#contribute">contribute</a> · <a href="#community">community</a></samp>
 
 </div>
 
@@ -40,6 +41,7 @@ $ fastprep sync --season 2026
 
 | Step | What to do |
 | --- | --- |
+| ⚡ **Interactive Web App** | Open [index.html](index.html) to filter by company chips, practice formats, instant search, and track solved problems |
 | 🔍 **Search** | <kbd>Ctrl</kbd> / <kbd>⌘</kbd> + <kbd>F</kbd> your company in the [question bank](#question-bank) below |
 | 📄 **Open** | every row links to the full question, rebuilt from real candidate reports |
 | 🧪 **Practice** | hit `Practice` to solve it on [FastPrep](https://www.fastprep.io) with an editor and test cases |
