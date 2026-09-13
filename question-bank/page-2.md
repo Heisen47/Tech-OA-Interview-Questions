@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Roblox**|[Valid Pairs](https://www.fastprep.io/problems/roblox-valid-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-valid-pairs)|Sep 25, 2024|
+|**Roblox**|[Schedule Meeting](https://www.fastprep.io/problems/roblox-schedule-meeting)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-schedule-meeting)|Sep 25, 2024|
+|**Databricks**|[Write L Matrix](https://www.fastprep.io/problems/databricks-write-l-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-write-l-matrix)|Sep 25, 2024|
+|**Databricks**|[Longest Common Prefix of Number Pairs](https://www.fastprep.io/problems/databricks-longest-common-prefix-of-number-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-longest-common-prefix-of-number-pairs)|Sep 25, 2024|
 |**Databricks**|[Diff Between Sums of Positions](https://www.fastprep.io/problems/databricks-diff-between-sums-of-positions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-diff-between-sums-of-positions)|Sep 25, 2024|
 |**Databricks**|[Subarray Counting](https://www.fastprep.io/problems/databricks-subarray-counting)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-subarray-counting)|Sep 25, 2024|
 |**IBM**|[Equalize Team Size](https://www.fastprep.io/problems/ibm-equalize-team-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-equalize-team-size)|Sep 25, 2024|
