@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Palantir**|[Minimal Operations](https://www.fastprep.io/problems/palantir-minimal-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-minimal-operations)|Sep 26, 2024|
+|**JP Morgan**|[Slowest Keys](https://www.fastprep.io/problems/jpmorgan-slowest-key)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-slowest-key)|Sep 25, 2024|
+|**JP Morgan**|[Get Merged Intervals](https://www.fastprep.io/problems/jpmorgan-get-merged-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-merged-intervals)|Sep 25, 2024|
+|**Akuna**|[Update Release Scheduler](https://www.fastprep.io/problems/akuna-update-release-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-update-release-scheduler)|Sep 25, 2024|
+|**Akuna**|[Array Challenge](https://www.fastprep.io/problems/akuna-array-challenge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-array-challenge)|Sep 25, 2024|
 |**Roblox**|[Valid Pairs](https://www.fastprep.io/problems/roblox-valid-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-valid-pairs)|Sep 25, 2024|
 |**Roblox**|[Schedule Meeting](https://www.fastprep.io/problems/roblox-schedule-meeting)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-schedule-meeting)|Sep 25, 2024|
 |**Databricks**|[Write L Matrix](https://www.fastprep.io/problems/databricks-write-l-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-write-l-matrix)|Sep 25, 2024|
