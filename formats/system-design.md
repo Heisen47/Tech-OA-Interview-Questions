@@ -8,8 +8,8 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Tekion / JPMorgan Chase**|[Design a Resilient Multi-Table ETL Pipeline](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|🔥 Sep 13, 2026|
 |**JPMorgan Chase**|[Spark Cluster Sizing for a 100 GB Workload](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|[![Practice][p]](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|🔥 Sep 13, 2026|
+|**Tekion / JPMorgan Chase**|[Design a Resilient Multi-Table ETL Pipeline](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|🔥 Sep 13, 2026|
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Sep 12, 2026|
 |**LinkedIn**|[Malicious IP Traffic Filtering Platform](https://www.fastprep.io/system-design/malicious-ip-traffic-filtering-platform)|[![Practice][p]](https://www.fastprep.io/system-design/malicious-ip-traffic-filtering-platform)|🔥 Sep 12, 2026|
 |**Agoda**|[Design a Flight Search and Booking Aggregator](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|🔥 Sep 11, 2026|
@@ -19,6 +19,7 @@
 |**FlexTrade**|[Diagnose Memory Growth in a Long-Running Process](https://www.fastprep.io/system-design/long-running-process-memory-growth-diagnosis)|[![Practice][p]](https://www.fastprep.io/system-design/long-running-process-memory-growth-diagnosis)|🔥 Sep 11, 2026|
 |**Anthropic / Snap Inc. / Lyft**|[One-to-One Chat Service](https://www.fastprep.io/system-design/one-to-one-chat-service)|[![Practice][p]](https://www.fastprep.io/system-design/one-to-one-chat-service)|🔥 Sep 11, 2026|
 |**Anthropic**|[Design a Gang-Scheduled GPU Inference Pool](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|[![Practice][p]](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool)|🔥 Sep 11, 2026|
+|**Wayfair**|[Design an Audio Fingerprint Recognition Service](https://www.fastprep.io/system-design/audio-fingerprint-recognition-service)|[![Practice][p]](https://www.fastprep.io/system-design/audio-fingerprint-recognition-service)|🔥 Sep 11, 2026|
 |**Pinterest / Instacart**|[Design an Inventory Management Service](https://www.fastprep.io/system-design/inventory-management-service)|[![Practice][p]](https://www.fastprep.io/system-design/inventory-management-service)|🔥 Sep 11, 2026|
 |**OnePay / Razorpay / infosys**|[Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system)|[![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system)|🔥 Sep 10, 2026|
 |**OpenAI / The D. E. Shaw Group / Zoox / Salesforce**|[Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system)|[![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system)|🔥 Sep 10, 2026|
@@ -203,7 +204,6 @@
 |**Zoox**|[Design a Real-Time Fleet Location Display](https://www.fastprep.io/system-design/real-time-fleet-location-display)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-fleet-location-display)|🆕 Aug 07, 2026|
 |**Figma**|[Design Trending Design Files](https://www.fastprep.io/system-design/trending-design-files)|[![Practice][p]](https://www.fastprep.io/system-design/trending-design-files)|🆕 Aug 07, 2026|
 |**Rippling**|[Design a Frontend News Feed with Offline Virtualization](https://www.fastprep.io/system-design/frontend-news-feed-offline-virtualization)|[![Practice][p]](https://www.fastprep.io/system-design/frontend-news-feed-offline-virtualization)|🆕 Aug 06, 2026|
-|**Wayfair**|[Design an Audio Fingerprint Recognition Service](https://www.fastprep.io/system-design/audio-fingerprint-recognition-service)|[![Practice][p]](https://www.fastprep.io/system-design/audio-fingerprint-recognition-service)|🆕 Aug 06, 2026|
 |**Amazon**|[Design an ML Training and Deployment Platform](https://www.fastprep.io/system-design/ml-training-and-inference-platform)|[![Practice][p]](https://www.fastprep.io/system-design/ml-training-and-inference-platform)|🆕 Aug 06, 2026|
 |**Pinterest**|[Design Viral Comment Notification Aggregation](https://www.fastprep.io/system-design/viral-comment-notification-aggregation)|[![Practice][p]](https://www.fastprep.io/system-design/viral-comment-notification-aggregation)|🆕 Aug 06, 2026|
 |**infosys**|[Design Offline-First Document Autosave and Synchronization](https://www.fastprep.io/system-design/offline-first-document-autosave-sync)|[![Practice][p]](https://www.fastprep.io/system-design/offline-first-document-autosave-sync)|🆕 Aug 06, 2026|
