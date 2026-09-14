@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Agoda**|[Maximize Sum of Processed Times](https://www.fastprep.io/problems/agoda-maximize-sum-of-processed-times)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-maximize-sum-of-processed-times)|Sep 26, 2024|
+|**BNP**|[Piles of Boxes](https://www.fastprep.io/problems/bnp-piles-of-boxes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnp-piles-of-boxes)|Sep 26, 2024|
 |**BNP**|[Romanizer](https://www.fastprep.io/problems/bnp-romanizer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bnp-romanizer)|Sep 26, 2024|
 |**Palantir**|[Minimize Path Value](https://www.fastprep.io/problems/palantir-minimize-path-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-minimize-path-value)|Sep 26, 2024|
 |**Palantir**|[Minimal Operations](https://www.fastprep.io/problems/palantir-minimal-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/palantir-minimal-operations)|Sep 26, 2024|
