@@ -2,12 +2,39 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,011 questions**
+**2,034 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Google**|[Min Days to Bloom](https://www.fastprep.io/problems/google-min-days-bouquets)|[![Practice][p]](https://www.fastprep.io/problems/google-min-days-bouquets)|Feb 16, 2024|
+|**Google**|[Fill Matrix](https://www.fastprep.io/problems/google-fill-matrix)|[![Practice][p]](https://www.fastprep.io/problems/google-fill-matrix)|Feb 16, 2024|
+|**Google**|[Time to Type a String](https://www.fastprep.io/problems/google-single-row-keyboard)|[![Practice][p]](https://www.fastprep.io/problems/google-single-row-keyboard)|Feb 16, 2024|
+|**Google**|[Max Distance](https://www.fastprep.io/problems/google-pick-max-distance-pair)|[![Practice][p]](https://www.fastprep.io/problems/google-pick-max-distance-pair)|Feb 16, 2024|
+|**Google**|[Stores and Houses](https://www.fastprep.io/problems/google-find-closest-store)|[![Practice][p]](https://www.fastprep.io/problems/google-find-closest-store)|Feb 16, 2024|
+|**Google**|[Find Min Distance to Furthest Node (Google Tokyo)](https://www.fastprep.io/problems/google-find-min-distance-to-farthest-node)|[![Practice][p]](https://www.fastprep.io/problems/google-find-min-distance-to-farthest-node)|Feb 16, 2024|
+|**Google**|[Pizza Shop (Google Tokyo)](https://www.fastprep.io/problems/google-closest-pizza-price)|[![Practice][p]](https://www.fastprep.io/problems/google-closest-pizza-price)|Feb 16, 2024|
+|**Google**|[Relative Sort (Google Singapore)](https://www.fastprep.io/problems/google-minimum-swaps-to-make-sequences-increasing)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-swaps-to-make-sequences-increasing)|Feb 16, 2024|
+|**Snowflake**|[Radio waves](https://www.fastprep.io/problems/snowflake-radio-waves)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-radio-waves)|Feb 15, 2024|
+|**MathWorks**|[Count Valid Passwords](https://www.fastprep.io/problems/mathwork-count-valid-passwords)|[![Practice][p]](https://www.fastprep.io/problems/mathwork-count-valid-passwords)|Feb 15, 2024|
+|**MathWorks**|[Get Maximum Reward Points](https://www.fastprep.io/problems/mathwork-get-maximum-reward-points)|[![Practice][p]](https://www.fastprep.io/problems/mathwork-get-maximum-reward-points)|Feb 15, 2024|
+|**ZipRecruiter**|[Count Distinct Swappable Digit Pairs](https://www.fastprep.io/problems/ziprecruiter-count-distinct-swappable-digit-pairs)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-distinct-swappable-digit-pairs)|Feb 15, 2024|
+|**ZipRecruiter**|[Time Travel](https://www.fastprep.io/problems/ziprecruiter-time-travel)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-time-travel)|Feb 15, 2024|
+|**ZipRecruiter**|[Exclusive Event Entry](https://www.fastprep.io/problems/ziprecruiter-exclusive-event-entry)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-exclusive-event-entry)|Feb 15, 2024|
+|**ZipRecruiter**|[Distribute Integers Between Arrays](https://www.fastprep.io/problems/ziprecruiter-disctribute-integers-between-arrays)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-disctribute-integers-between-arrays)|Feb 15, 2024|
+|**Amazon**|[Find Recurring Name](https://www.fastprep.io/problems/amazon-find-recurring-names)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-recurring-names)|Feb 14, 2024|
+|**Amazon**|[Find Requests In Queue](https://www.fastprep.io/problems/amazon-find-requests-in-queue)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-requests-in-queue)|Feb 14, 2024|
+|**Meta**|[Buses in a Bustling Town](https://www.fastprep.io/problems/mt-busting-town-buses)|[![Practice][p]](https://www.fastprep.io/problems/mt-busting-town-buses)|Feb 14, 2024|
+|**Snowflake**|[Get Num Ways](https://www.fastprep.io/problems/snowflake-get-num-ways)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-num-ways)|Feb 14, 2024|
+|**Snowflake**|[Find Maximum Number Live Threads](https://www.fastprep.io/problems/snowflake-find-maximum-number-live-threads)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-find-maximum-number-live-threads)|Feb 14, 2024|
+|**TikTok**|[Maximum Value](https://www.fastprep.io/problems/tiktok-maximum-value)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximum-value)|Feb 14, 2024|
+|**TikTok**|[Count Purchases](https://www.fastprep.io/problems/tiktok-count-purchases)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-purchases)|Feb 14, 2024|
+|**TikTok**|[Calculate Validity](https://www.fastprep.io/problems/tiktok-calculate-validity)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-calculate-validity)|Feb 14, 2024|
+|**IBM**|[Validate Requests](https://www.fastprep.io/problems/ibm-request-parser)|[![Practice][p]](https://www.fastprep.io/problems/ibm-request-parser)|Feb 14, 2024|
+|**Oracle**|[Get Discounted Price](https://www.fastprep.io/problems/oracle-get-discounted-price)|[![Practice][p]](https://www.fastprep.io/problems/oracle-get-discounted-price)|Feb 14, 2024|
+|**Oracle**|[Cardinality Sort](https://www.fastprep.io/problems/oracle-cardinality-sort)|[![Practice][p]](https://www.fastprep.io/problems/oracle-cardinality-sort)|Feb 14, 2024|
+|**IBM**|[Find Missing Integers](https://www.fastprep.io/problems/ibm-find-missing-integer)|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-missing-integer)|Feb 08, 2024|
 |**IBM**|[Merge Arrays](https://www.fastprep.io/problems/ibm-merge-arrays)|[![Practice][p]](https://www.fastprep.io/problems/ibm-merge-arrays)|Feb 08, 2024|
 |**Amazon**|[Find Largest Set of Onion Bags](https://www.fastprep.io/problems/amazon-find-largest-set-of-onion-bags)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-largest-set-of-onion-bags)|Feb 06, 2024|
 |**Amazon**|[Minimum Total Errors](https://www.fastprep.io/problems/amazon-min-errors)|[![Practice][p]](https://www.fastprep.io/problems/amazon-min-errors)|Feb 06, 2024|
