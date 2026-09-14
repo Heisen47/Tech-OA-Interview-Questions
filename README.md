@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,006)](formats/coding.md) · [SQL (36)](formats/sql.md) · [System design (321)](formats/system-design.md) · [Low-level design (84)](formats/low-level-design.md) · [AI coding (34)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,011)](formats/coding.md) · [SQL (36)](formats/sql.md) · [System design (321)](formats/system-design.md) · [Low-level design (84)](formats/low-level-design.md) · [AI coding (34)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1423,9 +1423,11 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**IBM**|[Longest Balanced Binary Subarray](https://www.fastprep.io/problems/ibm-longest-balanced-binary-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-longest-balanced-binary-subarray)|Feb 03, 2026|
 |**Razorpay**|[Design and Implement an ATM Machine](https://www.fastprep.io/low-level-design/atm-machine-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/atm-machine-domain)|Feb 02, 2026|
 |**Google**|[Minimum Number of Chairs](https://www.fastprep.io/problems/google-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-meeting-rooms-ii)|Feb 02, 2026|
+|**Google**|[Minimum Dictionary Segments](https://www.fastprep.io/problems/google-minimum-dictionary-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-dictionary-segments)|Feb 02, 2026|
 |**Google**|[Minimum Servers for Cyclic Daily Tasks](https://www.fastprep.io/problems/google-minimum-servers-for-cyclic-daily-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-servers-for-cyclic-daily-tasks)|Feb 01, 2026|
 |**Google**|[Pivot Index After Exactly One Removal](https://www.fastprep.io/problems/google-pivot-index-after-exactly-one-removal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-pivot-index-after-exactly-one-removal)|Feb 01, 2026|
 |**Amazon**|[Minimum Operations to Sort a Permutation](https://www.fastprep.io/problems/amazon-minimum-operations-to-sort-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-operations-to-sort-permutation)|Jan 30, 2026|
+|**Google**|[Reservoir Sampling with Recorded Draws](https://www.fastprep.io/problems/google-reservoir-sampling-with-recorded-draws)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-reservoir-sampling-with-recorded-draws)|Jan 27, 2026|
 |**Amazon**|[Package Delivery System](https://www.fastprep.io/problems/amazon-package-delivery-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-delivery-system)|Jan 24, 2026|
 |**Amazon**|[VM Rental Revenue](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Jan 24, 2026|
 |**Amazon**|[Lexicographically Maximum Final Sequence](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Jan 24, 2026|
@@ -1454,6 +1456,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Amazon**|[Minimum S3 Storage Cost](https://www.fastprep.io/problems/amazon-minimum-s3-storage-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-s3-storage-cost)|Dec 11, 2025|
 |**Flipkart**|[Minimized Total Idle Time](https://www.fastprep.io/problems/flipkart-minimized-total-idle-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flipkart-minimized-total-idle-time)|Dec 11, 2025|
 |**Google**|[The Skyline Problem](https://www.fastprep.io/problems/google-the-skyline-problem)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-the-skyline-problem)|Dec 04, 2025|
+|**Google**|[Run-Length Encode String](https://www.fastprep.io/problems/google-run-length-encode-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-run-length-encode-string)|Dec 04, 2025|
 |**Accenture**|[Array Leader Elements](https://www.fastprep.io/problems/accenture-array-leader-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/accenture-array-leader-elements)|Nov 28, 2025|
 |**Sierra**|[Design a Resumable Streaming AI Chat](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|Nov 24, 2025|
 |**BitGo**|[Design and Implement an In-Memory Relational Database Engine](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Nov 23, 2025|
@@ -1462,6 +1465,8 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**MathWorks**|[Largest Sub-Grid](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Nov 16, 2025|
 |**Two Sigma**|[Calculate y/x using Patch](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Nov 09, 2025|
 |**Google**|[Lexicographically Smallest Array with K-Limited Right Moves](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Nov 08, 2025|
+|**Google**|[First Unique Event in Stream](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Nov 08, 2025|
+|**Google**|[Stable Top K Frequent Words](https://www.fastprep.io/problems/google-stable-top-k-frequent-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-stable-top-k-frequent-words)|Nov 08, 2025|
 |**IBM**|[Process Execution Time](https://www.fastprep.io/problems/ibm-process-execution-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-process-execution-time)|Nov 03, 2025|
 |**IBM**|[Service Timeout Detection](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Nov 03, 2025|
 |**Google**|[Swap Two Numbers](https://www.fastprep.io/problems/google-swap-two-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-swap-two-numbers)|Oct 29, 2025|
@@ -1746,10 +1751,4 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**TikTok**|[Get Total Impact](https://www.fastprep.io/problems/tiktok-get-total-impact)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-total-impact)|Nov 17, 2024|
 |**TikTok**|[Max Profits](https://www.fastprep.io/problems/tiktok-max-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-max-profit)|Nov 17, 2024|
 |**Paypal**|[Find Min Price](https://www.fastprep.io/problems/paypal-find-minimum-price)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypal-find-minimum-price)|Nov 17, 2024|
-|**Amazon**|[Get Min Moves](https://www.fastprep.io/problems/amazon-get-min-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-moves)|Nov 14, 2024|
-|**Amazon**|[Minimize Effort](https://www.fastprep.io/problems/amazon-minimize-effort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-effort)|Nov 14, 2024|
-|**Amazon**|[Get Max Discount Pairs](https://www.fastprep.io/problems/amazon-get-max-discount-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-discount-pairs)|Nov 13, 2024|
-|**Google**|[Get Components in Forest](https://www.fastprep.io/problems/google-get-components-in-forest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-get-components-in-forest)|Nov 13, 2024|
-|**Google**|[Find Max Frequency](https://www.fastprep.io/problems/google-find-maximum-frequency-of-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-maximum-frequency-of-number)|Nov 13, 2024|
-|**Microsoft**|[Reverse An Integer](https://www.fastprep.io/problems/microsoft-reverse-an-integer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-reverse-an-integer)|Nov 13, 2024|
 <a id="bottom"></a>

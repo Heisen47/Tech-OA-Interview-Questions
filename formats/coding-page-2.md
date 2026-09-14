@@ -2,12 +2,18 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,006 questions**
+**2,011 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**IBM**|[Merge Arrays](https://www.fastprep.io/problems/ibm-merge-arrays)|[![Practice][p]](https://www.fastprep.io/problems/ibm-merge-arrays)|Feb 08, 2024|
+|**Amazon**|[Find Largest Set of Onion Bags](https://www.fastprep.io/problems/amazon-find-largest-set-of-onion-bags)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-largest-set-of-onion-bags)|Feb 06, 2024|
+|**Amazon**|[Minimum Total Errors](https://www.fastprep.io/problems/amazon-min-errors)|[![Practice][p]](https://www.fastprep.io/problems/amazon-min-errors)|Feb 06, 2024|
+|**Adobe**|[Get Minimum Operations](https://www.fastprep.io/problems/get-minimum-operations-adobe)|[![Practice][p]](https://www.fastprep.io/problems/get-minimum-operations-adobe)|Feb 06, 2024|
+|**Twilio**|[Find Maximum Greatness](https://www.fastprep.io/problems/twilio-find-maximum-greatness)|[![Practice][p]](https://www.fastprep.io/problems/twilio-find-maximum-greatness)|Feb 06, 2024|
+|**Twilio**|[Count Groups](https://www.fastprep.io/problems/twilio-count-groups)|[![Practice][p]](https://www.fastprep.io/problems/twilio-count-groups)|Feb 06, 2024|
 |**Snowflake**|[Array Reduction Algorithm](https://www.fastprep.io/problems/snowflake-array-reduction-algorithm)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-array-reduction-algorithm)|Feb 05, 2024|
 |**Snowflake**|[Count Ways to Color Houses](https://www.fastprep.io/problems/snowflake-count-ways-to-color-houses)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-count-ways-to-color-houses)|Feb 05, 2024|
 |**Snowflake**|[Count Min Characters](https://www.fastprep.io/problems/snowflake-count-minimum-characters)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-count-minimum-characters)|Feb 05, 2024|
