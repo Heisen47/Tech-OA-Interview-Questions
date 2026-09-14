@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**1,981 questions**
+**1,983 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -995,6 +995,8 @@
 |**Two Sigma**|[Calculate y/x using Patch](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|[![Practice][p]](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Nov 09, 2025|
 |**IBM**|[Process Execution Time](https://www.fastprep.io/problems/ibm-process-execution-time)|[![Practice][p]](https://www.fastprep.io/problems/ibm-process-execution-time)|Nov 03, 2025|
 |**IBM**|[Service Timeout Detection](https://www.fastprep.io/problems/ibm-service-timeout-detection)|[![Practice][p]](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Nov 03, 2025|
+|**Google**|[Swap Two Numbers](https://www.fastprep.io/problems/google-swap-two-numbers)|[![Practice][p]](https://www.fastprep.io/problems/google-swap-two-numbers)|Oct 29, 2025|
+|**Google**|[Transform and Prune a Mode-Valued Binary Tree](https://www.fastprep.io/problems/google-transform-and-prune-mode-valued-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/google-transform-and-prune-mode-valued-binary-tree)|Oct 29, 2025|
 |**Google**|[Minimize the Maximum Pages Allocated](https://www.fastprep.io/problems/google-minimize-maximum-pages-allocation)|[![Practice][p]](https://www.fastprep.io/problems/google-minimize-maximum-pages-allocation)|Oct 16, 2025|
 |**Microsoft**|[Distinct Number Line Moves](https://www.fastprep.io/problems/microsoft-distinct-number-line-moves)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-distinct-number-line-moves)|Oct 16, 2025|
 |**Goldman Sachs**|[Lock Code](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|[![Practice][p]](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|Sep 06, 2025|
@@ -1927,7 +1929,4 @@
 |**Snowflake**|[Job Execution](https://www.fastprep.io/problems/get-minimum-operations)|[![Practice][p]](https://www.fastprep.io/problems/get-minimum-operations)|Jan 12, 2024|
 |**Snowflake**|[Perfect Pairs](https://www.fastprep.io/problems/perfect-pairs)|[![Practice][p]](https://www.fastprep.io/problems/perfect-pairs)|Jan 12, 2024|
 |**Snowflake**|[Cross the Threshold](https://www.fastprep.io/problems/get-max-barrier)|[![Practice][p]](https://www.fastprep.io/problems/get-max-barrier)|Jan 12, 2024|
-|**Snowflake**|[Get Min Cost](https://www.fastprep.io/problems/hackerland-get-min-cost)|[![Practice][p]](https://www.fastprep.io/problems/hackerland-get-min-cost)|Jan 12, 2024|
-|**Snowflake**|[String Patterns](https://www.fastprep.io/problems/calculate-ways)|[![Practice][p]](https://www.fastprep.io/problems/calculate-ways)|Jan 12, 2024|
-|**Amazon**|[Get Discount Pairs](https://www.fastprep.io/problems/get-discount-pairs)|[![Practice][p]](https://www.fastprep.io/problems/get-discount-pairs)|Jan 11, 2024|
 <a id="bottom"></a>

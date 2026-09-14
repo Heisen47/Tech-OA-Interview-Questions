@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**1,981 questions**
+**1,983 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Get Min Cost](https://www.fastprep.io/problems/hackerland-get-min-cost)|[![Practice][p]](https://www.fastprep.io/problems/hackerland-get-min-cost)|Jan 12, 2024|
+|**Snowflake**|[String Patterns](https://www.fastprep.io/problems/calculate-ways)|[![Practice][p]](https://www.fastprep.io/problems/calculate-ways)|Jan 12, 2024|
+|**Amazon**|[Get Discount Pairs](https://www.fastprep.io/problems/get-discount-pairs)|[![Practice][p]](https://www.fastprep.io/problems/get-discount-pairs)|Jan 11, 2024|
 |**Amazon**|[Get Min Cost Data](https://www.fastprep.io/problems/get-min-cost-data)|[![Practice][p]](https://www.fastprep.io/problems/get-min-cost-data)|Jan 10, 2024|
 |**Goldman Sachs**|[Compute Parameter Value](https://www.fastprep.io/problems/compute-parameter-value)|[![Practice][p]](https://www.fastprep.io/problems/compute-parameter-value)|Jan 09, 2024|
 |**Goldman Sachs**|[Max Min](https://www.fastprep.io/problems/max-min)|[![Practice][p]](https://www.fastprep.io/problems/max-min)|Jan 09, 2024|
