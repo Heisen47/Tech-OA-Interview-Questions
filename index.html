@@ -473,19 +473,65 @@
         <div class="note-problem-info">
           <h3 id="note-problem-title" class="note-problem-title">Problem Title</h3>
           <div class="note-problem-meta">
+            <span id="note-problem-companies" class="note-meta-item">Companies: -</span>
+            <span id="note-problem-format" class="note-meta-item">Format: -</span>
             <span id="note-problem-date" class="note-meta-item">Date: -</span>
             <a id="note-problem-link" href="#" target="_blank" rel="noopener" class="note-problem-link">View Problem ↗</a>
           </div>
         </div>
 
-        <div class="form-group">
-          <label for="note-date-solved" class="form-label">Date Solved</label>
-          <input type="date" id="note-date-solved" class="form-input" />
+        <div class="form-row">
+          <div class="form-group">
+            <label for="note-pattern" class="form-label">Pattern / Algorithm</label>
+            <input type="text" id="note-pattern" class="form-input" list="pattern-suggestions" placeholder="e.g. Monotonic Stack, Two Pointers" />
+            <datalist id="pattern-suggestions">
+              <option value="Two Pointers"></option>
+              <option value="Sliding Window"></option>
+              <option value="Monotonic Stack"></option>
+              <option value="Binary Search"></option>
+              <option value="Dynamic Programming (DP)"></option>
+              <option value="BFS / DFS / Graphs"></option>
+              <option value="Binary Tree / BST"></option>
+              <option value="Heap / Priority Queue"></option>
+              <option value="Trie / Prefix Tree"></option>
+              <option value="Greedy"></option>
+              <option value="Backtracking"></option>
+              <option value="Prefix Sum / Hash Map"></option>
+              <option value="Union Find"></option>
+              <option value="Bit Manipulation"></option>
+              <option value="SQL Query"></option>
+              <option value="Low-Level Design (LLD)"></option>
+              <option value="System Design"></option>
+            </datalist>
+          </div>
+
+          <div class="form-group">
+            <label for="note-time-taken" class="form-label">Time Taken (minutes)</label>
+            <input type="number" id="note-time-taken" class="form-input" min="1" max="300" placeholder="e.g. 25" />
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label for="note-quality" class="form-label">Quality / Outcome</label>
+            <select id="note-quality" class="form-input">
+              <option value="Solved Clean">Solved Clean (No Hints)</option>
+              <option value="Needed Hints">Needed Hints</option>
+              <option value="Looked at Solution">Looked at Solution</option>
+              <option value="Needs Review">Needs Review / Retry</option>
+              <option value="Timed Out">Timed Out</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="note-date-solved" class="form-label">Date Solved</label>
+            <input type="date" id="note-date-solved" class="form-input" />
+          </div>
         </div>
 
         <div class="form-group">
           <label for="note-comments" class="form-label">Comments / Notes on this problem</label>
-          <textarea id="note-comments" class="form-textarea" rows="4" placeholder="Notes on solution, time complexity, pitfalls, or key takeaways..."></textarea>
+          <textarea id="note-comments" class="form-textarea" rows="3" placeholder="Notes on solution, time complexity, pitfalls, or key takeaways..."></textarea>
         </div>
       </div>
 

@@ -8,6 +8,7 @@
   const STORAGE_KEY_GSHEET_URL = 'tech_oa_gsheet_url_v1';
   const STORAGE_KEY_COMMENTS = 'tech_oa_comments_v1';
   const STORAGE_KEY_SOLVED_DATES = 'tech_oa_solved_dates_v1';
+  const STORAGE_KEY_NOTES = 'tech_oa_notes_v1';
 
   let rawQuestions = [];
   let metadata = {};
@@ -40,6 +41,12 @@
     solvedDatesMap = JSON.parse(localStorage.getItem(STORAGE_KEY_SOLVED_DATES) || '{}');
   } catch (_) {
     solvedDatesMap = {};
+  }
+  let notesMap = {};
+  try {
+    notesMap = JSON.parse(localStorage.getItem(STORAGE_KEY_NOTES) || '{}');
+  } catch (_) {
+    notesMap = {};
   }
   let activeEditingQuestionId = null;
 
@@ -117,8 +124,13 @@
     noteModal: document.getElementById('note-modal'),
     noteModalCloseBtn: document.getElementById('note-modal-close-btn'),
     noteProblemTitle: document.getElementById('note-problem-title'),
+    noteProblemCompanies: document.getElementById('note-problem-companies'),
+    noteProblemFormat: document.getElementById('note-problem-format'),
     noteProblemDate: document.getElementById('note-problem-date'),
     noteProblemLink: document.getElementById('note-problem-link'),
+    notePattern: document.getElementById('note-pattern'),
+    noteTimeTaken: document.getElementById('note-time-taken'),
+    noteQuality: document.getElementById('note-quality'),
     noteDateSolved: document.getElementById('note-date-solved'),
     noteComments: document.getElementById('note-comments'),
     noteUnmarkBtn: document.getElementById('note-unmark-btn'),
@@ -1127,13 +1139,19 @@
     const items = [];
     rawQuestions.forEach(q => {
       if (solved.has(q.id)) {
+        const note = notesMap[q.id] || {};
         items.push({
           title: q.title,
+          company: (q.companies || []).join(', '),
+          category: q.format || '',
+          pattern: note.pattern || '',
+          timeTaken: note.timeTaken || '',
+          quality: note.quality || 'Solved Clean',
+          status: 'Solved',
+          dateSolved: note.dateSolved || solvedDatesMap[q.id] || new Date().toISOString().split('T')[0],
           link: q.url,
           date: q.date,
-          status: 'Solved',
-          dateSolved: solvedDatesMap[q.id] || new Date().toISOString().split('T')[0],
-          comments: commentsMap[q.id] || '',
+          comments: note.comments || commentsMap[q.id] || '',
         });
       }
     });
@@ -1189,12 +1207,23 @@
 
     activeEditingQuestionId = id;
     els.noteProblemTitle.textContent = q.title;
+    if (els.noteProblemCompanies) {
+      els.noteProblemCompanies.textContent = 'Companies: ' + (q.companies || []).join(', ');
+    }
+    if (els.noteProblemFormat) {
+      els.noteProblemFormat.textContent = 'Format: ' + (q.format || 'Coding');
+    }
     els.noteProblemDate.textContent = 'Reported: ' + q.date;
     els.noteProblemLink.href = q.url;
 
     const isAlreadySolved = solved.has(id);
-    els.noteDateSolved.value = solvedDatesMap[id] || new Date().toISOString().split('T')[0];
-    els.noteComments.value = commentsMap[id] || '';
+    const note = notesMap[id] || {};
+
+    if (els.notePattern) els.notePattern.value = note.pattern || '';
+    if (els.noteTimeTaken) els.noteTimeTaken.value = note.timeTaken || '';
+    if (els.noteQuality) els.noteQuality.value = note.quality || 'Solved Clean';
+    els.noteDateSolved.value = note.dateSolved || solvedDatesMap[id] || new Date().toISOString().split('T')[0];
+    els.noteComments.value = note.comments || commentsMap[id] || '';
 
     if (isAlreadySolved) {
       els.noteUnmarkBtn.style.display = 'inline-flex';
@@ -1205,7 +1234,7 @@
     }
 
     els.noteModal.style.display = 'flex';
-    els.noteComments.focus();
+    if (els.notePattern) els.notePattern.focus();
   }
 
   function closeNoteModal() {
@@ -1219,6 +1248,9 @@
     const q = rawQuestions.find(item => item.id === id);
     if (!q) return;
 
+    const pattern = els.notePattern ? els.notePattern.value.trim() : '';
+    const timeTaken = els.noteTimeTaken ? els.noteTimeTaken.value.trim() : '';
+    const quality = els.noteQuality ? els.noteQuality.value : 'Solved Clean';
     const dateSolved = els.noteDateSolved.value.trim() || new Date().toISOString().split('T')[0];
     const comments = els.noteComments.value.trim();
 
@@ -1232,6 +1264,15 @@
       delete commentsMap[id];
     }
     localStorage.setItem(STORAGE_KEY_COMMENTS, JSON.stringify(commentsMap));
+
+    notesMap[id] = {
+      pattern,
+      timeTaken,
+      quality,
+      dateSolved,
+      comments,
+    };
+    localStorage.setItem(STORAGE_KEY_NOTES, JSON.stringify(notesMap));
     localStorage.setItem(STORAGE_KEY_SOLVED, JSON.stringify(Array.from(solved)));
 
     updateProgressUI();
@@ -1250,10 +1291,15 @@
       if (gsheetUrl) {
         sendToGoogleSheet({
           title: q.title,
-          link: q.url,
-          date: q.date,
+          company: (q.companies || []).join(', '),
+          category: q.format || '',
+          pattern,
+          timeTaken,
+          quality,
           status: 'Solved',
           dateSolved,
+          link: q.url,
+          date: q.date,
           comments,
         });
       } else {
@@ -1283,13 +1329,19 @@
     showToast('Unmarked as solved');
 
     if (gsheetUrl && q) {
+      const note = notesMap[id] || {};
       sendToGoogleSheet({
         title: q.title,
-        link: q.url,
-        date: q.date,
+        company: (q.companies || []).join(', '),
+        category: q.format || '',
+        pattern: note.pattern || '',
+        timeTaken: note.timeTaken || '',
+        quality: note.quality || '',
         status: 'Unsolved',
         dateSolved: '',
-        comments: commentsMap[id] || '',
+        link: q.url,
+        date: q.date,
+        comments: note.comments || commentsMap[id] || '',
       });
     }
   }
