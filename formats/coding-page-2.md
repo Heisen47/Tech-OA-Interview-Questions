@@ -2,12 +2,21 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**1,997 questions**
+**2,006 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Array Reduction Algorithm](https://www.fastprep.io/problems/snowflake-array-reduction-algorithm)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-array-reduction-algorithm)|Feb 05, 2024|
+|**Snowflake**|[Count Ways to Color Houses](https://www.fastprep.io/problems/snowflake-count-ways-to-color-houses)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-count-ways-to-color-houses)|Feb 05, 2024|
+|**Snowflake**|[Count Min Characters](https://www.fastprep.io/problems/snowflake-count-minimum-characters)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-count-minimum-characters)|Feb 05, 2024|
+|**IBM**|[Find Y Values](https://www.fastprep.io/problems/ibm-find-y-value)|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-y-value)|Feb 05, 2024|
+|**IBM**|[Circles](https://www.fastprep.io/problems/ibm-circles)|[![Practice][p]](https://www.fastprep.io/problems/ibm-circles)|Feb 05, 2024|
+|**IBM**|[Get Min Moves](https://www.fastprep.io/problems/ibm-get-minimum-moves)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-moves)|Feb 05, 2024|
+|**Akuna**|[Min Cost (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-min-cost)|[![Practice][p]](https://www.fastprep.io/problems/akuna-min-cost)|Feb 02, 2024|
+|**Akuna**|[Minimum Chunks Required (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|Feb 02, 2024|
+|**Akuna**|[Diffierence Calculator (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-difference-calculator)|[![Practice][p]](https://www.fastprep.io/problems/akuna-difference-calculator)|Feb 02, 2024|
 |**Snowflake**|[Get Max Upgraded Servers](https://www.fastprep.io/problems/snowflake-get-max-upgraded-servers)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-max-upgraded-servers)|Feb 02, 2024|
 |**Snowflake**|[Efficient Cost](https://www.fastprep.io/problems/snowflake-efficient-cost)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-efficient-cost)|Feb 02, 2024|
 |**TikTok**|[Segment Queries](https://www.fastprep.io/problems/tiktok-segment-queries)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-segment-queries)|Feb 02, 2024|
