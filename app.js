@@ -5,6 +5,9 @@
   const STORAGE_KEY_SOLVED = 'tech_oa_solved_v1';
   const STORAGE_KEY_VIEW = 'tech_oa_view_mode_v1';
   const STORAGE_KEY_PAGE_SIZE = 'tech_oa_page_size_v1';
+  const STORAGE_KEY_GSHEET_URL = 'tech_oa_gsheet_url_v1';
+  const STORAGE_KEY_COMMENTS = 'tech_oa_comments_v1';
+  const STORAGE_KEY_SOLVED_DATES = 'tech_oa_solved_dates_v1';
 
   let rawQuestions = [];
   let metadata = {};
@@ -24,6 +27,21 @@
 
   const bookmarks = new Set(JSON.parse(localStorage.getItem(STORAGE_KEY_BOOKMARKS) || '[]'));
   const solved = new Set(JSON.parse(localStorage.getItem(STORAGE_KEY_SOLVED) || '[]'));
+
+  let gsheetUrl = localStorage.getItem(STORAGE_KEY_GSHEET_URL) || '';
+  let commentsMap = {};
+  try {
+    commentsMap = JSON.parse(localStorage.getItem(STORAGE_KEY_COMMENTS) || '{}');
+  } catch (_) {
+    commentsMap = {};
+  }
+  let solvedDatesMap = {};
+  try {
+    solvedDatesMap = JSON.parse(localStorage.getItem(STORAGE_KEY_SOLVED_DATES) || '{}');
+  } catch (_) {
+    solvedDatesMap = {};
+  }
+  let activeEditingQuestionId = null;
 
   const els = {
     loading: document.getElementById('loading-state'),
@@ -83,6 +101,29 @@
     modalPracticeBtn: document.getElementById('modal-practice-btn'),
     modalStarBtn: document.getElementById('modal-star-btn'),
     modalCheckBtn: document.getElementById('modal-check-btn'),
+
+    gsheetOpenBtn: document.getElementById('gsheet-open-btn'),
+    gsheetStatusDot: document.getElementById('gsheet-status-dot'),
+    gsheetModal: document.getElementById('gsheet-modal'),
+    gsheetModalCloseBtn: document.getElementById('gsheet-modal-close-btn'),
+    gsheetWebhookUrl: document.getElementById('gsheet-webhook-url'),
+    gsheetConnectionStatus: document.getElementById('gsheet-connection-status'),
+    gsheetStatusText: document.getElementById('gsheet-status-text'),
+    gsheetTestBtn: document.getElementById('gsheet-test-btn'),
+    gsheetSyncAllBtn: document.getElementById('gsheet-sync-all-btn'),
+    gsheetSyncCount: document.getElementById('gsheet-sync-count'),
+    gsheetSaveBtn: document.getElementById('gsheet-save-btn'),
+
+    noteModal: document.getElementById('note-modal'),
+    noteModalCloseBtn: document.getElementById('note-modal-close-btn'),
+    noteProblemTitle: document.getElementById('note-problem-title'),
+    noteProblemDate: document.getElementById('note-problem-date'),
+    noteProblemLink: document.getElementById('note-problem-link'),
+    noteDateSolved: document.getElementById('note-date-solved'),
+    noteComments: document.getElementById('note-comments'),
+    noteUnmarkBtn: document.getElementById('note-unmark-btn'),
+    noteQuickSaveBtn: document.getElementById('note-quick-save-btn'),
+    noteSaveSyncBtn: document.getElementById('note-save-sync-btn'),
   };
 
   let currentRandomQuestion = null;
@@ -116,6 +157,8 @@
     renderStats();
     populateCompanyOptions();
     populateQuickCompanyChips();
+    updateGSheetStatusUI();
+    updateGSheetSyncCount();
   }
 
   function renderStats() {
@@ -352,22 +395,44 @@
 
     els.modalCheckBtn.addEventListener('click', () => {
       if (currentRandomQuestion) {
-        toggleSolved(currentRandomQuestion.id);
-        updateModalActionButtons();
+        openNoteModal(currentRandomQuestion.id);
       }
     });
 
+    if (els.gsheetOpenBtn) els.gsheetOpenBtn.addEventListener('click', openGSheetModal);
+    if (els.gsheetModalCloseBtn) els.gsheetModalCloseBtn.addEventListener('click', closeGSheetModal);
+    if (els.gsheetModal) {
+      els.gsheetModal.addEventListener('click', e => {
+        if (e.target === els.gsheetModal) closeGSheetModal();
+      });
+    }
+    if (els.gsheetSaveBtn) els.gsheetSaveBtn.addEventListener('click', saveGSheetUrl);
+    if (els.gsheetTestBtn) els.gsheetTestBtn.addEventListener('click', testGSheetConnection);
+    if (els.gsheetSyncAllBtn) els.gsheetSyncAllBtn.addEventListener('click', syncAllSolvedToSheet);
+
+    if (els.noteModalCloseBtn) els.noteModalCloseBtn.addEventListener('click', closeNoteModal);
+    if (els.noteModal) {
+      els.noteModal.addEventListener('click', e => {
+        if (e.target === els.noteModal) closeNoteModal();
+      });
+    }
+    if (els.noteSaveSyncBtn) els.noteSaveSyncBtn.addEventListener('click', () => saveProblemNote(true));
+    if (els.noteQuickSaveBtn) els.noteQuickSaveBtn.addEventListener('click', () => saveProblemNote(false));
+    if (els.noteUnmarkBtn) els.noteUnmarkBtn.addEventListener('click', unmarkCurrentProblem);
+
     window.addEventListener('keydown', e => {
-      if (e.key === '/' && document.activeElement !== els.searchInput && document.activeElement !== els.companyMenuSearch) {
+      if (e.key === '/' && document.activeElement !== els.searchInput && document.activeElement !== els.companyMenuSearch && document.activeElement !== els.noteComments && document.activeElement !== els.gsheetWebhookUrl) {
         e.preventDefault();
         els.searchInput.focus();
         els.searchInput.select();
-      } else if (e.key.toLowerCase() === 'r' && document.activeElement !== els.searchInput && document.activeElement !== els.companyMenuSearch) {
+      } else if (e.key.toLowerCase() === 'r' && document.activeElement !== els.searchInput && document.activeElement !== els.companyMenuSearch && document.activeElement !== els.noteComments && document.activeElement !== els.gsheetWebhookUrl) {
         e.preventDefault();
         pickRandomQuestion();
       } else if (e.key === 'Escape') {
         closeCompanyMenu();
         closeRandomModal();
+        closeGSheetModal();
+        closeNoteModal();
         if (document.activeElement === els.searchInput) {
           els.searchInput.blur();
         }
@@ -401,7 +466,14 @@
     const checkBtn = e.target.closest('[data-action="check"]');
     if (checkBtn) {
       const id = checkBtn.dataset.id;
-      toggleSolved(id);
+      openNoteModal(id);
+      return;
+    }
+
+    const noteBtn = e.target.closest('[data-action="note"]');
+    if (noteBtn) {
+      const id = noteBtn.dataset.id;
+      openNoteModal(id);
       return;
     }
 
@@ -447,17 +519,28 @@
   function updateItemStateInDOM(id) {
     const isBookmarked = bookmarks.has(id);
     const isSolved = solved.has(id);
+    const hasNotes = !!(commentsMap[id] && commentsMap[id].trim());
 
     const starBtns = document.querySelectorAll(`[data-action="star"][data-id="${id}"]`);
     starBtns.forEach(btn => {
       btn.classList.toggle('active-star', isBookmarked);
       btn.title = isBookmarked ? 'Remove bookmark' : 'Bookmark question';
+      const svg = btn.querySelector('svg');
+      if (svg) svg.setAttribute('fill', isBookmarked ? 'currentColor' : 'none');
     });
 
     const checkBtns = document.querySelectorAll(`[data-action="check"][data-id="${id}"]`);
     checkBtns.forEach(btn => {
       btn.classList.toggle('active-check', isSolved);
-      btn.title = isSolved ? 'Mark as unsolved' : 'Mark as solved';
+      btn.title = isSolved ? 'Solved! Click to edit notes/status' : 'Mark as solved';
+      const svg = btn.querySelector('svg');
+      if (svg) svg.setAttribute('fill', isSolved ? 'currentColor' : 'none');
+    });
+
+    const noteBtns = document.querySelectorAll(`[data-action="note"][data-id="${id}"]`);
+    noteBtns.forEach(btn => {
+      btn.classList.toggle('has-notes', hasNotes);
+      btn.title = hasNotes ? 'View/edit notes' : 'Add notes';
     });
   }
 
@@ -701,6 +784,7 @@
     const rows = items.map(q => {
       const isBookmarked = bookmarks.has(q.id);
       const isSolved = solved.has(q.id);
+      const hasNotes = !!(commentsMap[q.id] && commentsMap[q.id].trim());
 
       const companyHtml = q.companies.map(comp => {
         const domain = q.domains ? q.domains[comp] : null;
@@ -723,10 +807,16 @@
                   <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
                 </svg>
               </button>
-              <button type="button" class="action-icon-btn ${isSolved ? 'active-check' : ''}" data-action="check" data-id="${q.id}" title="${isSolved ? 'Mark as unsolved' : 'Mark as solved'}">
+              <button type="button" class="action-icon-btn ${isSolved ? 'active-check' : ''}" data-action="check" data-id="${q.id}" title="${isSolved ? 'Solved! Click to edit notes/status' : 'Mark as solved'}">
                 <svg width="15" height="15" viewBox="0 0 24 24" fill="${isSolved ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2">
                   <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                   <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                </svg>
+              </button>
+              <button type="button" class="action-icon-btn ${hasNotes ? 'has-notes' : ''}" data-action="note" data-id="${q.id}" title="${hasNotes ? 'View/edit notes' : 'Add notes'}">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path>
+                  <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>
                 </svg>
               </button>
             </div>
@@ -767,6 +857,7 @@
     const cards = items.map(q => {
       const isBookmarked = bookmarks.has(q.id);
       const isSolved = solved.has(q.id);
+      const hasNotes = !!(commentsMap[q.id] && commentsMap[q.id].trim());
 
       const companyHtml = q.companies.map(comp => {
         const domain = q.domains ? q.domains[comp] : null;
@@ -790,10 +881,16 @@
                   <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
                 </svg>
               </button>
-              <button type="button" class="action-icon-btn ${isSolved ? 'active-check' : ''}" data-action="check" data-id="${q.id}" title="${isSolved ? 'Mark as unsolved' : 'Mark as solved'}">
+              <button type="button" class="action-icon-btn ${isSolved ? 'active-check' : ''}" data-action="check" data-id="${q.id}" title="${isSolved ? 'Solved! Click to edit notes/status' : 'Mark as solved'}">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="${isSolved ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2">
                   <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
                   <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                </svg>
+              </button>
+              <button type="button" class="action-icon-btn ${hasNotes ? 'has-notes' : ''}" data-action="note" data-id="${q.id}" title="${hasNotes ? 'View/edit notes' : 'Add notes'}">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path>
+                  <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>
                 </svg>
               </button>
             </div>
@@ -915,12 +1012,286 @@
     els.modalStarBtn.querySelector('svg').setAttribute('fill', isBookmarked ? 'currentColor' : 'none');
 
     els.modalCheckBtn.classList.toggle('active-check', isSolved);
-    els.modalCheckBtn.title = isSolved ? 'Mark as unsolved' : 'Mark as solved';
+    els.modalCheckBtn.title = isSolved ? 'Solved! Click to edit notes/status' : 'Mark as solved';
     els.modalCheckBtn.querySelector('svg').setAttribute('fill', isSolved ? 'currentColor' : 'none');
   }
 
   function closeRandomModal() {
     els.randomModal.style.display = 'none';
+  }
+
+  function updateGSheetStatusUI() {
+    if (gsheetUrl) {
+      updateGSheetDot('connected');
+      if (els.gsheetStatusText) {
+        els.gsheetStatusText.innerHTML = '<strong style="color:#10b981;">Connected</strong> (' + escapeHTML(gsheetUrl.slice(0, 32)) + '...)';
+      }
+      if (els.gsheetWebhookUrl) els.gsheetWebhookUrl.value = gsheetUrl;
+    } else {
+      updateGSheetDot('disconnected');
+      if (els.gsheetStatusText) {
+        els.gsheetStatusText.innerHTML = '<span style="color:#94a3b8;">Not configured</span>';
+      }
+    }
+  }
+
+  function updateGSheetDot(status) {
+    if (!els.gsheetStatusDot) return;
+    els.gsheetStatusDot.classList.remove('connected', 'syncing');
+    if (status === 'connected') {
+      els.gsheetStatusDot.classList.add('connected');
+      els.gsheetStatusDot.title = 'Google Sheet connected';
+    } else if (status === 'syncing') {
+      els.gsheetStatusDot.classList.add('syncing');
+      els.gsheetStatusDot.title = 'Syncing to Google Sheet...';
+    } else {
+      els.gsheetStatusDot.title = 'Google Sheet not configured';
+    }
+  }
+
+  function updateGSheetSyncCount() {
+    if (els.gsheetSyncCount) {
+      els.gsheetSyncCount.textContent = String(solved.size);
+    }
+  }
+
+  function openGSheetModal() {
+    if (els.gsheetWebhookUrl) els.gsheetWebhookUrl.value = gsheetUrl;
+    updateGSheetStatusUI();
+    updateGSheetSyncCount();
+    els.gsheetModal.style.display = 'flex';
+  }
+
+  function closeGSheetModal() {
+    els.gsheetModal.style.display = 'none';
+  }
+
+  function saveGSheetUrl() {
+    const val = els.gsheetWebhookUrl.value.trim();
+    gsheetUrl = val;
+    if (val) {
+      localStorage.setItem(STORAGE_KEY_GSHEET_URL, val);
+      showToast('Webhook URL saved!');
+    } else {
+      localStorage.removeItem(STORAGE_KEY_GSHEET_URL);
+      showToast('Webhook URL cleared');
+    }
+    updateGSheetStatusUI();
+  }
+
+  async function testGSheetConnection() {
+    const url = (els.gsheetWebhookUrl.value || gsheetUrl).trim();
+    if (!url) {
+      if (els.gsheetStatusText) {
+        els.gsheetStatusText.innerHTML = '<span style="color:#f87171;">Enter a Webhook URL first</span>';
+      }
+      return;
+    }
+    if (els.gsheetStatusText) {
+      els.gsheetStatusText.innerHTML = '<span style="color:#60a5fa;">Testing connection...</span>';
+    }
+    updateGSheetDot('syncing');
+
+    try {
+      await fetch(url, {
+        method: 'POST',
+        mode: 'no-cors',
+        headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+        body: JSON.stringify({ action: 'ping' }),
+      });
+      updateGSheetDot('connected');
+      if (els.gsheetStatusText) {
+        els.gsheetStatusText.innerHTML = '<strong style="color:#10b981;">Ping sent successfully!</strong>';
+      }
+      showToast('Ping sent to Google Sheet');
+    } catch (err) {
+      updateGSheetDot('disconnected');
+      if (els.gsheetStatusText) {
+        els.gsheetStatusText.innerHTML = `<span style="color:#f87171;">Connection error: ${escapeHTML(err.message)}</span>`;
+      }
+      showToast('Ping failed');
+    }
+  }
+
+  async function syncAllSolvedToSheet() {
+    const url = (els.gsheetWebhookUrl.value || gsheetUrl).trim();
+    if (!url) {
+      showToast('Please enter and save your Webhook URL first');
+      return;
+    }
+    if (solved.size === 0) {
+      showToast('No solved problems to sync yet');
+      return;
+    }
+
+    const items = [];
+    rawQuestions.forEach(q => {
+      if (solved.has(q.id)) {
+        items.push({
+          title: q.title,
+          link: q.url,
+          date: q.date,
+          status: 'Solved',
+          dateSolved: solvedDatesMap[q.id] || new Date().toISOString().split('T')[0],
+          comments: commentsMap[q.id] || '',
+        });
+      }
+    });
+
+    if (els.gsheetStatusText) {
+      els.gsheetStatusText.innerHTML = `<span style="color:#60a5fa;">Syncing ${items.length} items to sheet...</span>`;
+    }
+    updateGSheetDot('syncing');
+
+    try {
+      await fetch(url, {
+        method: 'POST',
+        mode: 'no-cors',
+        headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+        body: JSON.stringify({ action: 'batch', items }),
+      });
+      updateGSheetDot('connected');
+      if (els.gsheetStatusText) {
+        els.gsheetStatusText.innerHTML = `<strong style="color:#10b981;">Successfully synced ${items.length} problems!</strong>`;
+      }
+      showToast(`Synced ${items.length} problems to Google Sheet`);
+    } catch (err) {
+      updateGSheetDot('connected');
+      if (els.gsheetStatusText) {
+        els.gsheetStatusText.innerHTML = `<span style="color:#f87171;">Sync failed: ${escapeHTML(err.message)}</span>`;
+      }
+      showToast('Failed to sync to Google Sheet');
+    }
+  }
+
+  async function sendToGoogleSheet(payload) {
+    if (!gsheetUrl) return;
+    updateGSheetDot('syncing');
+    try {
+      await fetch(gsheetUrl, {
+        method: 'POST',
+        mode: 'no-cors',
+        headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+        body: JSON.stringify(payload),
+      });
+      updateGSheetDot('connected');
+      showToast('Synced to Google Sheet');
+    } catch (err) {
+      console.error('GSheet sync error:', err);
+      updateGSheetDot('connected');
+      showToast('Failed to sync to Google Sheet');
+    }
+  }
+
+  function openNoteModal(id) {
+    const q = rawQuestions.find(item => item.id === id);
+    if (!q) return;
+
+    activeEditingQuestionId = id;
+    els.noteProblemTitle.textContent = q.title;
+    els.noteProblemDate.textContent = 'Reported: ' + q.date;
+    els.noteProblemLink.href = q.url;
+
+    const isAlreadySolved = solved.has(id);
+    els.noteDateSolved.value = solvedDatesMap[id] || new Date().toISOString().split('T')[0];
+    els.noteComments.value = commentsMap[id] || '';
+
+    if (isAlreadySolved) {
+      els.noteUnmarkBtn.style.display = 'inline-flex';
+      els.noteSaveSyncBtn.textContent = 'Update & Sync to Sheet';
+    } else {
+      els.noteUnmarkBtn.style.display = 'none';
+      els.noteSaveSyncBtn.textContent = 'Mark Solved & Sync';
+    }
+
+    els.noteModal.style.display = 'flex';
+    els.noteComments.focus();
+  }
+
+  function closeNoteModal() {
+    els.noteModal.style.display = 'none';
+    activeEditingQuestionId = null;
+  }
+
+  function saveProblemNote(syncGSheet) {
+    if (!activeEditingQuestionId) return;
+    const id = activeEditingQuestionId;
+    const q = rawQuestions.find(item => item.id === id);
+    if (!q) return;
+
+    const dateSolved = els.noteDateSolved.value.trim() || new Date().toISOString().split('T')[0];
+    const comments = els.noteComments.value.trim();
+
+    solved.add(id);
+    solvedDatesMap[id] = dateSolved;
+    localStorage.setItem(STORAGE_KEY_SOLVED_DATES, JSON.stringify(solvedDatesMap));
+
+    if (comments) {
+      commentsMap[id] = comments;
+    } else {
+      delete commentsMap[id];
+    }
+    localStorage.setItem(STORAGE_KEY_COMMENTS, JSON.stringify(commentsMap));
+    localStorage.setItem(STORAGE_KEY_SOLVED, JSON.stringify(Array.from(solved)));
+
+    updateProgressUI();
+    updateGSheetSyncCount();
+
+    if (state.status === 'solved' || state.status === 'unsolved') {
+      applyFiltersAndRender();
+    } else {
+      updateItemStateInDOM(id);
+    }
+
+    closeNoteModal();
+    showToast('Saved as solved!');
+
+    if (syncGSheet) {
+      if (gsheetUrl) {
+        sendToGoogleSheet({
+          title: q.title,
+          link: q.url,
+          date: q.date,
+          status: 'Solved',
+          dateSolved,
+          comments,
+        });
+      } else {
+        showToast('Saved locally. Click "Google Sheet" in header to configure sync.');
+      }
+    }
+  }
+
+  function unmarkCurrentProblem() {
+    if (!activeEditingQuestionId) return;
+    const id = activeEditingQuestionId;
+    const q = rawQuestions.find(item => item.id === id);
+
+    solved.delete(id);
+    localStorage.setItem(STORAGE_KEY_SOLVED, JSON.stringify(Array.from(solved)));
+
+    updateProgressUI();
+    updateGSheetSyncCount();
+
+    if (state.status === 'solved' || state.status === 'unsolved') {
+      applyFiltersAndRender();
+    } else {
+      updateItemStateInDOM(id);
+    }
+
+    closeNoteModal();
+    showToast('Unmarked as solved');
+
+    if (gsheetUrl && q) {
+      sendToGoogleSheet({
+        title: q.title,
+        link: q.url,
+        date: q.date,
+        status: 'Unsolved',
+        dateSolved: '',
+        comments: commentsMap[id] || '',
+      });
+    }
   }
 
   function showToast(msg) {

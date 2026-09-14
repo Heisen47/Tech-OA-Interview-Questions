@@ -1318,8 +1318,9 @@ body {
   color: #a5b4fc;
 }
 
-/* Randomizer Modal Backdrop & Card */
-.modal-backdrop {
+/* Randomizer & Settings Modal Backdrop & Card */
+.modal-backdrop,
+.modal-overlay {
   position: fixed;
   top: 0;
   left: 0;
@@ -1481,5 +1482,170 @@ body {
     width: 100%;
     justify-content: center;
   }
+}
+
+/* Google Sheets Integration & Notes */
+.gsheet-header-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+}
+
+.gsheet-status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #64748b;
+  display: inline-block;
+  transition: background 0.2s ease;
+}
+
+.gsheet-status-dot.connected {
+  background: #10b981;
+  box-shadow: 0 0 6px rgba(16, 185, 129, 0.6);
+}
+
+.gsheet-status-dot.syncing {
+  background: #3b82f6;
+  box-shadow: 0 0 6px rgba(59, 130, 246, 0.8);
+  animation: pulse-dot 1s infinite alternate;
+}
+
+@keyframes pulse-dot {
+  from { opacity: 0.4; }
+  to { opacity: 1; }
+}
+
+.gsheet-desc {
+  color: var(--text-secondary);
+  font-size: 0.88rem;
+  line-height: 1.5;
+  margin-bottom: 6px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.form-label {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+.form-input,
+.form-textarea {
+  background: var(--bg-surface-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 10px 14px;
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.form-input:focus,
+.form-textarea:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.2);
+}
+
+.form-textarea {
+  resize: vertical;
+  min-height: 80px;
+  line-height: 1.5;
+}
+
+.form-help {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  line-height: 1.4;
+}
+
+.form-help code {
+  font-family: var(--font-mono);
+  color: #93c5fd;
+  background: rgba(147, 197, 253, 0.1);
+  padding: 1px 4px;
+  border-radius: 3px;
+}
+
+.gsheet-status-banner {
+  padding: 10px 14px;
+  border-radius: var(--radius-md);
+  font-size: 0.84rem;
+  background: rgba(30, 41, 59, 0.5);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-secondary);
+}
+
+.gsheet-status-banner strong {
+  color: var(--text-primary);
+}
+
+.note-problem-info {
+  padding: 12px 14px;
+  background: rgba(15, 23, 42, 0.5);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.note-problem-title {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #f8fafc;
+  line-height: 1.35;
+}
+
+.note-problem-meta {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.note-problem-link {
+  color: #60a5fa;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.note-problem-link:hover {
+  text-decoration: underline;
+}
+
+.status-solved-badge {
+  background: rgba(16, 185, 129, 0.15);
+  color: #34d399;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.btn-danger {
+  background: rgba(239, 68, 68, 0.12);
+  color: #f87171;
+  border: 1px solid rgba(239, 68, 68, 0.3);
+}
+
+.btn-danger:hover {
+  background: rgba(239, 68, 68, 0.22);
+  color: #fca5a5;
+}
+
+.action-icon-btn.has-notes {
+  color: #60a5fa;
+}
+
+.action-icon-btn.has-notes:hover {
+  color: #93c5fd;
 }
 

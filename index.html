@@ -31,6 +31,17 @@
       </div>
 
       <div class="header-actions">
+        <button type="button" id="gsheet-open-btn" class="btn btn-secondary gsheet-header-btn" title="Configure Google Sheets Sync">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+            <polyline points="14 2 14 8 20 8"></polyline>
+            <line x1="8" y1="13" x2="16" y2="13"></line>
+            <line x1="8" y1="17" x2="16" y2="17"></line>
+            <line x1="10" y1="9" x2="10" y2="9.01"></line>
+          </svg>
+          <span>Google Sheet</span>
+          <span id="gsheet-status-dot" class="gsheet-status-dot" title="Not connected"></span>
+        </button>
         <a href="https://discord.gg/kSbWpSGUTH" target="_blank" rel="noopener" class="btn btn-secondary">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
             <path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994.021-.041.001-.09-.041-.106a13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.929 1.793 8.18 1.793 12.061 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.893.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.028zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z"/>
@@ -395,6 +406,102 @@
               <polyline points="9 18 15 12 9 6"></polyline>
             </svg>
           </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Google Sheet Sync Settings Modal -->
+  <div id="gsheet-modal" class="modal-backdrop" aria-hidden="true" style="display: none;">
+    <div class="modal-card gsheet-modal-card">
+      <div class="modal-header">
+        <div class="modal-title-wrap">
+          <span class="pill-badge format-badge fmt-coding">Sync</span>
+          <h2>Google Sheets Integration</h2>
+        </div>
+        <button type="button" id="gsheet-modal-close-btn" class="modal-close-btn" aria-label="Close modal">✕</button>
+      </div>
+
+      <div class="modal-body gsheet-modal-body">
+        <p class="gsheet-desc">
+          Sync your solved problems directly to Google Sheets with only: <strong>Title</strong>, <strong>Problem Link</strong>, <strong>Date</strong>, <strong>Status</strong>, <strong>Date Solved</strong>, and <strong>Comments</strong>.
+        </p>
+
+        <div class="form-group">
+          <label for="gsheet-webhook-url" class="form-label">Google Apps Script Webhook URL</label>
+          <input type="url" id="gsheet-webhook-url" class="form-input" placeholder="https://script.google.com/macros/s/.../exec" />
+          <p class="form-help">
+            Deploy the script in <code>scripts/google-sheets-apps-script.js</code> as a Web App (Access: Anyone) in your Google Sheet, then paste the URL here.
+          </p>
+        </div>
+
+        <div class="gsheet-status-banner" id="gsheet-connection-status">
+          Status: <span id="gsheet-status-text">Not configured</span>
+        </div>
+      </div>
+
+      <div class="modal-footer gsheet-modal-footer">
+        <div class="modal-actions-left">
+          <button type="button" id="gsheet-test-btn" class="btn btn-secondary">
+            <span>Test Connection</span>
+          </button>
+          <button type="button" id="gsheet-sync-all-btn" class="btn btn-secondary" title="Sync all currently solved questions to sheet">
+            <span>Sync All Solved (<span id="gsheet-sync-count">0</span>)</span>
+          </button>
+        </div>
+        <div class="modal-actions-right">
+          <button type="button" id="gsheet-save-btn" class="btn btn-primary">
+            <span>Save URL</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mark Solved & Notes Modal -->
+  <div id="note-modal" class="modal-backdrop" aria-hidden="true" style="display: none;">
+    <div class="modal-card note-modal-card">
+      <div class="modal-header">
+        <div class="modal-title-wrap">
+          <span class="pill-badge status-solved-badge">✓ Solved</span>
+          <h2>Problem Notes & Status</h2>
+        </div>
+        <button type="button" id="note-modal-close-btn" class="modal-close-btn" aria-label="Close modal">✕</button>
+      </div>
+
+      <div class="modal-body note-modal-body">
+        <div class="note-problem-info">
+          <h3 id="note-problem-title" class="note-problem-title">Problem Title</h3>
+          <div class="note-problem-meta">
+            <span id="note-problem-date" class="note-meta-item">Date: -</span>
+            <a id="note-problem-link" href="#" target="_blank" rel="noopener" class="note-problem-link">View Problem ↗</a>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="note-date-solved" class="form-label">Date Solved</label>
+          <input type="date" id="note-date-solved" class="form-input" />
+        </div>
+
+        <div class="form-group">
+          <label for="note-comments" class="form-label">Comments / Notes on this problem</label>
+          <textarea id="note-comments" class="form-textarea" rows="4" placeholder="Notes on solution, time complexity, pitfalls, or key takeaways..."></textarea>
+        </div>
+      </div>
+
+      <div class="modal-footer note-modal-footer">
+        <div class="modal-actions-left">
+          <button type="button" id="note-unmark-btn" class="btn btn-danger" style="display: none;">
+            <span>Unmark Solved</span>
+          </button>
+        </div>
+        <div class="modal-actions-right">
+          <button type="button" id="note-quick-save-btn" class="btn btn-secondary">
+            <span>Save Locally Only</span>
+          </button>
+          <button type="button" id="note-save-sync-btn" class="btn btn-primary">
+            <span>Save & Sync to Sheet</span>
+          </button>
         </div>
       </div>
     </div>
