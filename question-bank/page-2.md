@@ -9,6 +9,23 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Longest Non-Decreasing Subarray](https://www.fastprep.io/problems/google-find-maximum-length-of-non-decreasing-subarray-follow-up)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-maximum-length-of-non-decreasing-subarray-follow-up)|Nov 12, 2024|
+|**Google**|[Find Maximum Length Of Non-Decreasing Subarray](https://www.fastprep.io/problems/google-find-maximum-length-of-non-decreasing-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-maximum-length-of-non-decreasing-subarray)|Nov 12, 2024|
+|**Amazon**|[Optimize Identifiers](https://www.fastprep.io/problems/amazon-optimized-identifiers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimized-identifiers)|Nov 09, 2024|
+|**Google**|[Transform String](https://www.fastprep.io/problems/google-transform-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-transform-string)|Nov 09, 2024|
+|**Google**|[Build Maximum Integer](https://www.fastprep.io/problems/google-build-maximum-integer-from-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-build-maximum-integer-from-subarray)|Nov 09, 2024|
+|**Google**|[Maximize Points](https://www.fastprep.io/problems/google-maximize-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-points)|Nov 05, 2024|
+|**Google**|[Find Contiguous Subarray With Largest Min Plux Max](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Nov 05, 2024|
+|**Amazon**|[Find Min Variance](https://www.fastprep.io/problems/amazon-find-minimum-possible-variance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-possible-variance)|Oct 30, 2024|
+|**Amazon**|[Find Min Time Required](https://www.fastprep.io/problems/amazon-find-minimum-time-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time-required)|Oct 30, 2024|
+|**Amazon**|[Cleanup Dataset](https://www.fastprep.io/problems/amazon-cleanup-dataset)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-cleanup-dataset)|Oct 30, 2024|
+|**Salesforce**|[Max Sum of Processed Time](https://www.fastprep.io/problems/salesforce-maximize-sum-of-processed-times)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-maximize-sum-of-processed-times)|Oct 30, 2024|
+|**Google**|[Num of Ways to Split Array](https://www.fastprep.io/problems/google-find-number-of-ways-to-split-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-number-of-ways-to-split-array)|Oct 30, 2024|
+|**DoorDash**|[Team Formation](https://www.fastprep.io/problems/doordash-team-formation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-team-formation)|Oct 30, 2024|
+|**DoorDash**|[Get Final Price](https://www.fastprep.io/problems/doordash-get-final-price)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-get-final-price)|Oct 30, 2024|
+|**IBM**|[Count Teams](https://www.fastprep.io/problems/ibm-count-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-teams)|Oct 30, 2024|
+|**Amazon**|[Calculate Warehouse Efficiency](https://www.fastprep.io/problems/amazon-calculate-warehouse-efficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-warehouse-efficiency)|Oct 28, 2024|
+|**Amazon**|[Make All Elements Distinct](https://www.fastprep.io/problems/amazon-make-all-elements-distinct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-make-all-elements-distinct)|Oct 28, 2024|
 |**Amazon**|[Maximize Similarity](https://www.fastprep.io/problems/amazon-maximize-similarity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-similarity)|Oct 28, 2024|
 |**Amazon**|[Find Networking Calls](https://www.fastprep.io/problems/amazon-find-network-calls)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-network-calls)|Oct 28, 2024|
 |**Amazon**|[Get Smaller Items](https://www.fastprep.io/problems/amazon-get-smaller-items)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-smaller-items)|Oct 22, 2024|
@@ -606,7 +623,6 @@
 |**Google**|[Ways to Split a String](https://www.fastprep.io/problems/google-number-of-ways-to-split-a-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-number-of-ways-to-split-a-string)|Feb 16, 2024|
 |**Google**|[Maximum Time](https://www.fastprep.io/problems/google-maximum-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-time)|Feb 16, 2024|
 |**Google**|[Most Booked Hotel Room](https://www.fastprep.io/problems/google-most-booked-hotel-room)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-most-booked-hotel-room)|Feb 16, 2024|
-|**Google**|[Min Number of Chairs](https://www.fastprep.io/problems/google-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-meeting-rooms-ii)|Feb 16, 2024|
 |**Google**|[Min Days to Bloom](https://www.fastprep.io/problems/google-min-days-bouquets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-min-days-bouquets)|Feb 16, 2024|
 |**Google**|[Fill Matrix](https://www.fastprep.io/problems/google-fill-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-fill-matrix)|Feb 16, 2024|
 |**Google**|[Time to Type a String](https://www.fastprep.io/problems/google-single-row-keyboard)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-single-row-keyboard)|Feb 16, 2024|

@@ -2,12 +2,31 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**1,983 questions**
+**1,997 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Get Max Upgraded Servers](https://www.fastprep.io/problems/snowflake-get-max-upgraded-servers)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-max-upgraded-servers)|Feb 02, 2024|
+|**Snowflake**|[Efficient Cost](https://www.fastprep.io/problems/snowflake-efficient-cost)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-efficient-cost)|Feb 02, 2024|
+|**TikTok**|[Segment Queries](https://www.fastprep.io/problems/tiktok-segment-queries)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-segment-queries)|Feb 02, 2024|
+|**TikTok**|[Minimum Cycles](https://www.fastprep.io/problems/tiktok-minimum-cycles)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-cycles)|Feb 02, 2024|
+|**TikTok**|[Stars and Bars](https://www.fastprep.io/problems/tiktok-stars-and-bars)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-stars-and-bars)|Feb 02, 2024|
+|**TikTok**|[Longest OR](https://www.fastprep.io/problems/tiktok-longest-or)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-longest-or)|Feb 02, 2024|
+|**TikTok**|[Get Server Index](https://www.fastprep.io/problems/tiktok-get-server-index)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-server-index)|Feb 02, 2024|
+|**Amazon**|[Dropped Requests](https://www.fastprep.io/problems/amazon-dropped-requests)|[![Practice][p]](https://www.fastprep.io/problems/amazon-dropped-requests)|Jan 27, 2024|
+|**Amazon**|[Find Unique Values](https://www.fastprep.io/problems/amazon-find-unique-values)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-unique-values)|Jan 27, 2024|
+|**Amazon**|[Execute Processes](https://www.fastprep.io/problems/amazon-execute-processes)|[![Practice][p]](https://www.fastprep.io/problems/amazon-execute-processes)|Jan 27, 2024|
+|**Amazon**|[Number of Suitable Locations](https://www.fastprep.io/problems/amazon-num-of-suitable-places)|[![Practice][p]](https://www.fastprep.io/problems/amazon-num-of-suitable-places)|Jan 27, 2024|
+|**Amazon**|[Group Students](https://www.fastprep.io/problems/amazon-group-students)|[![Practice][p]](https://www.fastprep.io/problems/amazon-group-students)|Jan 27, 2024|
+|**Amazon**|[Rice Bags](https://www.fastprep.io/problems/max-set-size)|[![Practice][p]](https://www.fastprep.io/problems/max-set-size)|Jan 13, 2024|
+|**Snowflake**|[Smallest Set Covering Intervals](https://www.fastprep.io/problems/smallest-set-covering-intervals)|[![Practice][p]](https://www.fastprep.io/problems/smallest-set-covering-intervals)|Jan 13, 2024|
+|**Snowflake**|[Maximum Order Volume](https://www.fastprep.io/problems/phone-calls)|[![Practice][p]](https://www.fastprep.io/problems/phone-calls)|Jan 13, 2024|
+|**Snowflake**|[Unequal Elements](https://www.fastprep.io/problems/find-max-length)|[![Practice][p]](https://www.fastprep.io/problems/find-max-length)|Jan 13, 2024|
+|**Snowflake**|[Job Execution](https://www.fastprep.io/problems/get-minimum-operations)|[![Practice][p]](https://www.fastprep.io/problems/get-minimum-operations)|Jan 12, 2024|
+|**Snowflake**|[Perfect Pairs](https://www.fastprep.io/problems/perfect-pairs)|[![Practice][p]](https://www.fastprep.io/problems/perfect-pairs)|Jan 12, 2024|
+|**Snowflake**|[Cross the Threshold](https://www.fastprep.io/problems/get-max-barrier)|[![Practice][p]](https://www.fastprep.io/problems/get-max-barrier)|Jan 12, 2024|
 |**Snowflake**|[Get Min Cost](https://www.fastprep.io/problems/hackerland-get-min-cost)|[![Practice][p]](https://www.fastprep.io/problems/hackerland-get-min-cost)|Jan 12, 2024|
 |**Snowflake**|[String Patterns](https://www.fastprep.io/problems/calculate-ways)|[![Practice][p]](https://www.fastprep.io/problems/calculate-ways)|Jan 12, 2024|
 |**Amazon**|[Get Discount Pairs](https://www.fastprep.io/problems/get-discount-pairs)|[![Practice][p]](https://www.fastprep.io/problems/get-discount-pairs)|Jan 11, 2024|
