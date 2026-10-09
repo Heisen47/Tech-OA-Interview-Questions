@@ -10,6 +10,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <link rel="icon" type="image/png" href="assets/fastprep-logo.png" />
   <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="vendor/prism/prism-tomorrow.min.css" />
 </head>
 <body>
   <div class="app-background"></div>
@@ -653,7 +654,8 @@
 
           <!-- Code Editor Area -->
           <div class="cr-code-wrapper">
-            <textarea id="cr-code-editor" class="cr-code-textarea" spellcheck="false" autocomplete="off" autocapitalize="off"></textarea>
+            <div id="cr-ace-editor" class="cr-ace-editor"></div>
+            <textarea id="cr-code-editor" class="cr-code-textarea" style="display: none;" spellcheck="false" autocomplete="off" autocapitalize="off"></textarea>
           </div>
 
           <!-- Bottom Workspace: Test Cases & Results -->
@@ -730,6 +732,24 @@
       <polyline points="18 15 12 9 6 15"></polyline>
     </svg>
   </button>
+
+  <!-- Syntax Highlighting: Ace Editor & PrismJS -->
+  <script src="vendor/ace/ace.js"></script>
+  <script src="vendor/ace/ext-language_tools.js"></script>
+  <script src="vendor/ace/theme-one_dark.js"></script>
+  <script src="vendor/ace/theme-dracula.js"></script>
+  <script src="vendor/ace/mode-python.js"></script>
+  <script src="vendor/ace/mode-javascript.js"></script>
+  <script src="vendor/ace/mode-c_cpp.js"></script>
+  <script src="vendor/ace/mode-java.js"></script>
+
+  <script src="vendor/prism/prism.js"></script>
+  <script src="vendor/prism/prism-clike.min.js"></script>
+  <script src="vendor/prism/prism-python.min.js"></script>
+  <script src="vendor/prism/prism-javascript.min.js"></script>
+  <script src="vendor/prism/prism-c.min.js"></script>
+  <script src="vendor/prism/prism-cpp.min.js"></script>
+  <script src="vendor/prism/prism-java.min.js"></script>
 
   <!-- Load Data and Main Script -->
   <script src="data/questions-data.js"></script>

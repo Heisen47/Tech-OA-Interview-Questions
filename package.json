@@ -10,7 +10,8 @@
   "dependencies": {
     "ace-builds": "^1.44.0",
     "cors": "^2.8.6",
-    "express": "^5.3.0"
+    "express": "^5.3.0",
+    "prismjs": "^1.30.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",

@@ -528,11 +528,19 @@
     }
 
     window.addEventListener('keydown', e => {
-      if (e.key === '/' && document.activeElement !== els.searchInput && document.activeElement !== els.companyMenuSearch && document.activeElement !== els.noteComments && document.activeElement !== els.gsheetWebhookUrl && document.activeElement !== els.crCodeEditor && document.activeElement !== els.crCaseInput && document.activeElement !== els.crCaseExpected) {
+      const isInputFocused = document.activeElement && (
+        document.activeElement.tagName === 'INPUT' ||
+        document.activeElement.tagName === 'TEXTAREA' ||
+        document.activeElement.isContentEditable ||
+        document.activeElement.closest('#cr-ace-editor') ||
+        document.activeElement.classList.contains('ace_text-input')
+      );
+
+      if (e.key === '/' && !isInputFocused) {
         e.preventDefault();
         els.searchInput.focus();
         els.searchInput.select();
-      } else if (e.key.toLowerCase() === 'r' && document.activeElement !== els.searchInput && document.activeElement !== els.companyMenuSearch && document.activeElement !== els.noteComments && document.activeElement !== els.gsheetWebhookUrl && document.activeElement !== els.crCodeEditor && document.activeElement !== els.crCaseInput && document.activeElement !== els.crCaseExpected) {
+      } else if (e.key.toLowerCase() === 'r' && !isInputFocused) {
         e.preventDefault();
         pickRandomQuestion();
       } else if (e.key === 'Escape') {
@@ -1485,6 +1493,7 @@
     java: ''
   };
   let testResultsCache = [];
+  let aceEditor = null;
 
   const LANG_FILE_EXT = {
     python: 'py',
@@ -1492,6 +1501,118 @@
     cpp: 'cpp',
     java: 'java'
   };
+
+  const ACE_MODE_MAP = {
+    python: 'ace/mode/python',
+    javascript: 'ace/mode/javascript',
+    cpp: 'ace/mode/c_cpp',
+    java: 'ace/mode/java'
+  };
+
+  const PRISM_LANG_MAP = {
+    python: 'python',
+    javascript: 'javascript',
+    cpp: 'cpp',
+    java: 'java'
+  };
+
+  function getPrismLang(lang) {
+    return PRISM_LANG_MAP[lang] || 'python';
+  }
+
+  function initAceEditor() {
+    const el = document.getElementById('cr-ace-editor');
+    if (!el || typeof ace === 'undefined' || aceEditor) return;
+
+    try {
+      ace.config.set('basePath', 'vendor/ace');
+      aceEditor = ace.edit(el, {
+        theme: 'ace/theme/one_dark',
+        mode: 'ace/mode/python',
+        fontSize: '13.5px',
+        showPrintMargin: false,
+        showGutter: true,
+        highlightActiveLine: true,
+        wrap: true,
+        tabSize: 4,
+        useSoftTabs: true,
+        showFoldWidgets: true,
+        enableBasicAutocompletion: true,
+        enableLiveAutocompletion: true,
+        enableSnippets: true
+      });
+
+      aceEditor.session.setUseWorker(false);
+
+      aceEditor.commands.addCommand({
+        name: 'runTests',
+        bindKey: { win: 'Ctrl-Enter', mac: 'Command-Enter' },
+        exec: () => {
+          runActiveTests();
+        }
+      });
+
+      aceEditor.session.on('change', () => {
+        const curLang = els.crLanguage ? els.crLanguage.value : 'python';
+        const val = aceEditor.getValue();
+        userCodeMap[curLang] = val;
+        if (els.crCodeEditor) els.crCodeEditor.value = val;
+      });
+    } catch (err) {
+      console.warn('Ace editor fallback to textarea:', err);
+      if (els.crCodeEditor) els.crCodeEditor.style.display = 'block';
+    }
+  }
+
+  function getEditorCode() {
+    if (aceEditor) return aceEditor.getValue();
+    return els.crCodeEditor ? els.crCodeEditor.value : '';
+  }
+
+  function setEditorCode(code, lang) {
+    if (aceEditor) {
+      if (lang && ACE_MODE_MAP[lang]) {
+        aceEditor.session.setMode(ACE_MODE_MAP[lang]);
+      }
+      aceEditor.setValue(code || '', -1);
+      aceEditor.clearSelection();
+    }
+    if (els.crCodeEditor) {
+      els.crCodeEditor.value = code || '';
+    }
+  }
+
+  function highlightLeftPane(lang) {
+    if (!activeProblemDetail) return;
+    const prismLang = getPrismLang(lang || (els.crLanguage ? els.crLanguage.value : 'python'));
+
+    if (els.crSignature) {
+      els.crSignature.className = `language-${prismLang}`;
+      if (window.Prism) Prism.highlightElement(els.crSignature);
+    }
+
+    if (activeProblemDetail.examples && activeProblemDetail.examples.length > 0) {
+      els.crExamples.innerHTML = activeProblemDetail.examples.map((ex, idx) => `
+        <div class="cr-ex-item">
+          <div class="cr-ex-title">Example ${idx + 1}</div>
+          <div class="cr-ex-block">
+            <span class="cr-ex-label">Input:</span>
+            <pre class="cr-code-snippet"><code class="language-${prismLang}">${escapeHTML((ex.inputRaw || '').trim())}</code></pre>
+          </div>
+          <div class="cr-ex-block">
+            <span class="cr-ex-label">Expected:</span>
+            <pre class="cr-code-snippet"><code class="language-${prismLang}">${escapeHTML((ex.expectedRaw || '').trim())}</code></pre>
+          </div>
+          ${ex.explanation ? `<div class="cr-ex-explanation">${escapeHTML(ex.explanation)}</div>` : ''}
+        </div>
+      `).join('');
+      if (window.Prism) Prism.highlightAllUnder(els.crExamples);
+    }
+
+    if (window.Prism && els.crStatement) {
+      Prism.highlightAllUnder(els.crStatement);
+    }
+  }
 
   async function openCodeStudio(q) {
     activeStudioQuestion = q;
@@ -1574,14 +1695,6 @@
     }
 
     if (data.examples && data.examples.length > 0) {
-      els.crExamples.innerHTML = data.examples.map((ex, idx) => `
-        <div class="cr-ex-item">
-          <div class="cr-ex-title">Example ${idx + 1}</div>
-          <div class="cr-ex-row"><span class="cr-ex-label">Input: </span><span class="cr-ex-val">${escapeHTML(ex.inputRaw)}</span></div>
-          <div class="cr-ex-row"><span class="cr-ex-label">Expected: </span><span class="cr-ex-val">${escapeHTML(ex.expectedRaw)}</span></div>
-          ${ex.explanation ? `<div class="cr-ex-row" style="color:var(--text-secondary);font-size:0.8rem;margin-top:4px;">${escapeHTML(ex.explanation)}</div>` : ''}
-        </div>
-      `).join('');
       els.crExamples.parentElement.style.display = 'block';
     } else {
       els.crExamples.parentElement.style.display = 'none';
@@ -1605,11 +1718,21 @@
     activeTestCaseIdx = 0;
     renderTestCaseTabs();
 
-    // Starter code setup
+    // Starter code setup & syntax highlighting
     userCodeMap = { ...(data.starterCodes || {}) };
     const lang = els.crLanguage.value || 'python';
     els.crFileExt.textContent = LANG_FILE_EXT[lang] || 'py';
-    els.crCodeEditor.value = userCodeMap[lang] || '';
+
+    initAceEditor();
+    setEditorCode(userCodeMap[lang] || '', lang);
+    highlightLeftPane(lang);
+
+    setTimeout(() => {
+      if (aceEditor) {
+        aceEditor.resize();
+        aceEditor.renderer.updateFull();
+      }
+    }, 50);
 
     els.crStatusMsg.textContent = 'Ready to test';
     els.crRunBtn.disabled = false;
@@ -1680,33 +1803,35 @@
   function handleLanguageChange() {
     const prevExt = els.crFileExt.textContent;
     const oldLang = Object.keys(LANG_FILE_EXT).find(k => LANG_FILE_EXT[k] === prevExt) || 'python';
-    userCodeMap[oldLang] = els.crCodeEditor.value;
+    userCodeMap[oldLang] = getEditorCode();
 
     const newLang = els.crLanguage.value;
     els.crFileExt.textContent = LANG_FILE_EXT[newLang] || 'py';
 
+    let code = '';
     if (userCodeMap[newLang]) {
-      els.crCodeEditor.value = userCodeMap[newLang];
+      code = userCodeMap[newLang];
     } else if (activeProblemDetail && activeProblemDetail.starterCodes && activeProblemDetail.starterCodes[newLang]) {
-      els.crCodeEditor.value = activeProblemDetail.starterCodes[newLang];
-    } else {
-      els.crCodeEditor.value = '';
+      code = activeProblemDetail.starterCodes[newLang];
     }
+
+    setEditorCode(code, newLang);
+    highlightLeftPane(newLang);
   }
 
   function resetStudioCode() {
     const lang = els.crLanguage.value;
     if (activeProblemDetail && activeProblemDetail.starterCodes && activeProblemDetail.starterCodes[lang]) {
       if (confirm('Reset code to initial boilerplate?')) {
-        els.crCodeEditor.value = activeProblemDetail.starterCodes[lang];
-        userCodeMap[lang] = els.crCodeEditor.value;
+        setEditorCode(activeProblemDetail.starterCodes[lang], lang);
+        userCodeMap[lang] = activeProblemDetail.starterCodes[lang];
       }
     }
   }
 
   async function runActiveTests() {
     saveActiveTestCaseInput();
-    const code = els.crCodeEditor.value.trim();
+    const code = getEditorCode().trim();
     if (!code) {
       showToast('Please write some code before running tests');
       return;
