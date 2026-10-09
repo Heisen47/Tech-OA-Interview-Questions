@@ -106,8 +106,41 @@
     modalQDate: document.getElementById('modal-q-date'),
     modalQCompanies: document.getElementById('modal-q-companies'),
     modalPracticeBtn: document.getElementById('modal-practice-btn'),
+    modalSolveBtn: document.getElementById('modal-solve-btn'),
     modalStarBtn: document.getElementById('modal-star-btn'),
     modalCheckBtn: document.getElementById('modal-check-btn'),
+
+    // Code & Test Studio elements
+    crModal: document.getElementById('code-runner-modal'),
+    crModalCloseBtn: document.getElementById('cr-modal-close-btn'),
+    crFormatBadge: document.getElementById('cr-format-badge'),
+    crCompanyBadge: document.getElementById('cr-company-badge'),
+    crDateBadge: document.getElementById('cr-date-badge'),
+    crTitle: document.getElementById('cr-title'),
+    crLanguage: document.getElementById('cr-language'),
+    crResetCodeBtn: document.getElementById('cr-reset-code-btn'),
+    crFastprepLink: document.getElementById('cr-fastprep-link'),
+    crProblemLoading: document.getElementById('cr-problem-loading'),
+    crProblemContent: document.getElementById('cr-problem-content'),
+    crStatement: document.getElementById('cr-statement'),
+    crSignature: document.getElementById('cr-signature'),
+    crConstraints: document.getElementById('cr-constraints'),
+    crExamples: document.getElementById('cr-examples'),
+    crFileExt: document.getElementById('cr-file-ext'),
+    crCodeEditor: document.getElementById('cr-code-editor'),
+    crCaseTabs: document.getElementById('cr-case-tabs'),
+    crAddCaseBtn: document.getElementById('cr-add-case-btn'),
+    crCaseInput: document.getElementById('cr-case-input'),
+    crCaseExpected: document.getElementById('cr-case-expected'),
+    crResultsPanel: document.getElementById('cr-results-panel'),
+    crOverallBadge: document.getElementById('cr-overall-badge'),
+    crExecStats: document.getElementById('cr-exec-stats'),
+    crResultsList: document.getElementById('cr-results-list'),
+    crStdoutBox: document.getElementById('cr-stdout-box'),
+    crStdoutContent: document.getElementById('cr-stdout-content'),
+    crStatusMsg: document.getElementById('cr-status-msg'),
+    crRunBtn: document.getElementById('cr-run-btn'),
+    crMarkSolvedBtn: document.getElementById('cr-mark-solved-btn'),
 
     gsheetOpenBtn: document.getElementById('gsheet-open-btn'),
     gsheetStatusDot: document.getElementById('gsheet-status-dot'),
@@ -128,6 +161,7 @@
     noteProblemFormat: document.getElementById('note-problem-format'),
     noteProblemDate: document.getElementById('note-problem-date'),
     noteProblemLink: document.getElementById('note-problem-link'),
+    noteSolveBtn: document.getElementById('note-solve-btn'),
     notePattern: document.getElementById('note-pattern'),
     noteTimeTaken: document.getElementById('note-time-taken'),
     noteQuality: document.getElementById('note-quality'),
@@ -431,13 +465,74 @@
     if (els.noteSaveSyncBtn) els.noteSaveSyncBtn.addEventListener('click', () => saveProblemNote(true));
     if (els.noteQuickSaveBtn) els.noteQuickSaveBtn.addEventListener('click', () => saveProblemNote(false));
     if (els.noteUnmarkBtn) els.noteUnmarkBtn.addEventListener('click', unmarkCurrentProblem);
+    if (els.noteSolveBtn) {
+      els.noteSolveBtn.addEventListener('click', () => {
+        if (activeEditingQuestionId) {
+          const q = rawQuestions.find(item => item.id === activeEditingQuestionId);
+          if (q) {
+            closeNoteModal();
+            openCodeStudio(q);
+          }
+        }
+      });
+    }
+
+    if (els.modalSolveBtn) {
+      els.modalSolveBtn.addEventListener('click', () => {
+        if (currentRandomQuestion) {
+          closeRandomModal();
+          openCodeStudio(currentRandomQuestion);
+        }
+      });
+    }
+
+    if (els.crModalCloseBtn) els.crModalCloseBtn.addEventListener('click', closeCodeStudio);
+    if (els.crModal) {
+      els.crModal.addEventListener('click', e => {
+        if (e.target === els.crModal) closeCodeStudio();
+      });
+    }
+    if (els.crLanguage) els.crLanguage.addEventListener('change', handleLanguageChange);
+    if (els.crResetCodeBtn) els.crResetCodeBtn.addEventListener('click', resetStudioCode);
+    if (els.crAddCaseBtn) els.crAddCaseBtn.addEventListener('click', addCustomTestCase);
+    if (els.crRunBtn) els.crRunBtn.addEventListener('click', runActiveTests);
+    if (els.crMarkSolvedBtn) els.crMarkSolvedBtn.addEventListener('click', markActiveProblemSolved);
+
+    if (els.crCaseInput) {
+      els.crCaseInput.addEventListener('input', () => {
+        if (customTestCases[activeTestCaseIdx]) {
+          customTestCases[activeTestCaseIdx].inputRaw = els.crCaseInput.value;
+        }
+      });
+    }
+    if (els.crCaseExpected) {
+      els.crCaseExpected.addEventListener('input', () => {
+        if (customTestCases[activeTestCaseIdx]) {
+          customTestCases[activeTestCaseIdx].expectedRaw = els.crCaseExpected.value;
+        }
+      });
+    }
+    if (els.crCodeEditor) {
+      els.crCodeEditor.addEventListener('keydown', e => {
+        if (e.key === 'Tab') {
+          e.preventDefault();
+          const start = els.crCodeEditor.selectionStart;
+          const end = els.crCodeEditor.selectionEnd;
+          els.crCodeEditor.value = els.crCodeEditor.value.substring(0, start) + '    ' + els.crCodeEditor.value.substring(end);
+          els.crCodeEditor.selectionStart = els.crCodeEditor.selectionEnd = start + 4;
+        } else if (e.key === 'Enter' && (e.ctrlKey || e.metaKey)) {
+          e.preventDefault();
+          runActiveTests();
+        }
+      });
+    }
 
     window.addEventListener('keydown', e => {
-      if (e.key === '/' && document.activeElement !== els.searchInput && document.activeElement !== els.companyMenuSearch && document.activeElement !== els.noteComments && document.activeElement !== els.gsheetWebhookUrl) {
+      if (e.key === '/' && document.activeElement !== els.searchInput && document.activeElement !== els.companyMenuSearch && document.activeElement !== els.noteComments && document.activeElement !== els.gsheetWebhookUrl && document.activeElement !== els.crCodeEditor && document.activeElement !== els.crCaseInput && document.activeElement !== els.crCaseExpected) {
         e.preventDefault();
         els.searchInput.focus();
         els.searchInput.select();
-      } else if (e.key.toLowerCase() === 'r' && document.activeElement !== els.searchInput && document.activeElement !== els.companyMenuSearch && document.activeElement !== els.noteComments && document.activeElement !== els.gsheetWebhookUrl) {
+      } else if (e.key.toLowerCase() === 'r' && document.activeElement !== els.searchInput && document.activeElement !== els.companyMenuSearch && document.activeElement !== els.noteComments && document.activeElement !== els.gsheetWebhookUrl && document.activeElement !== els.crCodeEditor && document.activeElement !== els.crCaseInput && document.activeElement !== els.crCaseExpected) {
         e.preventDefault();
         pickRandomQuestion();
       } else if (e.key === 'Escape') {
@@ -445,6 +540,7 @@
         closeRandomModal();
         closeGSheetModal();
         closeNoteModal();
+        closeCodeStudio();
         if (document.activeElement === els.searchInput) {
           els.searchInput.blur();
         }
@@ -468,6 +564,14 @@
   }
 
   function handleItemActionClick(e) {
+    const solveBtn = e.target.closest('[data-action="solve"]');
+    if (solveBtn) {
+      const id = solveBtn.dataset.id;
+      const q = rawQuestions.find(x => x.id === id);
+      if (q) openCodeStudio(q);
+      return;
+    }
+
     const starBtn = e.target.closest('[data-action="star"]');
     if (starBtn) {
       const id = starBtn.dataset.id;
@@ -851,12 +955,22 @@
             </span>
           </td>
           <td class="col-action">
-            <a href="${escapeHTML(q.practiceUrl)}" target="_blank" rel="noopener" class="btn-practice">
-              <span>Practice</span>
-              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-                <polyline points="9 18 15 12 9 6"></polyline>
-              </svg>
-            </a>
+            <div class="action-buttons-group">
+              <button type="button" class="btn-solve" data-action="solve" data-id="${q.id}" title="Run, compile, and test with custom cases (Free)">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+                  <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                </svg>
+                <span>Solve</span>
+              </button>
+              <a href="${escapeHTML(q.practiceUrl)}" target="_blank" rel="noopener" class="btn-fp-link" title="Open question on FastPrep.io">
+                <span>FastPrep</span>
+                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                  <polyline points="15 3 21 3 21 9"></polyline>
+                  <line x1="10" y1="14" x2="21" y2="3"></line>
+                </svg>
+              </a>
+            </div>
           </td>
         </tr>
       `;
@@ -924,15 +1038,25 @@
           </div>
 
           <div class="card-footer">
-            <button type="button" class="btn btn-secondary" data-action="copy" data-url="${escapeHTML(q.url)}" style="padding:4px 8px;font-size:0.75rem;">
-              Copy Link
-            </button>
-            <a href="${escapeHTML(q.practiceUrl)}" target="_blank" rel="noopener" class="btn-practice">
-              <span>Practice Problem</span>
-              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-                <polyline points="9 18 15 12 9 6"></polyline>
+            <button type="button" class="btn-solve" data-action="solve" data-id="${q.id}" title="Run, compile, and test with custom cases (Free)">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor">
+                <polygon points="5 3 19 12 5 21 5 3"></polygon>
               </svg>
-            </a>
+              <span>Solve & Test</span>
+            </button>
+            <div style="display:flex; gap:6px; align-items:center;">
+              <button type="button" class="btn btn-secondary" data-action="copy" data-url="${escapeHTML(q.url)}" style="padding:4px 8px;font-size:0.75rem;">
+                Copy
+              </button>
+              <a href="${escapeHTML(q.practiceUrl)}" target="_blank" rel="noopener" class="btn-fp-link" title="Open question on FastPrep.io">
+                <span>FastPrep</span>
+                <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                  <polyline points="15 3 21 3 21 9"></polyline>
+                  <line x1="10" y1="14" x2="21" y2="3"></line>
+                </svg>
+              </a>
+            </div>
           </div>
         </div>
       `;
@@ -1344,6 +1468,527 @@
         comments: note.comments || commentsMap[id] || '',
       });
     }
+  }
+
+  /* ==========================================================================
+     Interactive Code & Test Studio Implementation
+     ========================================================================== */
+
+  let activeStudioQuestion = null;
+  let activeProblemDetail = null;
+  let customTestCases = [];
+  let activeTestCaseIdx = 0;
+  let userCodeMap = {
+    python: '',
+    javascript: '',
+    cpp: '',
+    java: ''
+  };
+  let testResultsCache = [];
+
+  const LANG_FILE_EXT = {
+    python: 'py',
+    javascript: 'js',
+    cpp: 'cpp',
+    java: 'java'
+  };
+
+  async function openCodeStudio(q) {
+    activeStudioQuestion = q;
+    activeProblemDetail = null;
+    customTestCases = [];
+    activeTestCaseIdx = 0;
+    testResultsCache = [];
+    userCodeMap = { python: '', javascript: '', cpp: '', java: '' };
+
+    els.crTitle.textContent = q.title;
+    els.crFormatBadge.textContent = q.format;
+    els.crCompanyBadge.textContent = (q.companies || []).join(' / ') || 'Tech OA';
+    els.crDateBadge.textContent = q.date || '';
+    if (els.crFastprepLink) els.crFastprepLink.href = q.url;
+
+    els.crResultsPanel.style.display = 'none';
+    els.crStdoutBox.style.display = 'none';
+    els.crStatusMsg.className = 'cr-status-msg';
+    els.crStatusMsg.textContent = 'Loading problem specifications...';
+    els.crProblemLoading.style.display = 'flex';
+    els.crProblemContent.style.display = 'none';
+    els.crModal.style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+
+    // Fetch problem details
+    let data = null;
+    try {
+      const res = await fetch(`/api/problem?id=${encodeURIComponent(q.id)}&url=${encodeURIComponent(q.url)}`);
+      if (res.ok) {
+        data = await res.json();
+      }
+    } catch (_) {}
+
+    // Fallback: local static cache file
+    if (!data) {
+      try {
+        const res = await fetch(`data/problems/${q.id}.json`);
+        if (res.ok) {
+          data = await res.json();
+        }
+      } catch (_) {}
+    }
+
+    // Fallback boilerplate if not yet cached
+    if (!data) {
+      const fnName = q.id.replace(/^([a-z]+-)+/, '').replace(/-(.)/g, (_, c) => c.toUpperCase()) || 'solve';
+      data = {
+        id: q.id,
+        title: q.title,
+        statementHtml: `<p>Practice <strong>${escapeHTML(q.title)}</strong> reported in recent technical assessments for <strong>${escapeHTML((q.companies || []).join(', '))}</strong>.</p>`,
+        functionName: fnName,
+        signature: `${fnName}() -> any`,
+        constraints: ['Constraints reported in actual assessment.'],
+        examples: [
+          { id: 1, inputRaw: '// Sample input\ninput = []', expectedRaw: '0', explanation: 'Sample test case' }
+        ],
+        testCases: [
+          { id: 1, inputRaw: '// Sample input\ninput = []', expectedRaw: '0' }
+        ],
+        starterCodes: {
+          python: `def ${fnName}():\n    # Write your solution here\n    pass\n`,
+          javascript: `function ${fnName}() {\n    // Write your solution here\n    return null;\n}\n`,
+          java: `class Solution {\n    public int ${fnName}() {\n        return 0;\n    }\n}`,
+          cpp: `class Solution {\npublic:\n    int ${fnName}() {\n        return 0;\n    }\n};`
+        }
+      };
+    }
+
+    activeProblemDetail = data;
+
+    // Render left panel
+    els.crStatement.innerHTML = data.statementHtml || '<p>Problem details.</p>';
+    els.crSignature.textContent = data.signature || (data.functionName + '()');
+    
+    if (data.constraints && data.constraints.length > 0) {
+      els.crConstraints.innerHTML = data.constraints.map(c => `<li>${escapeHTML(c)}</li>`).join('');
+      els.crConstraints.parentElement.style.display = 'block';
+    } else {
+      els.crConstraints.parentElement.style.display = 'none';
+    }
+
+    if (data.examples && data.examples.length > 0) {
+      els.crExamples.innerHTML = data.examples.map((ex, idx) => `
+        <div class="cr-ex-item">
+          <div class="cr-ex-title">Example ${idx + 1}</div>
+          <div class="cr-ex-row"><span class="cr-ex-label">Input: </span><span class="cr-ex-val">${escapeHTML(ex.inputRaw)}</span></div>
+          <div class="cr-ex-row"><span class="cr-ex-label">Expected: </span><span class="cr-ex-val">${escapeHTML(ex.expectedRaw)}</span></div>
+          ${ex.explanation ? `<div class="cr-ex-row" style="color:var(--text-secondary);font-size:0.8rem;margin-top:4px;">${escapeHTML(ex.explanation)}</div>` : ''}
+        </div>
+      `).join('');
+      els.crExamples.parentElement.style.display = 'block';
+    } else {
+      els.crExamples.parentElement.style.display = 'none';
+    }
+
+    els.crProblemLoading.style.display = 'none';
+    els.crProblemContent.style.display = 'flex';
+
+    // Populate test cases
+    const sourceTests = (data.testCases && data.testCases.length > 0) ? data.testCases : data.examples;
+    if (sourceTests && sourceTests.length > 0) {
+      customTestCases = sourceTests.map((tc, idx) => ({
+        id: idx + 1,
+        inputRaw: tc.inputRaw || '',
+        expectedRaw: tc.expectedRaw || ''
+      }));
+    } else {
+      customTestCases = [{ id: 1, inputRaw: '', expectedRaw: '' }];
+    }
+
+    activeTestCaseIdx = 0;
+    renderTestCaseTabs();
+
+    // Starter code setup
+    userCodeMap = { ...(data.starterCodes || {}) };
+    const lang = els.crLanguage.value || 'python';
+    els.crFileExt.textContent = LANG_FILE_EXT[lang] || 'py';
+    els.crCodeEditor.value = userCodeMap[lang] || '';
+
+    els.crStatusMsg.textContent = 'Ready to test';
+    els.crRunBtn.disabled = false;
+  }
+
+  function closeCodeStudio() {
+    els.crModal.style.display = 'none';
+    document.body.style.overflow = '';
+    activeStudioQuestion = null;
+  }
+
+  function renderTestCaseTabs() {
+    if (!els.crCaseTabs) return;
+    els.crCaseTabs.innerHTML = '';
+
+    customTestCases.forEach((tc, idx) => {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = `cr-case-tab ${idx === activeTestCaseIdx ? 'active' : ''}`;
+      
+      const res = testResultsCache.find(r => r.id === tc.id);
+      if (res) {
+        btn.classList.add(res.passed ? 'passed' : 'failed');
+        btn.textContent = `Case ${idx + 1} ${res.passed ? '✓' : '✗'}`;
+      } else {
+        btn.textContent = `Case ${idx + 1}`;
+      }
+
+      btn.addEventListener('click', () => {
+        saveActiveTestCaseInput();
+        activeTestCaseIdx = idx;
+        renderTestCaseTabs();
+      });
+
+      els.crCaseTabs.appendChild(btn);
+    });
+
+    const activeTc = customTestCases[activeTestCaseIdx];
+    if (activeTc) {
+      els.crCaseInput.value = activeTc.inputRaw || '';
+      els.crCaseExpected.value = activeTc.expectedRaw || '';
+    } else {
+      els.crCaseInput.value = '';
+      els.crCaseExpected.value = '';
+    }
+  }
+
+  function saveActiveTestCaseInput() {
+    if (customTestCases[activeTestCaseIdx]) {
+      customTestCases[activeTestCaseIdx].inputRaw = els.crCaseInput.value;
+      customTestCases[activeTestCaseIdx].expectedRaw = els.crCaseExpected.value;
+    }
+  }
+
+  function addCustomTestCase() {
+    saveActiveTestCaseInput();
+    const newId = customTestCases.length + 1;
+    customTestCases.push({
+      id: newId,
+      inputRaw: '// Custom test inputs\n',
+      expectedRaw: '0'
+    });
+    activeTestCaseIdx = customTestCases.length - 1;
+    renderTestCaseTabs();
+    els.crCaseInput.focus();
+  }
+
+  function handleLanguageChange() {
+    const prevExt = els.crFileExt.textContent;
+    const oldLang = Object.keys(LANG_FILE_EXT).find(k => LANG_FILE_EXT[k] === prevExt) || 'python';
+    userCodeMap[oldLang] = els.crCodeEditor.value;
+
+    const newLang = els.crLanguage.value;
+    els.crFileExt.textContent = LANG_FILE_EXT[newLang] || 'py';
+
+    if (userCodeMap[newLang]) {
+      els.crCodeEditor.value = userCodeMap[newLang];
+    } else if (activeProblemDetail && activeProblemDetail.starterCodes && activeProblemDetail.starterCodes[newLang]) {
+      els.crCodeEditor.value = activeProblemDetail.starterCodes[newLang];
+    } else {
+      els.crCodeEditor.value = '';
+    }
+  }
+
+  function resetStudioCode() {
+    const lang = els.crLanguage.value;
+    if (activeProblemDetail && activeProblemDetail.starterCodes && activeProblemDetail.starterCodes[lang]) {
+      if (confirm('Reset code to initial boilerplate?')) {
+        els.crCodeEditor.value = activeProblemDetail.starterCodes[lang];
+        userCodeMap[lang] = els.crCodeEditor.value;
+      }
+    }
+  }
+
+  async function runActiveTests() {
+    saveActiveTestCaseInput();
+    const code = els.crCodeEditor.value.trim();
+    if (!code) {
+      showToast('Please write some code before running tests');
+      return;
+    }
+
+    const language = els.crLanguage.value;
+    const functionName = activeProblemDetail ? activeProblemDetail.functionName : 'solve';
+
+    els.crStatusMsg.className = 'cr-status-msg';
+    els.crStatusMsg.textContent = 'Compiling and executing test cases...';
+    els.crRunBtn.disabled = true;
+
+    const payload = {
+      language,
+      code,
+      functionName,
+      testCases: customTestCases
+    };
+
+    let result = null;
+
+    // 1. Try local dev server
+    try {
+      const res = await fetch('/api/run', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      });
+      if (res.ok) {
+        result = await res.json();
+      }
+    } catch (_) {}
+
+    // 2. Direct client-side fallback if server is unreachable
+    if (!result) {
+      if (language === 'javascript') {
+        result = runClientSideJavaScript(code, functionName, customTestCases);
+      } else {
+        result = await runClientSideWandbox(language, code, functionName, customTestCases);
+      }
+    }
+
+    els.crRunBtn.disabled = false;
+
+    if (!result) {
+      els.crStatusMsg.className = 'cr-status-msg error';
+      els.crStatusMsg.textContent = 'Execution failed. Ensure local dev server is running or check internet connectivity.';
+      return;
+    }
+
+    testResultsCache = result.results || [];
+    renderTestCaseTabs();
+    renderExecutionResults(result);
+  }
+
+  function runClientSideJavaScript(code, functionName, testCases) {
+    const results = [];
+    let userStdout = '';
+
+    for (const tc of testCases) {
+      const start = performance.now();
+      try {
+        const runnerCode = `
+          ${code}
+          const logs = [];
+          const originalLog = console.log;
+          console.log = (...args) => logs.push(args.map(a => typeof a === 'object' ? JSON.stringify(a) : String(a)).join(' '));
+          
+          ${tc.inputRaw}
+          
+          let targetFn = null;
+          try { targetFn = ${functionName}; } catch (_) {}
+          if (typeof targetFn !== 'function') {
+            throw new Error("Function '${functionName}' is not defined");
+          }
+
+          const varNames = Object.keys(this).filter(k => k !== 'targetFn' && k !== 'logs' && k !== 'originalLog');
+          const args = varNames.map(k => this[k]);
+          
+          const actual = targetFn(...args);
+          console.log = originalLog;
+          return { actual, logs: logs.join('\\n') };
+        `;
+
+        const fn = new Function(runnerCode);
+        const output = fn.call({});
+        const duration = Math.round((performance.now() - start) * 100) / 100;
+
+        let expected;
+        try {
+          expected = JSON.parse(tc.expectedRaw);
+        } catch (_) {
+          expected = tc.expectedRaw.trim();
+        }
+
+        const passed = JSON.stringify(output.actual) === JSON.stringify(expected) || String(output.actual).trim() === String(expected).trim();
+        if (output.logs) userStdout += (userStdout ? '\n' : '') + output.logs;
+
+        results.push({
+          id: tc.id,
+          passed,
+          input: tc.inputRaw,
+          expected: JSON.stringify(expected),
+          actual: JSON.stringify(output.actual),
+          executionTimeMs: duration,
+          error: null
+        });
+      } catch (err) {
+        results.push({
+          id: tc.id,
+          passed: false,
+          input: tc.inputRaw,
+          expected: tc.expectedRaw,
+          actual: '',
+          executionTimeMs: 0,
+          error: err.message || String(err)
+        });
+      }
+    }
+
+    const totalPassed = results.filter(r => r.passed).length;
+    return {
+      allPassed: totalPassed === testCases.length && testCases.length > 0,
+      totalPassed,
+      totalTests: testCases.length,
+      results,
+      stdout: userStdout,
+      compileError: null
+    };
+  }
+
+  async function runClientSideWandbox(language, code, functionName, testCases) {
+    const compiler = language === 'python' ? 'cpython-3.12.7' : (language === 'cpp' ? 'gcc-head' : 'openjdk-jdk-21.0.3');
+    
+    // For Python, inject our test harness
+    let execCode = code;
+    if (language === 'python') {
+      const testJson = JSON.stringify(testCases);
+      execCode = `
+import sys, json, time
+
+${code}
+
+raw_tests = ${testJson}
+results = []
+target_fn = globals().get(${JSON.stringify(functionName)})
+
+for tc in raw_tests:
+    tc_id = tc["id"]
+    inp = tc["inputRaw"]
+    exp_str = tc["expectedRaw"]
+    if not target_fn:
+        results.append({"id": tc_id, "passed": False, "input": inp, "expected": exp_str, "actual": "", "executionTimeMs": 0, "error": f"Function '${functionName}' not found."})
+        continue
+    scope = {}
+    try:
+        exec(inp, globals(), scope)
+        args = list(scope.values())
+        try: expected = json.loads(exp_str)
+        except Exception:
+            try: expected = eval(exp_str)
+            except Exception: expected = exp_str.strip()
+        t0 = time.perf_counter()
+        actual = target_fn(*args)
+        ms = round((time.perf_counter() - t0) * 1000, 2)
+        passed = (actual == expected) or (json.dumps(actual) == json.dumps(expected))
+        results.append({"id": tc_id, "passed": bool(passed), "input": inp, "expected": json.dumps(expected) if isinstance(expected, (dict, list)) else str(expected), "actual": json.dumps(actual) if isinstance(actual, (dict, list)) else str(actual), "executionTimeMs": ms, "error": None})
+    except Exception as e:
+        results.append({"id": tc_id, "passed": False, "input": inp, "expected": exp_str, "actual": "", "executionTimeMs": 0, "error": str(e)})
+
+print("__OUTPUT_START__" + json.dumps(results) + "__OUTPUT_END__")
+`;
+    }
+
+    try {
+      const res = await fetch('https://wandbox.org/api/compile.json', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ compiler, code: execCode })
+      });
+      const data = await res.json();
+      const stdout = data.program_output || '';
+      const match = stdout.match(/__OUTPUT_START__([\s\S]*?)__OUTPUT_END__/);
+
+      if (match) {
+        const results = JSON.parse(match[1]);
+        const totalPassed = results.filter(r => r.passed).length;
+        return {
+          allPassed: totalPassed === testCases.length,
+          totalPassed,
+          totalTests: testCases.length,
+          results,
+          stdout: stdout.replace(/__OUTPUT_START__[\s\S]*?__OUTPUT_END__/, '').trim(),
+          compileError: data.compiler_error || null
+        };
+      }
+
+      return {
+        allPassed: false,
+        totalPassed: 0,
+        totalTests: testCases.length,
+        results: testCases.map(tc => ({
+          id: tc.id,
+          passed: false,
+          input: tc.inputRaw,
+          expected: tc.expectedRaw,
+          actual: stdout,
+          executionTimeMs: 0,
+          error: data.compiler_error || data.program_error || 'Execution output returned.'
+        })),
+        stdout,
+        compileError: data.compiler_error || data.program_error || null
+      };
+    } catch (err) {
+      return {
+        allPassed: false,
+        totalPassed: 0,
+        totalTests: testCases.length,
+        results: [],
+        stdout: '',
+        compileError: err.message || 'Network error reaching compiler'
+      };
+    }
+  }
+
+  function renderExecutionResults(res) {
+    els.crResultsPanel.style.display = 'block';
+
+    const allPassed = res.allPassed;
+    els.crOverallBadge.className = `pill-badge ${allPassed ? 'fmt-ai' : 'fmt-sql'}`;
+    els.crOverallBadge.textContent = allPassed ? '✓ All Tests Passed' : `${res.totalPassed}/${res.totalTests} Passed`;
+
+    els.crExecStats.textContent = res.compileError ? 'Compilation / Runtime Error' : `Completed ${res.totalTests} test cases`;
+
+    els.crResultsList.innerHTML = (res.results || []).map((r, i) => `
+      <div class="cr-result-card ${r.passed ? 'passed' : 'failed'}">
+        <div class="cr-res-top">
+          <span class="${r.passed ? 'cr-res-status-pass' : 'cr-res-status-fail'}">
+            Case ${i + 1}: ${r.passed ? 'PASSED' : 'FAILED'}
+          </span>
+          <span style="color:var(--text-muted);font-size:0.75rem;">${r.executionTimeMs}ms</span>
+        </div>
+        ${r.error ? `<div style="color:#f87171;font-size:0.8rem;margin-top:2px;">Error: ${escapeHTML(r.error)}</div>` : ''}
+        <div class="cr-res-detail">
+          <span>Expected:</span>
+          <span>${escapeHTML(r.expected)}</span>
+        </div>
+        <div class="cr-res-detail">
+          <span>Actual:</span>
+          <span style="color:${r.passed ? '#34d399' : '#f87171'}">${escapeHTML(r.actual)}</span>
+        </div>
+      </div>
+    `).join('');
+
+    if (res.stdout && res.stdout.trim()) {
+      els.crStdoutBox.style.display = 'block';
+      els.crStdoutContent.textContent = res.stdout;
+    } else {
+      els.crStdoutBox.style.display = 'none';
+    }
+
+    if (res.compileError) {
+      els.crStatusMsg.className = 'cr-status-msg error';
+      els.crStatusMsg.textContent = res.compileError.slice(0, 100);
+    } else {
+      els.crStatusMsg.className = 'cr-status-msg';
+      els.crStatusMsg.textContent = allPassed ? 'All test cases passed! Ready to submit.' : 'Some test cases failed.';
+    }
+  }
+
+  function markActiveProblemSolved() {
+    if (!activeStudioQuestion) return;
+    const id = activeStudioQuestion.id;
+    if (!solved.has(id)) {
+      solved.add(id);
+      localStorage.setItem(STORAGE_KEY_SOLVED, JSON.stringify(Array.from(solved)));
+      updateProgressUI();
+      updateGSheetSyncCount();
+      updateItemStateInDOM(id);
+    }
+    showToast(`Marked "${activeStudioQuestion.title}" as solved!`);
+    els.crMarkSolvedBtn.textContent = '✓ Solved';
   }
 
   function showToast(msg) {

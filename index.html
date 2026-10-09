@@ -400,10 +400,18 @@
         </div>
 
         <div class="modal-actions-right">
-          <a id="modal-practice-btn" href="#" target="_blank" rel="noopener" class="btn btn-practice btn-practice-lg">
-            <span>Practice on FastPrep</span>
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-              <polyline points="9 18 15 12 9 6"></polyline>
+          <button type="button" id="modal-solve-btn" class="btn btn-primary btn-practice-lg" title="Open Code Studio to compile and test code for free">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor">
+              <polygon points="5 3 19 12 5 21 5 3"></polygon>
+            </svg>
+            <span>Solve & Run (Free)</span>
+          </button>
+          <a id="modal-practice-btn" href="#" target="_blank" rel="noopener" class="btn btn-secondary btn-practice-lg" title="Open original question on FastPrep.io">
+            <span>FastPrep ↗</span>
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+              <polyline points="15 3 21 3 21 9"></polyline>
+              <line x1="10" y1="14" x2="21" y2="3"></line>
             </svg>
           </a>
         </div>
@@ -476,7 +484,13 @@
             <span id="note-problem-companies" class="note-meta-item">Companies: -</span>
             <span id="note-problem-format" class="note-meta-item">Format: -</span>
             <span id="note-problem-date" class="note-meta-item">Date: -</span>
-            <a id="note-problem-link" href="#" target="_blank" rel="noopener" class="note-problem-link">View Problem ↗</a>
+            <button type="button" id="note-solve-btn" class="btn-solve" style="padding: 3px 9px; font-size: 0.75rem;" title="Run, compile, and test with custom cases (Free)">
+              <svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor">
+                <polygon points="5 3 19 12 5 21 5 3"></polygon>
+              </svg>
+              <span>Solve &amp; Test</span>
+            </button>
+            <a id="note-problem-link" href="#" target="_blank" rel="noopener" class="note-problem-link" title="Open question on FastPrep.io">FastPrep ↗</a>
           </div>
         </div>
 
@@ -547,6 +561,163 @@
           </button>
           <button type="button" id="note-save-sync-btn" class="btn btn-primary">
             <span>Save & Sync to Sheet</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Interactive Code & Test Studio Modal -->
+  <div id="code-runner-modal" class="modal-backdrop code-modal-backdrop" aria-hidden="true" style="display: none;">
+    <div class="modal-card code-modal-card">
+      <!-- Modal Header -->
+      <div class="modal-header cr-header">
+        <div class="cr-header-left">
+          <div class="cr-meta-row">
+            <span id="cr-format-badge" class="pill-badge format-badge fmt-coding">Coding</span>
+            <span id="cr-company-badge" class="pill-badge company-pill">-</span>
+            <span id="cr-date-badge" class="date-badge">-</span>
+          </div>
+          <h2 id="cr-title" class="cr-modal-title">Loading Question...</h2>
+        </div>
+
+        <div class="cr-header-right">
+          <div class="cr-lang-picker">
+            <label for="cr-language" class="cr-label">Language:</label>
+            <select id="cr-language" class="styled-select select-compact">
+              <option value="python">Python 3.12</option>
+              <option value="javascript">JavaScript (Bun/V8)</option>
+              <option value="cpp">C++ (GCC)</option>
+              <option value="java">Java (OpenJDK)</option>
+            </select>
+          </div>
+          <button type="button" id="cr-reset-code-btn" class="btn btn-secondary btn-sm" title="Reset editor to initial starter code">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path>
+              <path d="M3 3v5h5"></path>
+            </svg>
+            <span>Reset</span>
+          </button>
+          <a id="cr-fastprep-link" href="#" target="_blank" rel="noopener" class="btn btn-secondary btn-sm" title="Open source page on FastPrep">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+              <polyline points="15 3 21 3 21 9"></polyline>
+              <line x1="10" y1="14" x2="21" y2="3"></line>
+            </svg>
+            <span>FastPrep</span>
+          </a>
+          <button type="button" id="cr-modal-close-btn" class="modal-close-btn" aria-label="Close modal">✕</button>
+        </div>
+      </div>
+
+      <!-- Modal Body (Two-Column Workspace) -->
+      <div class="modal-body cr-modal-body">
+        <!-- Left Panel: Problem Specifications -->
+        <div class="cr-problem-pane">
+          <div class="cr-section-header">
+            <h3>Problem Description</h3>
+          </div>
+          <div id="cr-problem-loading" class="cr-loading" style="display: none;">
+            <div class="spinner"></div>
+            <span>Fetching problem details & test cases...</span>
+          </div>
+          <div id="cr-problem-content" class="cr-problem-content">
+            <div id="cr-statement" class="cr-prose"></div>
+            
+            <div class="cr-contract-box">
+              <h4>Function Signature</h4>
+              <pre><code id="cr-signature"></code></pre>
+            </div>
+
+            <div class="cr-constraints-box">
+              <h4>Constraints</h4>
+              <ul id="cr-constraints" class="cr-constraints-list"></ul>
+            </div>
+
+            <div class="cr-examples-box">
+              <h4>Examples</h4>
+              <div id="cr-examples" class="cr-examples-list"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Panel: Editor & Test Runner -->
+        <div class="cr-editor-pane">
+          <!-- Editor Sub-header -->
+          <div class="cr-editor-toolbar">
+            <div class="cr-editor-info">
+              <span class="cr-filename">solution.<span id="cr-file-ext">py</span></span>
+              <span class="cr-hint">Ctrl + Enter to run tests</span>
+            </div>
+          </div>
+
+          <!-- Code Editor Area -->
+          <div class="cr-code-wrapper">
+            <textarea id="cr-code-editor" class="cr-code-textarea" spellcheck="false" autocomplete="off" autocapitalize="off"></textarea>
+          </div>
+
+          <!-- Bottom Workspace: Test Cases & Results -->
+          <div class="cr-test-workspace">
+            <div class="cr-test-header">
+              <div class="cr-test-tabs" id="cr-case-tabs" role="tablist">
+                <!-- Case buttons populated dynamically -->
+              </div>
+              <button type="button" id="cr-add-case-btn" class="btn btn-secondary btn-sm" title="Add custom test case">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                  <line x1="12" y1="5" x2="12" y2="19"></line>
+                  <line x1="5" y1="12" x2="19" y2="12"></line>
+                </svg>
+                <span>Add Case</span>
+              </button>
+            </div>
+
+            <!-- Active Test Case Editor -->
+            <div class="cr-case-fields">
+              <div class="form-group cr-case-field">
+                <label for="cr-case-input" class="form-label">Input Variables (Executable)</label>
+                <textarea id="cr-case-input" class="form-textarea cr-mono-input" rows="2" placeholder="e.g. commands = [&quot;ADD 1.1.1.1&quot;]"></textarea>
+              </div>
+              <div class="form-group cr-case-field">
+                <label for="cr-case-expected" class="form-label">Expected Output</label>
+                <textarea id="cr-case-expected" class="form-textarea cr-mono-input" rows="2" placeholder="e.g. [&quot;1.1.1.1&quot;] or 35"></textarea>
+              </div>
+            </div>
+
+            <!-- Results Output Panel -->
+            <div id="cr-results-panel" class="cr-results-panel" style="display: none;">
+              <div class="cr-results-header">
+                <span id="cr-overall-badge" class="pill-badge">Results</span>
+                <span id="cr-exec-stats" class="cr-exec-stats"></span>
+              </div>
+              <div id="cr-results-list" class="cr-results-list"></div>
+              <div id="cr-stdout-box" class="cr-stdout-box" style="display: none;">
+                <span class="cr-stdout-title">Standard Output / Logs:</span>
+                <pre><code id="cr-stdout-content"></code></pre>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modal Footer -->
+      <div class="modal-footer cr-modal-footer">
+        <div class="modal-actions-left">
+          <span id="cr-status-msg" class="cr-status-msg">Ready to test</span>
+        </div>
+        <div class="modal-actions-right">
+          <button type="button" id="cr-run-btn" class="btn btn-primary btn-run">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor">
+              <polygon points="5 3 19 12 5 21 5 3"></polygon>
+            </svg>
+            <span>Run Tests</span>
+            <span class="btn-hotkey-badge">Ctrl+Enter</span>
+          </button>
+          <button type="button" id="cr-mark-solved-btn" class="btn btn-secondary" title="Mark this problem as solved">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+              <polyline points="22 4 12 14.01 9 11.01"></polyline>
+            </svg>
+            <span>Mark Solved</span>
           </button>
         </div>
       </div>
