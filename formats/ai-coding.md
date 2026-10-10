@@ -2,21 +2,21 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**74 questions**
+**75 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Oct 09, 2026|
 |**NxtPe**|[Implement Mandate Details and Provider Authentication](https://www.fastprep.io/project-coding/nxtpe-mandate-provider-authentication)|[![Practice][p]](https://www.fastprep.io/project-coding/nxtpe-mandate-provider-authentication)|🔥 Oct 08, 2026|
 |**Persona**|[Build an Internal Go-Link Service](https://www.fastprep.io/project-coding/persona-internal-go-links)|[![Practice][p]](https://www.fastprep.io/project-coding/persona-internal-go-links)|🔥 Oct 06, 2026|
 |**NVIDIA**|[Build a System Metrics Reporter](https://www.fastprep.io/project-coding/nvidia-system-metrics-reporter)|[![Practice][p]](https://www.fastprep.io/project-coding/nvidia-system-metrics-reporter)|🔥 Oct 06, 2026|
 |**Netflix**|[Review and Repair an ML Feature Pipeline PR](https://www.fastprep.io/project-coding/netflix-feature-pipeline-pr-review)|[![Practice][p]](https://www.fastprep.io/project-coding/netflix-feature-pipeline-pr-review)|🔥 Oct 05, 2026|
 |**Zip**|[Repair Monthly Expense Attribution](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-repair-monthly-expense-attribution)|🔥 Oct 02, 2026|
-|**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Oct 01, 2026|
 |**BNSF Railway**|[Implement a Railway Quote Service Layer](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|[![Practice][p]](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|🔥 Sep 30, 2026|
-|**Odoo**|[Build FIFO Inventory Costing](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|[![Practice][p]](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|🔥 Sep 25, 2026|
-|**Groww**|[Build an Extensible Brokerage Charge Calculator](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|[![Practice][p]](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|🔥 Sep 25, 2026|
+|**Odoo**|[Build FIFO Inventory Costing](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|[![Practice][p]](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|🆕 Sep 25, 2026|
+|**Groww**|[Build an Extensible Brokerage Charge Calculator](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|[![Practice][p]](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|🆕 Sep 25, 2026|
 |**Intuit**|[Amend a Git Commit from Bash](https://www.fastprep.io/project-coding/intuit-amend-git-commit-history)|[![Practice][p]](https://www.fastprep.io/project-coding/intuit-amend-git-commit-history)|🆕 Sep 24, 2026|
 |**Verkada**|[Build a Camera Communication API](https://www.fastprep.io/project-coding/verkada-camera-log-api-server)|[![Practice][p]](https://www.fastprep.io/project-coding/verkada-camera-log-api-server)|🆕 Sep 22, 2026|
 |**Cresta**|[Build a Conversational Flight Booking Agent](https://www.fastprep.io/project-coding/cresta-conversational-flight-booking-agent)|[![Practice][p]](https://www.fastprep.io/project-coding/cresta-conversational-flight-booking-agent)|🆕 Sep 22, 2026|
@@ -67,6 +67,7 @@
 |**Motive**|[Integrate Geocoding and Route Services](https://www.fastprep.io/project-coding/motive-geocoding-route-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/motive-geocoding-route-integration)|Dec 23, 2025|
 |**Motive**|[Build a Vehicle Catalog Analysis API](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|[![Practice][p]](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|Dec 19, 2025|
 |**Scale AI**|[Implement a Worker Load Balancer](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|Dec 07, 2025|
+|**Stripe**|[Complete a Paginated API Synchronization](https://www.fastprep.io/project-coding/stripe-paginated-api-synchronization)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-paginated-api-synchronization)|Dec 04, 2025|
 |**Rippling**|[Build an In-Memory Community Q&A API](https://www.fastprep.io/project-coding/community-question-answer-api)|[![Practice][p]](https://www.fastprep.io/project-coding/community-question-answer-api)|Nov 20, 2025|
 |**Stripe**|[Repair Redirected Request Body Replay](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|Nov 12, 2025|
 |**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|

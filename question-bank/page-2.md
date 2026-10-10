@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**HSBC**|[Remove Vowels from a String](https://www.fastprep.io/problems/hsbc-remove-vowels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-remove-vowels)|Aug 03, 2026|
+|**Infosys**|[Count Valid A-B-C Sequences Under a Modulo-Four Rule](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four)|Aug 02, 2026|
+|**Infosys**|[Maximum Product of a Strictly Increasing Contiguous Subarray](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|Aug 02, 2026|
+|**Infosys**|[Minimum Cost to Assign Candidates to Two Cities](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|Aug 02, 2026|
 |**OpenAI**|[Design a Declarative Infrastructure Orchestrator](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator)|System design|[![Practice][p]](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator)|Aug 02, 2026|
 |**Baseten**|[Build a Durable Single-Server Key-Value Store](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store)|Aug 02, 2026|
 |**Baseten**|[Parallelize API Calls with a Thread Pool](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner)|Aug 02, 2026|
@@ -612,6 +616,7 @@
 |**HackerRank**|[Check Permutation Divisible by Eight](https://www.fastprep.io/problems/hackerrank-check-permutation-divisible-by-eight)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-check-permutation-divisible-by-eight)|Mar 31, 2026|
 |**Stripe**|[Order Manager with Partial Cancellations and Indexed Queries](https://www.fastprep.io/problems/stripe-order-manager-cancellations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-order-manager-cancellations)|Mar 31, 2026|
 |**Microsoft**|[Maximum Data Transfer Time](https://www.fastprep.io/problems/microsoft-maximum-data-transfer-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-data-transfer-time)|Mar 28, 2026|
+|**Stripe**|[Design a Business KYC Verification Domain](https://www.fastprep.io/low-level-design/business-kyc-verification-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/business-kyc-verification-domain)|Mar 27, 2026|
 |**Notion**|[Page Permission Inheritance](https://www.fastprep.io/problems/notion-page-permission-inheritance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-page-permission-inheritance)|Mar 26, 2026|
 |**Notion**|[Block Type with the Most Children](https://www.fastprep.io/problems/notion-block-type-with-most-children)|SQL|[![Practice][p]](https://www.fastprep.io/problems/notion-block-type-with-most-children)|Mar 26, 2026|
 |**Notion**|[Country with the Most Events](https://www.fastprep.io/problems/notion-country-with-most-events)|SQL|[![Practice][p]](https://www.fastprep.io/problems/notion-country-with-most-events)|Mar 26, 2026|
@@ -773,6 +778,7 @@
 |**Benchling**|[Design an Intersection Traffic-Light Controller](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/intersection-traffic-light-controller)|Dec 06, 2025|
 |**Google**|[The Skyline Problem](https://www.fastprep.io/problems/google-the-skyline-problem)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-the-skyline-problem)|Dec 04, 2025|
 |**Google**|[Run-Length Encode a String](https://www.fastprep.io/problems/google-run-length-encode-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-run-length-encode-string)|Dec 04, 2025|
+|**Stripe**|[Complete a Paginated API Synchronization](https://www.fastprep.io/project-coding/stripe-paginated-api-synchronization)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-paginated-api-synchronization)|Dec 04, 2025|
 |**Bloomberg LP**|[Deepest Nested Substrings](https://www.fastprep.io/problems/bloomberg-deepest-nested-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-deepest-nested-substrings)|Dec 03, 2025|
 |**Agoda**|[Special Diameter Endpoints](https://www.fastprep.io/problems/agoda-special-diameter-endpoints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-special-diameter-endpoints)|Nov 29, 2025|
 |**Agoda**|[TV Series in a Production Window](https://www.fastprep.io/problems/agoda-tv-series-production-window)|SQL|[![Practice][p]](https://www.fastprep.io/problems/agoda-tv-series-production-window)|Nov 29, 2025|
@@ -1821,12 +1827,4 @@
 |**IBM**|[Elementary School](https://www.fastprep.io/problems/ibm-elementary-school)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-elementary-school)|Mar 20, 2024|
 |**Goldman Sachs**|[Find Niceness](https://www.fastprep.io/problems/goldman-find-niceness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-find-niceness)|Mar 20, 2024|
 |**IXL Learning**|[Card Packets](https://www.fastprep.io/problems/ixl-card-packets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ixl-card-packets)|Mar 20, 2024|
-|**IXL Learning**|[Count Max](https://www.fastprep.io/problems/ixl-count-max)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ixl-count-max)|Mar 20, 2024|
-|**IXL Learning**|[Get Min Difference](https://www.fastprep.io/problems/ixl-get-minimum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ixl-get-minimum-difference)|Mar 20, 2024|
-|**IXL Learning**|[Prison](https://www.fastprep.io/problems/ixl-prison)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ixl-prison)|Mar 20, 2024|
-|**Amazon**|[Count Faults (Faulty Binding 101 😁)](https://www.fastprep.io/problems/amazon-count-faults)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-faults)|Mar 19, 2024|
-|**Amazon**|[Find Max Num](https://www.fastprep.io/problems/amazon-find-maximum-num)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-maximum-num)|Mar 19, 2024|
-|**Wolverine Trading**|[Count Operations](https://www.fastprep.io/problems/wolverine-trading-count-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-count-operations)|Mar 19, 2024|
-|**Wolverine Trading**|[Encode](https://www.fastprep.io/problems/wolverine-trading-decode)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-decode)|Mar 19, 2024|
-|**Wolverine Trading**|[Max Shared](https://www.fastprep.io/problems/wolverine-trading-max-shared)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-max-shared)|Mar 19, 2024|
 <a id="bottom"></a>
