@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Fivetran**|[Unique Near-Equal Target-Sum Pairs](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs)|Jun 13, 2024|
 |**Fivetran**|[Connected Groups](https://www.fastprep.io/problems/fivetran-connected-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fivetran-connected-groups)|Jun 13, 2024|
 |**Anduril**|[Design a Radar Sensor Observation Pipeline](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|Jun 11, 2024|
 |**Amazon**|[Maximize Subtree Product](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Jun 10, 2024|
@@ -316,6 +317,7 @@
 |**TikTok**|[Stars and Bars](https://www.fastprep.io/problems/tiktok-stars-and-bars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-stars-and-bars)|Feb 02, 2024|
 |**TikTok**|[Longest OR](https://www.fastprep.io/problems/tiktok-longest-or)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-longest-or)|Feb 02, 2024|
 |**TikTok**|[Get Server Index](https://www.fastprep.io/problems/tiktok-get-server-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-server-index)|Feb 02, 2024|
+|**Meta**|[Valid Parentheses](https://www.fastprep.io/problems/meta-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-valid-parentheses)|Jan 31, 2024|
 |**Amazon**|[Dropped Requests](https://www.fastprep.io/problems/amazon-dropped-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-dropped-requests)|Jan 27, 2024|
 |**Amazon**|[Find Unique Values](https://www.fastprep.io/problems/amazon-find-unique-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-unique-values)|Jan 27, 2024|
 |**Amazon**|[Execute Processes](https://www.fastprep.io/problems/amazon-execute-processes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-execute-processes)|Jan 27, 2024|

@@ -520,6 +520,7 @@
 |**Snowflake**|[Drawing Edge](https://www.fastprep.io/problems/snowflake-drawing-edge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-drawing-edge)|Jun 24, 2026|
 |**Microsoft**|[Programmer Strings](https://www.fastprep.io/problems/microsoft-programmer-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-programmer-strings)|Jun 24, 2026|
 |**Microsoft**|[Minimum Round Trip Lengths](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths)|Jun 24, 2026|
+|**Meta**|[Alert After Repeated Column Threshold Breaches](https://www.fastprep.io/problems/meta-column-threshold-stream-alert)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-column-threshold-stream-alert)|Jun 24, 2026|
 |**Globalization Partners**|[Design an Extensible Role-Based Access Control System](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Jun 23, 2026|
 |**Google**|[Design Student Room Preference Allocation](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Jun 23, 2026|
 |**Datadog**|[Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|Jun 22, 2026|
@@ -1809,5 +1810,4 @@
 |**Microsoft**|[Skycraper](https://www.fastprep.io/problems/microsoft-skyscraper)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-skyscraper)|Jun 15, 2024|
 |**Microsoft**|[Min Num Cells](https://www.fastprep.io/problems/microsoft-min-num-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-min-num-letters)|Jun 15, 2024|
 |**Microsoft**|[Maximum Cells](https://www.fastprep.io/problems/microsoft-maximum-cells)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-cells)|Jun 15, 2024|
-|**Fivetran**|[Unique Near-Equal Target-Sum Pairs](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs)|Jun 13, 2024|
 <a id="bottom"></a>
