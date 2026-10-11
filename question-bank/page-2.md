@@ -1274,6 +1274,8 @@
 |**Microsoft**|[Min Replacements Required to Make a Matrix Balanced](https://www.fastprep.io/problems/microsoft-minimum-replacements-required-to-make-a-matrix-balanced)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-replacements-required-to-make-a-matrix-balanced)|Dec 16, 2024|
 |**Microsoft**|[Max Sum With Same First And Last Digit](https://www.fastprep.io/problems/microsoft-find-max-sum-with-same-first-and-last-digit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-find-max-sum-with-same-first-and-last-digit)|Dec 16, 2024|
 |**GitHub**|[Bridge Car Weight](https://www.fastprep.io/problems/github-brdige-car-weight)|Coding|[![Practice][p]](https://www.fastprep.io/problems/github-brdige-car-weight)|Dec 16, 2024|
+|**Meta**|[Count Centaur Friend Requests](https://www.fastprep.io/problems/meta-centaur-friend-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-centaur-friend-requests)|Dec 12, 2024|
+|**Meta**|[Top N Frequent Words in a File](https://www.fastprep.io/problems/meta-top-n-words-in-file)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-top-n-words-in-file)|Dec 12, 2024|
 |**Amazon**|[Get Min Value](https://www.fastprep.io/problems/amazon-get-minimum-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-value)|Dec 11, 2024|
 |**Amazon**|[Get Max Skill Sum](https://www.fastprep.io/problems/amazon-get-max-skill-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-skill-sum)|Dec 11, 2024|
 |**Amazon**|[Find Number](https://www.fastprep.io/problems/amazon-find-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-number)|Dec 10, 2024|
@@ -1808,6 +1810,4 @@
 |**Fivetran**|[Unique Near-Equal Target-Sum Pairs](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs)|Jun 13, 2024|
 |**Fivetran**|[Connected Groups](https://www.fastprep.io/problems/fivetran-connected-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fivetran-connected-groups)|Jun 13, 2024|
 |**Anduril**|[Design a Radar Sensor Observation Pipeline](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|Jun 11, 2024|
-|**Amazon**|[Maximize Subtree Product](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Jun 10, 2024|
-|**Amazon**|[Bring Servers Down](https://www.fastprep.io/problems/amazon-bring-servers-down)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-bring-servers-down)|Jun 10, 2024|
 <a id="bottom"></a>
