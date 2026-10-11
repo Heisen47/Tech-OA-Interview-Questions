@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**72 questions**
+**73 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -18,6 +18,7 @@
 |**Boston Consulting Group**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|🔥 Oct 08, 2026|
 |**Boston Consulting Group**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|🔥 Oct 08, 2026|
 |**Verisk**|[Companies Above a Salary Threshold](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|[![Practice][p]](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|🔥 Oct 07, 2026|
+|**Infosys**|[Tenth-Highest Distinct Salary](https://www.fastprep.io/problems/infosys-tenth-highest-distinct-salary)|[![Practice][p]](https://www.fastprep.io/problems/infosys-tenth-highest-distinct-salary)|🔥 Oct 07, 2026|
 |**Capital One**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|🔥 Oct 01, 2026|
 |**Capital One**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|🔥 Oct 01, 2026|
 |**Capital One**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|🔥 Oct 01, 2026|
@@ -26,8 +27,8 @@
 |**Capital One**|[Build House Viewing Features](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|🔥 Sep 30, 2026|
 |**Capital One**|[Prepare House Price Regression Data](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|🔥 Sep 30, 2026|
 |**Capital One**|[Predict House Prices](https://www.fastprep.io/problems/capital-one-predict-house-prices)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-house-prices)|🔥 Sep 30, 2026|
-|**Mygate**|[Employees Earning More Than Their Manager](https://www.fastprep.io/problems/mygate-employees-over-manager)|[![Practice][p]](https://www.fastprep.io/problems/mygate-employees-over-manager)|🔥 Sep 26, 2026|
-|**Mygate**|[Users Active in Both January and February](https://www.fastprep.io/problems/mygate-users-active-january-february)|[![Practice][p]](https://www.fastprep.io/problems/mygate-users-active-january-february)|🔥 Sep 26, 2026|
+|**Mygate**|[Employees Earning More Than Their Manager](https://www.fastprep.io/problems/mygate-employees-over-manager)|[![Practice][p]](https://www.fastprep.io/problems/mygate-employees-over-manager)|🆕 Sep 26, 2026|
+|**Mygate**|[Users Active in Both January and February](https://www.fastprep.io/problems/mygate-users-active-january-february)|[![Practice][p]](https://www.fastprep.io/problems/mygate-users-active-january-february)|🆕 Sep 26, 2026|
 |**Intuit**|[Oldest and Youngest Employees](https://www.fastprep.io/problems/intuit-oldest-and-youngest-employees)|[![Practice][p]](https://www.fastprep.io/problems/intuit-oldest-and-youngest-employees)|🆕 Sep 22, 2026|
 |**Capital One**|[Rank Flights by Airline and Destination Frequency](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination)|🆕 Sep 19, 2026|
 |**IBM**|[Customer Resource Usage Analysis](https://www.fastprep.io/problems/ibm-customer-resource-usage-analysis)|[![Practice][p]](https://www.fastprep.io/problems/ibm-customer-resource-usage-analysis)|🆕 Sep 18, 2026|
