@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,413)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (574)](formats/system-design.md) · [Low-level design (166)](formats/low-level-design.md) · [AI coding (75)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,413)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (575)](formats/system-design.md) · [Low-level design (166)](formats/low-level-design.md) · [AI coding (76)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -998,6 +998,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Find a Valid Course Completion Order](https://www.fastprep.io/problems/google-course-completion-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-course-completion-order)|🆕 Sep 17, 2026|
 |**Google**|[First and Last Target Position in a Mountain Array](https://www.fastprep.io/problems/google-mountain-array-target-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-mountain-array-target-range)|🆕 Sep 17, 2026|
 |**Blinkit / Karat**|[Design a Food Delivery Order Tracking System](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|🆕 Sep 17, 2026|
+|**Amazon**|[Latest Stock State Across Distribution Centers](https://www.fastprep.io/system-design/distribution-center-stock-state)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distribution-center-stock-state)|🆕 Sep 17, 2026|
 |**Zip**|[Cache Ticket Alerts for Approval](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|🆕 Sep 16, 2026|
 |**IBM**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/ibm-event-presave-validation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/ibm-event-presave-validation)|🆕 Sep 16, 2026|
 |**Tesla**|[Swap Even and Odd Bits](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|🆕 Sep 16, 2026|
@@ -1505,6 +1506,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**LinkedIn**|[Largest Number](https://www.fastprep.io/problems/linkedin-largest-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-largest-number)|🆕 Sep 01, 2026|
 |**Snap Inc.**|[Most Stones Removed with Same Row or Column](https://www.fastprep.io/problems/snap-inc-most-stones-removed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snap-inc-most-stones-removed)|🆕 Sep 01, 2026|
 |**LinkedIn**|[Repeated Shortest Word Distance Queries](https://www.fastprep.io/problems/linkedin-shortest-word-distance-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-shortest-word-distance-queries)|🆕 Sep 01, 2026|
+|**Amazon**|[Repair Dashboard Issue Creation](https://www.fastprep.io/project-coding/amazon-dashboard-issue-creation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-dashboard-issue-creation)|🆕 Sep 01, 2026|
 |**Snowflake**|[Design an Interactive SQL Notebook](https://www.fastprep.io/system-design/interactive-sql-notebook)|System design|[![Practice][p]](https://www.fastprep.io/system-design/interactive-sql-notebook)|🆕 Aug 31, 2026|
 |**Nubank**|[Design an Online Coding Competition Platform](https://www.fastprep.io/system-design/online-coding-competition-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-coding-competition-platform)|🆕 Aug 31, 2026|
 |**Mercor**|[Design a Project-to-Contractor Matching Platform](https://www.fastprep.io/system-design/project-contractor-matching-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/project-contractor-matching-platform)|🆕 Aug 31, 2026|
@@ -1688,6 +1690,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Apple**|[Design Cross-Device Wallpaper Synchronization](https://www.fastprep.io/system-design/cross-device-wallpaper-sync)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-device-wallpaper-sync)|Aug 16, 2026|
 |**Snowflake**|[Design Calendar Client State and Recurrence](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence)|System design|[![Practice][p]](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence)|Aug 15, 2026|
 |**Microsoft**|[Desktop Notification Center](https://www.fastprep.io/low-level-design/desktop-notification-center)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/desktop-notification-center)|Aug 15, 2026|
-|**Microsoft**|[Design Grounded Local Sports Recommendations](https://www.fastprep.io/system-design/local-sports-rag-recommendations)|System design|[![Practice][p]](https://www.fastprep.io/system-design/local-sports-rag-recommendations)|Aug 15, 2026|
-|**Navan**|[Design and Implement a Flight Status Notification Center](https://www.fastprep.io/low-level-design/flight-status-notification-center)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-status-notification-center)|Aug 15, 2026|
 <a id="bottom"></a>

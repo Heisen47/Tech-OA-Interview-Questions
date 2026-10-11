@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Design Grounded Local Sports Recommendations](https://www.fastprep.io/system-design/local-sports-rag-recommendations)|System design|[![Practice][p]](https://www.fastprep.io/system-design/local-sports-rag-recommendations)|Aug 15, 2026|
+|**Navan**|[Design and Implement a Flight Status Notification Center](https://www.fastprep.io/low-level-design/flight-status-notification-center)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-status-notification-center)|Aug 15, 2026|
 |**Giga**|[Design a Browser-Automated Customer Support Agent](https://www.fastprep.io/system-design/browser-automated-customer-support-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/browser-automated-customer-support-agent)|Aug 14, 2026|
 |**Rippling / Amazon**|[Design an Event Ingestion Platform](https://www.fastprep.io/system-design/durable-event-ingestion-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-event-ingestion-platform)|Aug 14, 2026|
 |**Spotify**|[Design a Personalized Session Playlist Ranking System](https://www.fastprep.io/system-design/personalized-session-playlist-ranking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-session-playlist-ranking)|Aug 14, 2026|
@@ -1810,6 +1812,4 @@
 |**Goldman Sachs**|[Encode or Decode Message](https://www.fastprep.io/problems/goldman-encode-or-decode-message)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-encode-or-decode-message)|May 25, 2024|
 |**Cisco**|[Flight Path Package Drop](https://www.fastprep.io/problems/cisco-maximum-drop-points-cover)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-maximum-drop-points-cover)|May 25, 2024|
 |**Motive**|[Maximum Product of Three Numbers](https://www.fastprep.io/problems/motive-maximum-product-of-three-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-maximum-product-of-three-numbers)|May 24, 2024|
-|**Motive**|[Chunked Round-Robin Row Traversal](https://www.fastprep.io/problems/motive-round-robin-row-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-round-robin-row-iterator)|May 24, 2024|
-|**Retool**|[Design a Station-Based Bike Sharing Platform](https://www.fastprep.io/system-design/station-based-bike-sharing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/station-based-bike-sharing-platform)|May 20, 2024|
 <a id="bottom"></a>
