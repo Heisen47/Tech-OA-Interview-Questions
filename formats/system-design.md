@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**579 questions**
+**580 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -531,6 +531,7 @@
 |**Google**|[Design Near-Duplicate Image Detection](https://www.fastprep.io/system-design/near-duplicate-image-detection)|[![Practice][p]](https://www.fastprep.io/system-design/near-duplicate-image-detection)|Jan 16, 2024|
 |**Bloomberg LP**|[Design a Shoe E-Commerce Marketplace](https://www.fastprep.io/system-design/shoe-ecommerce-inventory-checkout)|[![Practice][p]](https://www.fastprep.io/system-design/shoe-ecommerce-inventory-checkout)|Dec 05, 2023|
 |**Navan**|[Design a Cross-Device Video Resume Service](https://www.fastprep.io/system-design/cross-device-video-resume-service)|[![Practice][p]](https://www.fastprep.io/system-design/cross-device-video-resume-service)|Oct 04, 2023|
+|**Headlands Technologies**|[Design Distributed Unused-Code Analysis](https://www.fastprep.io/system-design/distributed-unused-code-analysis)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-unused-code-analysis)|Jun 28, 2023|
 |**Runway**|[Video Content Analysis Platform](https://www.fastprep.io/system-design/video-content-analysis-platform)|[![Practice][p]](https://www.fastprep.io/system-design/video-content-analysis-platform)|Apr 04, 2023|
 |**Bloomberg LP**|[Design Capacity-Weighted Cache Routing](https://www.fastprep.io/system-design/capacity-weighted-cache-routing)|[![Practice][p]](https://www.fastprep.io/system-design/capacity-weighted-cache-routing)|Nov 21, 2022|
 |**Microsoft**|[Design Website Classification with Crowd-Labeled Data](https://www.fastprep.io/system-design/website-classification-crowd-labels)|[![Practice][p]](https://www.fastprep.io/system-design/website-classification-crowd-labels)|Oct 31, 2022|

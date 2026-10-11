@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**166 questions**
+**167 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -159,6 +159,7 @@
 |**Navan**|[Design a Flight Booking Orchestrator](https://www.fastprep.io/low-level-design/flight-booking-orchestration)|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-booking-orchestration)|Dec 08, 2023|
 |**Onehouse**|[Design a Kafka-Like Distributed Queue](https://www.fastprep.io/low-level-design/kafka-like-distributed-queue)|[![Practice][p]](https://www.fastprep.io/low-level-design/kafka-like-distributed-queue)|Nov 07, 2023|
 |**Modular**|[Design a Configurable Robot Arm](https://www.fastprep.io/low-level-design/configurable-robot-arm)|[![Practice][p]](https://www.fastprep.io/low-level-design/configurable-robot-arm)|Nov 03, 2023|
+|**Headlands Technologies**|[Shared-Memory Single-Writer Single-Reader Channel](https://www.fastprep.io/low-level-design/shared-memory-spsc-channel)|[![Practice][p]](https://www.fastprep.io/low-level-design/shared-memory-spsc-channel)|Aug 24, 2023|
 |**Motive**|[Design a Restaurant Catalog Management Service](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|[![Practice][p]](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|Jun 07, 2023|
 |**ZipRecruiter**|[Design and Implement a Playlist Management Domain](https://www.fastprep.io/low-level-design/playlist-management-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/playlist-management-domain)|May 14, 2023|
 |**Scale AI**|[Design and Implement a Task and Worker Assignment Model](https://www.fastprep.io/low-level-design/task-worker-assignment-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/task-worker-assignment-model)|Sep 09, 2022|
