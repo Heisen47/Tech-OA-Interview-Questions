@@ -9,10 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Min Num Cells](https://www.fastprep.io/problems/microsoft-min-num-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-min-num-letters)|Jun 15, 2024|
+|**Microsoft**|[Maximum Cells](https://www.fastprep.io/problems/microsoft-maximum-cells)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-cells)|Jun 15, 2024|
 |**Fivetran**|[Unique Near-Equal Target-Sum Pairs](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs)|Jun 13, 2024|
 |**Fivetran**|[Connected Groups](https://www.fastprep.io/problems/fivetran-connected-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fivetran-connected-groups)|Jun 13, 2024|
 |**Anduril**|[Design a Radar Sensor Observation Pipeline](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|Jun 11, 2024|
-|**Headlands Technologies**|[Concurrent Sorted-Stream Merger](https://www.fastprep.io/low-level-design/concurrent-sorted-stream-merger)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-sorted-stream-merger)|Jun 11, 2024|
 |**Amazon**|[Maximize Subtree Product](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Jun 10, 2024|
 |**Amazon**|[Bring Servers Down](https://www.fastprep.io/problems/amazon-bring-servers-down)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-bring-servers-down)|Jun 10, 2024|
 |**Snowflake**|[Search Strings](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|Jun 10, 2024|
@@ -476,6 +477,7 @@
 |**Airbyte**|[Minesweeper Board Update](https://www.fastprep.io/problems/airbyte-minesweeper-board-update)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbyte-minesweeper-board-update)|Mar 29, 2023|
 |**IMC**|[Busy Intersection](https://www.fastprep.io/problems/imc-busy-intersection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-busy-intersection)|Mar 27, 2023|
 |**Coalition**|[Evaluate Reverse Polish Notation](https://www.fastprep.io/problems/coalition-evaluate-reverse-polish-notation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/coalition-evaluate-reverse-polish-notation)|Mar 17, 2023|
+|**Headlands Technologies**|[Asynchronous TCP Message Channel](https://www.fastprep.io/low-level-design/asynchronous-tcp-message-channel)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/asynchronous-tcp-message-channel)|Mar 09, 2023|
 |**Bloomberg LP**|[Bank Operating-Hours Coverage](https://www.fastprep.io/problems/bloomberg-bank-interval-coverage)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-bank-interval-coverage)|Feb 22, 2023|
 |**Bloomberg LP**|[Count Teams Outscoring a Target Team](https://www.fastprep.io/problems/bloomberg-count-teams-outscoring-target)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-teams-outscoring-target)|Feb 22, 2023|
 |**Bloomberg LP**|[Number of Islands](https://www.fastprep.io/problems/bloomberg-number-of-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-islands)|Feb 22, 2023|

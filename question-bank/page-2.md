@@ -933,7 +933,7 @@
 |**Duolingo**|[Longest Border-Ending Diagonal Pattern](https://www.fastprep.io/problems/duolingo-longest-border-ending-diagonal-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-longest-border-ending-diagonal-pattern)|Oct 29, 2025|
 |**Google**|[Swap Two Numbers](https://www.fastprep.io/problems/google-swap-two-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-swap-two-numbers)|Oct 29, 2025|
 |**Google**|[Transform and Prune a Mode-Valued Binary Tree](https://www.fastprep.io/problems/google-transform-and-prune-mode-valued-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-transform-and-prune-mode-valued-binary-tree)|Oct 29, 2025|
-|**Optiver**|[Design a Low-Latency Electronic Trading System](https://www.fastprep.io/system-design/low-latency-electronic-trading-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/low-latency-electronic-trading-system)|Oct 29, 2025|
+|**Optiver / Headlands Technologies**|[Design a Low-Latency Electronic Trading System](https://www.fastprep.io/system-design/low-latency-electronic-trading-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/low-latency-electronic-trading-system)|Oct 29, 2025|
 |**Bloomberg LP**|[Design Search Autocomplete System](https://www.fastprep.io/problems/bloomberg-search-autocomplete-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-autocomplete-system)|Oct 28, 2025|
 |**Bloomberg LP**|[Deep Copy a Random-Pointer List](https://www.fastprep.io/problems/bloomberg-copy-list-with-random-pointer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-copy-list-with-random-pointer)|Oct 28, 2025|
 |**Mastercard**|[Container With Most Water](https://www.fastprep.io/problems/mastercard-container-with-most-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mastercard-container-with-most-water)|Oct 27, 2025|
@@ -1411,6 +1411,7 @@
 |**Cisco**|[Rotate the Matrix](https://www.fastprep.io/problems/cisco-rotate-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-rotate-matrix)|Oct 04, 2024|
 |**Expedia**|[Get Max Efficiency](https://www.fastprep.io/problems/expedia-get-max-efficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-get-max-efficiency)|Oct 04, 2024|
 |**Expedia**|[Calculate the Sum](https://www.fastprep.io/problems/expedia-calculate-the-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-calculate-the-sum)|Oct 04, 2024|
+|**Headlands Technologies**|[Concurrent Sorted-Stream Merger](https://www.fastprep.io/low-level-design/concurrent-sorted-stream-merger)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-sorted-stream-merger)|Oct 04, 2024|
 |**Rubrik**|[Enhance Luminescence](https://www.fastprep.io/problems/rubrik-enhance-luminescence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-enhance-luminescence)|Sep 29, 2024|
 |**Rubrik**|[Maximize Stellar Gradient](https://www.fastprep.io/problems/rubrik-maximize-stellar-gradient)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-maximize-stellar-gradient)|Sep 29, 2024|
 |**Rubrik**|[Salvage Humankind](https://www.fastprep.io/problems/rubrik-salvage-humankind)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-salvage-humankind)|Sep 29, 2024|
@@ -1808,6 +1809,4 @@
 |**Uber**|[Bus Time](https://www.fastprep.io/problems/uber-bus-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-bus-time)|Jun 15, 2024|
 |**IBM**|[Find Arrangement](https://www.fastprep.io/problems/ibm-find-arrangements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-arrangements)|Jun 15, 2024|
 |**Microsoft**|[Skycraper](https://www.fastprep.io/problems/microsoft-skyscraper)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-skyscraper)|Jun 15, 2024|
-|**Microsoft**|[Min Num Cells](https://www.fastprep.io/problems/microsoft-min-num-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-min-num-letters)|Jun 15, 2024|
-|**Microsoft**|[Maximum Cells](https://www.fastprep.io/problems/microsoft-maximum-cells)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-cells)|Jun 15, 2024|
 <a id="bottom"></a>

@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,430)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (580)](formats/system-design.md) · [Low-level design (169)](formats/low-level-design.md) · [AI coding (78)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,430)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (580)](formats/system-design.md) · [Low-level design (170)](formats/low-level-design.md) · [AI coding (78)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -219,7 +219,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Citadel / ByteDance / Microsoft / Walmart / ZipRecruiter / SAP**|[Design an Authenticated Shopping Platform](https://www.fastprep.io/system-design/authenticated-shopping-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/authenticated-shopping-platform)|🔥 Oct 05, 2026|
 |**OpenAI / Lokal / Coupang**|[Design a Multi-Channel Bot Notification Service](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service)|🔥 Oct 05, 2026|
 |**CoinDCX**|[Design a Crypto Order Matching Engine](https://www.fastprep.io/low-level-design/crypto-order-matching-engine-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/crypto-order-matching-engine-domain)|🔥 Oct 05, 2026|
-|**Keychain**|[Design a Future-Time Job Scheduler](https://www.fastprep.io/system-design/future-time-job-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/future-time-job-scheduler)|🔥 Oct 05, 2026|
+|**Keychain / Headlands Technologies**|[Design a Future-Time Job Scheduler](https://www.fastprep.io/system-design/future-time-job-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/future-time-job-scheduler)|🔥 Oct 05, 2026|
 |**Lokal**|[Design a Workspace Notification Policy Domain](https://www.fastprep.io/low-level-design/slack-like-notification-policy-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/slack-like-notification-policy-domain)|🔥 Oct 05, 2026|
 |**FamPay**|[Design and Implement a Per-User Rate Limiter](https://www.fastprep.io/low-level-design/per-user-rate-limiter-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/per-user-rate-limiter-domain)|🔥 Oct 05, 2026|
 |**CoinDCX**|[Count Valleys in a Wiggle Pattern](https://www.fastprep.io/problems/coindcx-count-wiggle-valleys)|Coding|[![Practice][p]](https://www.fastprep.io/problems/coindcx-count-wiggle-valleys)|🔥 Oct 05, 2026|
