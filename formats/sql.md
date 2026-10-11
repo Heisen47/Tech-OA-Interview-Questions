@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**72 questions**
+**73 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -18,6 +18,7 @@
 |**Boston Consulting Group**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-prepare-driver-classification-data)|🔥 Oct 08, 2026|
 |**Boston Consulting Group**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|🔥 Oct 08, 2026|
 |**Verisk**|[Companies Above a Salary Threshold](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|[![Practice][p]](https://www.fastprep.io/problems/verisk-companies-above-average-salary-threshold)|🔥 Oct 07, 2026|
+|**Infosys**|[Tenth-Highest Distinct Salary](https://www.fastprep.io/problems/infosys-tenth-highest-distinct-salary)|[![Practice][p]](https://www.fastprep.io/problems/infosys-tenth-highest-distinct-salary)|🔥 Oct 07, 2026|
 |**Capital One**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|🔥 Oct 01, 2026|
 |**Capital One**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|🔥 Oct 01, 2026|
 |**Capital One**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|🔥 Oct 01, 2026|
