@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,424 questions**
+**3,426 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -342,6 +342,8 @@
 |**Microsoft**|[Min Replacements Required to Make a Matrix Balanced](https://www.fastprep.io/problems/microsoft-minimum-replacements-required-to-make-a-matrix-balanced)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-replacements-required-to-make-a-matrix-balanced)|Dec 16, 2024|
 |**Microsoft**|[Max Sum With Same First And Last Digit](https://www.fastprep.io/problems/microsoft-find-max-sum-with-same-first-and-last-digit)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-find-max-sum-with-same-first-and-last-digit)|Dec 16, 2024|
 |**GitHub**|[Bridge Car Weight](https://www.fastprep.io/problems/github-brdige-car-weight)|[![Practice][p]](https://www.fastprep.io/problems/github-brdige-car-weight)|Dec 16, 2024|
+|**Meta**|[Count Centaur Friend Requests](https://www.fastprep.io/problems/meta-centaur-friend-requests)|[![Practice][p]](https://www.fastprep.io/problems/meta-centaur-friend-requests)|Dec 12, 2024|
+|**Meta**|[Top N Frequent Words in a File](https://www.fastprep.io/problems/meta-top-n-words-in-file)|[![Practice][p]](https://www.fastprep.io/problems/meta-top-n-words-in-file)|Dec 12, 2024|
 |**Amazon**|[Get Min Value](https://www.fastprep.io/problems/amazon-get-minimum-value)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-value)|Dec 11, 2024|
 |**Amazon**|[Get Max Skill Sum](https://www.fastprep.io/problems/amazon-get-max-skill-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-skill-sum)|Dec 11, 2024|
 |**Amazon**|[Find Number](https://www.fastprep.io/problems/amazon-find-number)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-number)|Dec 10, 2024|
