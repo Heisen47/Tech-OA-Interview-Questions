@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,417)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (575)](formats/system-design.md) · [Low-level design (166)](formats/low-level-design.md) · [AI coding (76)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,417)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (577)](formats/system-design.md) · [Low-level design (166)](formats/low-level-design.md) · [AI coding (78)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -38,6 +38,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Twitch / Citadel / Kotak Mahindra Bank**|[Design and Implement a Terminal Battleship Game](https://www.fastprep.io/low-level-design/battleship-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/battleship-game)|🔥 Oct 10, 2026|
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake / Tennr / Teradata / Securonix**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Oct 10, 2026|
 |**Stripe / PhonePe**|[Design a Feature Flag Platform](https://www.fastprep.io/system-design/feature-flag-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/feature-flag-platform)|🔥 Oct 10, 2026|
+|**Apple**|[Design Consumer-Outage Backlog Recovery](https://www.fastprep.io/system-design/kafka-consumer-outage-backlog-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/kafka-consumer-outage-backlog-recovery)|🔥 Oct 10, 2026|
+|**PhonePe**|[Complete a Journey Stage Event Service](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|🔥 Oct 10, 2026|
 |**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Oct 09, 2026|
 |**Attentive**|[Design a Third-Party Data Pull Platform](https://www.fastprep.io/system-design/third-party-data-pull-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/third-party-data-pull-platform)|🔥 Oct 09, 2026|
 |**Uber**|[Design a Graph-Based Resource Access Platform](https://www.fastprep.io/system-design/graph-based-resource-access-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/graph-based-resource-access-platform)|🔥 Oct 09, 2026|
@@ -45,6 +47,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Maximize Shipment Order by Sorting One Window](https://www.fastprep.io/problems/amazon-maximize-shipment-order-one-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-shipment-order-one-window)|🔥 Oct 09, 2026|
 |**AMD**|[Insert After a Linked-List Node](https://www.fastprep.io/problems/amd-insert-after-linked-list-node)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amd-insert-after-linked-list-node)|🔥 Oct 09, 2026|
 |**AMD**|[LRU Cache](https://www.fastprep.io/problems/amd-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amd-lru-cache)|🔥 Oct 09, 2026|
+|**Amazon**|[Repair Car Publication and Availability](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🔥 Oct 09, 2026|
 |**Hartford Financial Services**|[Second Highest Salary](https://www.fastprep.io/problems/hartford-second-highest-salary)|SQL|[![Practice][p]](https://www.fastprep.io/problems/hartford-second-highest-salary)|🔥 Oct 08, 2026|
 |**Hartford Financial Services**|[Assign Student Grades from CSV Marks](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|SQL|[![Practice][p]](https://www.fastprep.io/problems/hartford-csv-student-grade-assignment)|🔥 Oct 08, 2026|
 |**NxtPe**|[Implement Mandate Details and Provider Authentication](https://www.fastprep.io/project-coding/nxtpe-mandate-provider-authentication)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nxtpe-mandate-provider-authentication)|🔥 Oct 08, 2026|
@@ -216,6 +219,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**CoinDCX**|[Count Valleys in a Wiggle Pattern](https://www.fastprep.io/problems/coindcx-count-wiggle-valleys)|Coding|[![Practice][p]](https://www.fastprep.io/problems/coindcx-count-wiggle-valleys)|🔥 Oct 05, 2026|
 |**CoinDCX**|[DFS Subsequences of a String (For MLE)](https://www.fastprep.io/problems/coindcx-generate-all-string-subsequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/coindcx-generate-all-string-subsequences)|🔥 Oct 05, 2026|
 |**Wonderful**|[Exponential Backoff Delays](https://www.fastprep.io/problems/wonderful-exponential-backoff-delays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wonderful-exponential-backoff-delays)|🔥 Oct 05, 2026|
+|**Infosys**|[Design a Million-Domain Blocking Service](https://www.fastprep.io/system-design/million-domain-blocking-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/million-domain-blocking-service)|🔥 Oct 05, 2026|
 |**Stripe**|[Business Account KYC Verification — Parts 1–5](https://www.fastprep.io/problems/stripe-kyc-business-verification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-kyc-business-verification)|🔥 Oct 04, 2026|
 |**Google**|[Minimum Cars for Rental Requests](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|🔥 Oct 04, 2026|
 |**Mercor / Salesforce / Nuro / Rippling / Qualified Health AI**|[Design a Durable Work Orchestration Platform](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|🔥 Oct 04, 2026|
@@ -1686,8 +1690,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Salesforce**|[Design a Multi-Tenant Order-Statistics Index](https://www.fastprep.io/system-design/multi-tenant-order-statistics-index)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-order-statistics-index)|Aug 16, 2026|
 |**DoorDash**|[Design a Sliding-Window Restaurant Leaderboard](https://www.fastprep.io/system-design/sliding-window-restaurant-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/sliding-window-restaurant-leaderboard)|Aug 16, 2026|
 |**Adobe**|[Design a Versioned Localization Resource Platform](https://www.fastprep.io/system-design/versioned-localization-resource-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/versioned-localization-resource-platform)|Aug 16, 2026|
-|**Salesforce / OpenAI**|[Design an Enterprise Multi-Tenant Messaging Platform](https://www.fastprep.io/system-design/enterprise-tenant-messaging-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/enterprise-tenant-messaging-platform)|Aug 16, 2026|
-|**Adobe**|[Design an Extensible Tree Traversal Toolkit](https://www.fastprep.io/system-design/extensible-tree-traversal-toolkit)|System design|[![Practice][p]](https://www.fastprep.io/system-design/extensible-tree-traversal-toolkit)|Aug 16, 2026|
-|**Apple**|[Design Cross-Device Wallpaper Synchronization](https://www.fastprep.io/system-design/cross-device-wallpaper-sync)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-device-wallpaper-sync)|Aug 16, 2026|
-|**Snowflake**|[Design Calendar Client State and Recurrence](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence)|System design|[![Practice][p]](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence)|Aug 15, 2026|
 <a id="bottom"></a>

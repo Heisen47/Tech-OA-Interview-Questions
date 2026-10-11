@@ -2,13 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**76 questions**
+**78 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**PhonePe**|[Complete a Journey Stage Event Service](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|[![Practice][p]](https://www.fastprep.io/project-coding/phonepe-journey-stage-event-service)|🔥 Oct 10, 2026|
 |**Amazon**|[Repair Workflow Issue and Sub-Issue Creation](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-issues)|🔥 Oct 09, 2026|
+|**Amazon**|[Repair Car Publication and Availability](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🔥 Oct 09, 2026|
 |**NxtPe**|[Implement Mandate Details and Provider Authentication](https://www.fastprep.io/project-coding/nxtpe-mandate-provider-authentication)|[![Practice][p]](https://www.fastprep.io/project-coding/nxtpe-mandate-provider-authentication)|🔥 Oct 08, 2026|
 |**Persona**|[Build an Internal Go-Link Service](https://www.fastprep.io/project-coding/persona-internal-go-links)|[![Practice][p]](https://www.fastprep.io/project-coding/persona-internal-go-links)|🔥 Oct 06, 2026|
 |**NVIDIA**|[Build a System Metrics Reporter](https://www.fastprep.io/project-coding/nvidia-system-metrics-reporter)|[![Practice][p]](https://www.fastprep.io/project-coding/nvidia-system-metrics-reporter)|🔥 Oct 06, 2026|

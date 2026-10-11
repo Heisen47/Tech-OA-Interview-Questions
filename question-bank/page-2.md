@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Salesforce / OpenAI**|[Design an Enterprise Multi-Tenant Messaging Platform](https://www.fastprep.io/system-design/enterprise-tenant-messaging-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/enterprise-tenant-messaging-platform)|Aug 16, 2026|
+|**Adobe**|[Design an Extensible Tree Traversal Toolkit](https://www.fastprep.io/system-design/extensible-tree-traversal-toolkit)|System design|[![Practice][p]](https://www.fastprep.io/system-design/extensible-tree-traversal-toolkit)|Aug 16, 2026|
+|**Apple**|[Design Cross-Device Wallpaper Synchronization](https://www.fastprep.io/system-design/cross-device-wallpaper-sync)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-device-wallpaper-sync)|Aug 16, 2026|
+|**Snowflake**|[Design Calendar Client State and Recurrence](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence)|System design|[![Practice][p]](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence)|Aug 15, 2026|
 |**Microsoft**|[Desktop Notification Center](https://www.fastprep.io/low-level-design/desktop-notification-center)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/desktop-notification-center)|Aug 15, 2026|
 |**Microsoft**|[Design Grounded Local Sports Recommendations](https://www.fastprep.io/system-design/local-sports-rag-recommendations)|System design|[![Practice][p]](https://www.fastprep.io/system-design/local-sports-rag-recommendations)|Aug 15, 2026|
 |**Navan**|[Design and Implement a Flight Status Notification Center](https://www.fastprep.io/low-level-design/flight-status-notification-center)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-status-notification-center)|Aug 15, 2026|
@@ -1807,9 +1811,4 @@
 |**Amazon**|[Find K Level Permutation](https://www.fastprep.io/problems/amazon-find-k-level-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-k-level-permutation)|Jun 02, 2024|
 |**Salesforce**|[Winning Square](https://www.fastprep.io/problems/salesforce-construct-winning-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-construct-winning-sequence)|Jun 02, 2024|
 |**Google**|[Max Subarray Filled with Zeros](https://www.fastprep.io/problems/google-max-subarray-filled-with-zeros)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-max-subarray-filled-with-zeros)|Jun 02, 2024|
-|**Google**|[Find Last Characters](https://www.fastprep.io/problems/google-find-last-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-last-character)|Jun 02, 2024|
-|**Microsoft**|[Longest Spike](https://www.fastprep.io/problems/microsoft-the-longest-spike)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-the-longest-spike)|Jun 02, 2024|
-|**Google**|[Find Min Possible Diameter](https://www.fastprep.io/problems/google-find-minimum-possible-diameter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-minimum-possible-diameter)|May 31, 2024|
-|**Motive**|[Average Values by Binary-Tree Level](https://www.fastprep.io/problems/motive-average-values-by-tree-level)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-average-values-by-tree-level)|May 28, 2024|
-|**Google**|[Generate Pattern Matching Strings](https://www.fastprep.io/problems/google-generate-pattern-matching-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-generate-pattern-matching-strings)|May 25, 2024|
 <a id="bottom"></a>
