@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,421)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (577)](formats/system-design.md) · [Low-level design (166)](formats/low-level-design.md) · [AI coding (78)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,424)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (577)](formats/system-design.md) · [Low-level design (166)](formats/low-level-design.md) · [AI coding (78)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -35,6 +35,9 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 | :-- | :-- | :-- | :-: | :-- |
 |**IBM**|[Last Object Exit Time](https://www.fastprep.io/problems/ibm-last-object-exit-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-last-object-exit-time)|🔥 Oct 10, 2026|
 |**IBM**|[Maximum Easy Tasks After Rearranging](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|🔥 Oct 10, 2026|
+|**Google**|[Word Ladder](https://www.fastprep.io/problems/google-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-word-ladder)|🔥 Oct 10, 2026|
+|**Google**|[Validate Server Log Summary Counts](https://www.fastprep.io/problems/google-validate-server-log-summary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-validate-server-log-summary)|🔥 Oct 10, 2026|
+|**Google**|[Generate an Unbiased Bit from a Biased Coin](https://www.fastprep.io/problems/google-unbiased-bit-from-biased-coin)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-unbiased-bit-from-biased-coin)|🔥 Oct 10, 2026|
 |**Twitch / Citadel / Kotak Mahindra Bank**|[Design and Implement a Terminal Battleship Game](https://www.fastprep.io/low-level-design/battleship-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/battleship-game)|🔥 Oct 10, 2026|
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian / Snowflake / Tennr / Teradata / Securonix**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Oct 10, 2026|
 |**Stripe / PhonePe**|[Design a Feature Flag Platform](https://www.fastprep.io/system-design/feature-flag-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/feature-flag-platform)|🔥 Oct 10, 2026|
@@ -1687,7 +1690,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Uber Freight**|[Design a Rolling Restaurant Analytics Dashboard](https://www.fastprep.io/system-design/rolling-restaurant-analytics-dashboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-restaurant-analytics-dashboard)|Aug 17, 2026|
 |**Capital One**|[Highest Version B Viewing Week](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|Aug 17, 2026|
 |**Airtable / Meta / Microsoft**|[Design a Backend Search Engine](https://www.fastprep.io/system-design/backend-search-engine)|System design|[![Practice][p]](https://www.fastprep.io/system-design/backend-search-engine)|Aug 16, 2026|
-|**Zoox / Uber**|[Design a Nearby Autonomous Vehicle Search Service](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search)|Aug 16, 2026|
-|**Amazon**|[Design a Multi-Branch Library Management System](https://www.fastprep.io/system-design/multi-branch-library-management)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-branch-library-management)|Aug 16, 2026|
-|**LinkedIn**|[Design a Ranked Hybrid Social Feed](https://www.fastprep.io/system-design/ranked-hybrid-social-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ranked-hybrid-social-feed)|Aug 16, 2026|
 <a id="bottom"></a>

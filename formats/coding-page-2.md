@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,421 questions**
+**3,424 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Motive**|[Minimum Swaps to Group Circular Ones](https://www.fastprep.io/problems/motive-minimum-swaps-group-ones-circular)|[![Practice][p]](https://www.fastprep.io/problems/motive-minimum-swaps-group-ones-circular)|Dec 18, 2025|
+|**Motive**|[Generate Palindromic Permutations](https://www.fastprep.io/problems/motive-palindromic-permutations)|[![Practice][p]](https://www.fastprep.io/problems/motive-palindromic-permutations)|Dec 18, 2025|
+|**Motive**|[Staircase Search In A Sorted Matrix](https://www.fastprep.io/problems/motive-search-row-column-sorted-matrix)|[![Practice][p]](https://www.fastprep.io/problems/motive-search-row-column-sorted-matrix)|Dec 18, 2025|
 |**HackerRank**|[Ball Passing at Time K](https://www.fastprep.io/problems/hackerrank-ball-passing-at-time-k)|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-ball-passing-at-time-k)|Dec 17, 2025|
 |**HackerRank**|[Longest Equal Binary Subarray](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|Dec 17, 2025|
 |**HackerRank**|[Longest Equal Binary Subarray After One Flip](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Dec 17, 2025|

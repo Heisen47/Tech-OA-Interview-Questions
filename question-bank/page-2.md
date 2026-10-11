@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Zoox / Uber**|[Design a Nearby Autonomous Vehicle Search Service](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search)|Aug 16, 2026|
+|**Amazon**|[Design a Multi-Branch Library Management System](https://www.fastprep.io/system-design/multi-branch-library-management)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-branch-library-management)|Aug 16, 2026|
+|**LinkedIn**|[Design a Ranked Hybrid Social Feed](https://www.fastprep.io/system-design/ranked-hybrid-social-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ranked-hybrid-social-feed)|Aug 16, 2026|
 |**Microsoft**|[Design a Distributed Expiring LRU Cache](https://www.fastprep.io/system-design/distributed-expiring-lru-cache)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-expiring-lru-cache)|Aug 16, 2026|
 |**Salesforce**|[Design a Multi-Tenant Order-Statistics Index](https://www.fastprep.io/system-design/multi-tenant-order-statistics-index)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-order-statistics-index)|Aug 16, 2026|
 |**DoorDash**|[Design a Sliding-Window Restaurant Leaderboard](https://www.fastprep.io/system-design/sliding-window-restaurant-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/sliding-window-restaurant-leaderboard)|Aug 16, 2026|
@@ -1807,7 +1810,4 @@
 |**Anduril**|[Design a Radar Sensor Observation Pipeline](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|Jun 11, 2024|
 |**Amazon**|[Maximize Subtree Product](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-subtree-product)|Jun 10, 2024|
 |**Amazon**|[Bring Servers Down](https://www.fastprep.io/problems/amazon-bring-servers-down)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-bring-servers-down)|Jun 10, 2024|
-|**Snowflake**|[Search Strings](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|Jun 10, 2024|
-|**Figma**|[Nested Template Variable Expansion](https://www.fastprep.io/problems/figma-template-variable-expansion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-template-variable-expansion)|Jun 08, 2024|
-|**Figma**|[Parse, Validate, and Repair Markdown Formatting](https://www.fastprep.io/problems/figma-markdown-formatting-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-markdown-formatting-parser)|Jun 08, 2024|
 <a id="bottom"></a>

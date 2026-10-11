@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Search Strings](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|Jun 10, 2024|
+|**Figma**|[Nested Template Variable Expansion](https://www.fastprep.io/problems/figma-template-variable-expansion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-template-variable-expansion)|Jun 08, 2024|
+|**Figma**|[Parse, Validate, and Repair Markdown Formatting](https://www.fastprep.io/problems/figma-markdown-formatting-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-markdown-formatting-parser)|Jun 08, 2024|
 |**Motive**|[Resolve Variable Equations with Dependency Errors](https://www.fastprep.io/problems/motive-variable-equation-evaluator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-variable-equation-evaluator)|Jun 05, 2024|
 |**Amazon**|[Optimizing Box Weights](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a)|Jun 02, 2024|
 |**Amazon**|[Find K Level Permutation](https://www.fastprep.io/problems/amazon-find-k-level-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-k-level-permutation)|Jun 02, 2024|
