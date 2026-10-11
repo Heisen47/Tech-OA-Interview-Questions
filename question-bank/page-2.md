@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Design a Distributed Expiring LRU Cache](https://www.fastprep.io/system-design/distributed-expiring-lru-cache)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-expiring-lru-cache)|Aug 16, 2026|
+|**Salesforce**|[Design a Multi-Tenant Order-Statistics Index](https://www.fastprep.io/system-design/multi-tenant-order-statistics-index)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-order-statistics-index)|Aug 16, 2026|
+|**DoorDash**|[Design a Sliding-Window Restaurant Leaderboard](https://www.fastprep.io/system-design/sliding-window-restaurant-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/sliding-window-restaurant-leaderboard)|Aug 16, 2026|
+|**Adobe**|[Design a Versioned Localization Resource Platform](https://www.fastprep.io/system-design/versioned-localization-resource-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/versioned-localization-resource-platform)|Aug 16, 2026|
 |**Salesforce / OpenAI**|[Design an Enterprise Multi-Tenant Messaging Platform](https://www.fastprep.io/system-design/enterprise-tenant-messaging-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/enterprise-tenant-messaging-platform)|Aug 16, 2026|
 |**Adobe**|[Design an Extensible Tree Traversal Toolkit](https://www.fastprep.io/system-design/extensible-tree-traversal-toolkit)|System design|[![Practice][p]](https://www.fastprep.io/system-design/extensible-tree-traversal-toolkit)|Aug 16, 2026|
 |**Apple**|[Design Cross-Device Wallpaper Synchronization](https://www.fastprep.io/system-design/cross-device-wallpaper-sync)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-device-wallpaper-sync)|Aug 16, 2026|
@@ -1806,9 +1810,4 @@
 |**Snowflake**|[Search Strings](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-removals)|Jun 10, 2024|
 |**Figma**|[Nested Template Variable Expansion](https://www.fastprep.io/problems/figma-template-variable-expansion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-template-variable-expansion)|Jun 08, 2024|
 |**Figma**|[Parse, Validate, and Repair Markdown Formatting](https://www.fastprep.io/problems/figma-markdown-formatting-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-markdown-formatting-parser)|Jun 08, 2024|
-|**Motive**|[Resolve Variable Equations with Dependency Errors](https://www.fastprep.io/problems/motive-variable-equation-evaluator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-variable-equation-evaluator)|Jun 05, 2024|
-|**Amazon**|[Optimizing Box Weights](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a)|Jun 02, 2024|
-|**Amazon**|[Find K Level Permutation](https://www.fastprep.io/problems/amazon-find-k-level-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-k-level-permutation)|Jun 02, 2024|
-|**Salesforce**|[Winning Square](https://www.fastprep.io/problems/salesforce-construct-winning-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-construct-winning-sequence)|Jun 02, 2024|
-|**Google**|[Max Subarray Filled with Zeros](https://www.fastprep.io/problems/google-max-subarray-filled-with-zeros)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-max-subarray-filled-with-zeros)|Jun 02, 2024|
 <a id="bottom"></a>
