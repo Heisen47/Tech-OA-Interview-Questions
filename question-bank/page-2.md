@@ -9,8 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[Count Paginated Medical Records in a Range](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|Aug 18, 2026|
+|**Pinterest**|[Design an Asynchronous Bulk Record Update Service](https://www.fastprep.io/system-design/asynchronous-bulk-record-update-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/asynchronous-bulk-record-update-service)|Aug 18, 2026|
+|**Axon**|[Design a Nearest-Timestamp Device Status Service](https://www.fastprep.io/system-design/nearest-timestamp-device-status)|System design|[![Practice][p]](https://www.fastprep.io/system-design/nearest-timestamp-device-status)|Aug 17, 2026|
 |**Uber Freight**|[Design a Rolling Restaurant Analytics Dashboard](https://www.fastprep.io/system-design/rolling-restaurant-analytics-dashboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-restaurant-analytics-dashboard)|Aug 17, 2026|
 |**Capital One**|[Highest Version B Viewing Week](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|Aug 17, 2026|
+|**Headlands Technologies**|[Job Runner Chain Reports](https://www.fastprep.io/problems/headlands-job-runner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-job-runner)|Aug 17, 2026|
 |**Airtable / Meta / Microsoft**|[Design a Backend Search Engine](https://www.fastprep.io/system-design/backend-search-engine)|System design|[![Practice][p]](https://www.fastprep.io/system-design/backend-search-engine)|Aug 16, 2026|
 |**Zoox / Uber**|[Design a Nearby Autonomous Vehicle Search Service](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search)|Aug 16, 2026|
 |**Amazon**|[Design a Multi-Branch Library Management System](https://www.fastprep.io/system-design/multi-branch-library-management)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-branch-library-management)|Aug 16, 2026|
@@ -701,6 +705,9 @@
 |**Uber**|[Balanced Permutation Subarrays](https://www.fastprep.io/problems/uber-balanced-permutation-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-balanced-permutation-subarrays)|Apr 09, 2026|
 |**Uber**|[Maximum Comfortable Riders](https://www.fastprep.io/problems/uber-maximum-comfortable-riders)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-maximum-comfortable-riders)|Apr 09, 2026|
 |**Uber**|[Palindrome Path Queries in a Tree](https://www.fastprep.io/problems/uber-palindrome-path-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-palindrome-path-queries)|Apr 09, 2026|
+|**Headlands Technologies**|[Gradient Descent on a Sinusoidal Objective](https://www.fastprep.io/problems/headlands-gradient-descent-sinusoidal-objective)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-gradient-descent-sinusoidal-objective)|Apr 09, 2026|
+|**Headlands Technologies**|[Pearson Correlation Coefficient](https://www.fastprep.io/problems/headlands-pearson-correlation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-pearson-correlation)|Apr 09, 2026|
+|**Headlands Technologies**|[Top K Frequent Elements](https://www.fastprep.io/problems/headlands-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-top-k-frequent-elements)|Apr 09, 2026|
 |**Modular**|[Critical Path Through Dependent Tasks](https://www.fastprep.io/problems/modular-critical-path-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/modular-critical-path-schedule)|Apr 08, 2026|
 |**Notion / Juniper Square**|[Design an Event Data Warehouse Platform](https://www.fastprep.io/system-design/event-data-warehouse-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-data-warehouse-platform)|Apr 08, 2026|
 |**Notion**|[DAG Downstream Nodes](https://www.fastprep.io/problems/notion-dag-downstream-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-dag-downstream-nodes)|Apr 08, 2026|
@@ -740,7 +747,9 @@
 |**Retool**|[Design a Dog Walking and Sitting Booking Platform](https://www.fastprep.io/system-design/dog-care-booking-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/dog-care-booking-platform)|Mar 24, 2026|
 |**DRW**|[Simplified Tetris Engine](https://www.fastprep.io/problems/drw-simplified-tetris-engine)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-simplified-tetris-engine)|Mar 23, 2026|
 |**Bloomberg LP**|[Decode String](https://www.fastprep.io/problems/bloomberg-decode-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-decode-string)|Mar 23, 2026|
-|**Headlands**|[Disaster Recovery](https://www.fastprep.io/problems/headlands-disaster-recovery)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-disaster-recovery)|Mar 21, 2026|
+|**Headlands Technologies**|[Queue Mean Queries](https://www.fastprep.io/problems/headlands-queue-mean)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-queue-mean)|Mar 23, 2026|
+|**Headlands Technologies**|[Queue Mean from Corrective Snapshots](https://www.fastprep.io/problems/headlands-snapshot-queue-mean)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-snapshot-queue-mean)|Mar 23, 2026|
+|**Headlands Technologies**|[Disaster Recovery](https://www.fastprep.io/problems/headlands-disaster-recovery)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-disaster-recovery)|Mar 21, 2026|
 |**Microsoft**|[Visible Profiles Count](https://www.fastprep.io/problems/microsoft-visible-profiles-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-visible-profiles-count)|Mar 21, 2026|
 |**Swiggy**|[First and Last Occurrence](https://www.fastprep.io/problems/swiggy-first-and-last-occurrence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/swiggy-first-and-last-occurrence)|Mar 20, 2026|
 |**TCS**|[Gym Fees Calculator](https://www.fastprep.io/problems/tcs-gym-fees-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tcs-gym-fees-calculator)|Mar 20, 2026|
@@ -910,6 +919,7 @@
 |**Stripe**|[Repair Redirected Request Body Replay](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|Nov 12, 2025|
 |**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|
 |**Bloomberg LP**|[Flatten a Multilevel Singly Linked List](https://www.fastprep.io/problems/bloomberg-flatten-multilevel-singly-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-flatten-multilevel-singly-linked-list)|Nov 11, 2025|
+|**Headlands Technologies**|[CPU Register Bitwise Operations](https://www.fastprep.io/problems/headlands-cpu-register-bitwise-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-cpu-register-bitwise-operations)|Nov 11, 2025|
 |**Two Sigma**|[Calculate y/x using Patch](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Nov 09, 2025|
 |**Google**|[Lexicographically Smallest Array with K-Limited Right Moves](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Nov 08, 2025|
 |**Google**|[First Unique Event in a Stream](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Nov 08, 2025|
@@ -1409,6 +1419,7 @@
 |**Expedia**|[Rank Secondary Popularity](https://www.fastprep.io/problems/expedia-rank-songs-by-popularity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-rank-songs-by-popularity)|Oct 08, 2024|
 |**Expedia**|[Get Min Steps](https://www.fastprep.io/problems/expedia-get-min-steps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-get-min-steps)|Oct 08, 2024|
 |**Oracle**|[Min Diff](https://www.fastprep.io/problems/oracle-find-circle-num)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-find-circle-num)|Oct 07, 2024|
+|**Headlands Technologies**|[Triggered Order Event Filter](https://www.fastprep.io/problems/headlands-triggered-order-filter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-triggered-order-filter)|Oct 07, 2024|
 |**Amazon**|[Special String](https://www.fastprep.io/problems/amazon-get-special-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-special-string)|Oct 05, 2024|
 |**ZipRecruiter**|[Maximum Fish Caught](https://www.fastprep.io/problems/ziprecruiter-caught-fish)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-caught-fish)|Oct 05, 2024|
 |**ZipRecruiter**|[Count Three-Digit Numbers with Distinct Digits](https://www.fastprep.io/problems/ziprecruiter-count-distinct-three-digit-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-distinct-three-digit-numbers)|Oct 05, 2024|
@@ -1419,6 +1430,7 @@
 |**Expedia**|[Get Max Efficiency](https://www.fastprep.io/problems/expedia-get-max-efficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-get-max-efficiency)|Oct 04, 2024|
 |**Expedia**|[Calculate the Sum](https://www.fastprep.io/problems/expedia-calculate-the-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-calculate-the-sum)|Oct 04, 2024|
 |**Headlands Technologies**|[Concurrent Sorted-Stream Merger](https://www.fastprep.io/low-level-design/concurrent-sorted-stream-merger)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-sorted-stream-merger)|Oct 04, 2024|
+|**Headlands Technologies**|[Merge K Sorted Sequences](https://www.fastprep.io/problems/headlands-merge-k-sorted-sequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-merge-k-sorted-sequences)|Oct 04, 2024|
 |**Rubrik**|[Enhance Luminescence](https://www.fastprep.io/problems/rubrik-enhance-luminescence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-enhance-luminescence)|Sep 29, 2024|
 |**Rubrik**|[Maximize Stellar Gradient](https://www.fastprep.io/problems/rubrik-maximize-stellar-gradient)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-maximize-stellar-gradient)|Sep 29, 2024|
 |**Rubrik**|[Salvage Humankind](https://www.fastprep.io/problems/rubrik-salvage-humankind)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-salvage-humankind)|Sep 29, 2024|
@@ -1794,18 +1806,4 @@
 |**Adobe**|[Determine the Edit Distance in a Word Ladder](https://www.fastprep.io/problems/adobe-determine-edit-distance-in-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-determine-edit-distance-in-word-ladder)|Jun 24, 2024|
 |**Flexport**|[Distinct Moves](https://www.fastprep.io/problems/flexport-distinct-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flexport-distinct-moves)|Jun 24, 2024|
 |**Flexport**|[Maximum Edges](https://www.fastprep.io/problems/flexport-get-maximum-edges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flexport-get-maximum-edges)|Jun 24, 2024|
-|**WeWork**|[Meeting Room](https://www.fastprep.io/problems/wework-meeting-room)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wework-meeting-room)|Jun 24, 2024|
-|**WeWork**|[Shopping and Billing](https://www.fastprep.io/problems/wework-shopping-and-billing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wework-shopping-and-billing)|Jun 24, 2024|
-|**Navan**|[Basic Calculator](https://www.fastprep.io/problems/navan-basic-plus-minus-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-basic-plus-minus-calculator)|Jun 23, 2024|
-|**Navan**|[LRU Cache](https://www.fastprep.io/problems/navan-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-lru-cache)|Jun 23, 2024|
-|**Zscaler**|[Find the Element With Odd Frequency](https://www.fastprep.io/problems/zscaler-find-odd-frequency-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-find-odd-frequency-element)|Jun 22, 2024|
-|**Zscaler**|[Longest Common Subsequence Length](https://www.fastprep.io/problems/zscaler-longest-common-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-longest-common-subsequence)|Jun 22, 2024|
-|**Zscaler**|[Merge Intervals](https://www.fastprep.io/problems/zscaler-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-merge-intervals)|Jun 22, 2024|
-|**Zscaler**|[Run-Length Encoding](https://www.fastprep.io/problems/zscaler-run-length-encoding)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-run-length-encoding)|Jun 22, 2024|
-|**Zscaler**|[Sum of Divisors of the Array GCD](https://www.fastprep.io/problems/zscaler-sum-divisors-of-array-gcd)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-sum-divisors-of-array-gcd)|Jun 22, 2024|
-|**Salesforce**|[Count Substrings](https://www.fastprep.io/problems/salesforce-count-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-substrings)|Jun 20, 2024|
-|**Salesforce**|[Count Min Operations to Reduce Dimensions](https://www.fastprep.io/problems/salesforce-count-minimum-operations-to-reduce-dimensions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-minimum-operations-to-reduce-dimensions)|Jun 20, 2024|
-|**IBM**|[Min Chairs](https://www.fastprep.io/problems/ibm-min-chairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-min-chairs)|Jun 20, 2024|
-|**Microsoft**|[Get Alphabetically Smallest String](https://www.fastprep.io/problems/microsoft-get-alphabetically-smallest-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-get-alphabetically-smallest-string)|Jun 20, 2024|
-|**Paypal**|[Modify Array](https://www.fastprep.io/problems/paypal-modify-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypal-modify-array)|Jun 20, 2024|
 <a id="bottom"></a>
