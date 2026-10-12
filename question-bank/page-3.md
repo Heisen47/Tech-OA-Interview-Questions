@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Xperi**|[Make Numbers Equal](https://www.fastprep.io/problems/xperi-make-numbers-equal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/xperi-make-numbers-equal)|Jun 20, 2024|
 |**Xperi**|[Count Integer Sequences](https://www.fastprep.io/problems/xperi-count-integer-sequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/xperi-count-integer-sequences)|Jun 20, 2024|
 |**Amazon**|[Maximum Stability](https://www.fastprep.io/problems/amazon-maximum-stability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-stability)|Jun 15, 2024|
 |**Amazon**|[Is Regex Matching](https://www.fastprep.io/problems/amazon-is-regex-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-is-regex-matching)|Jun 15, 2024|
