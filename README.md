@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,436)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (581)](formats/system-design.md) · [Low-level design (171)](formats/low-level-design.md) · [AI coding (78)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,461)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (581)](formats/system-design.md) · [Low-level design (171)](formats/low-level-design.md) · [AI coding (78)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Headlands Technologies**|[Array Interval Sums](https://www.fastprep.io/problems/headlands-array-interval-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-array-interval-sums)|🔥 Oct 11, 2026|
 |**IBM**|[Last Object Exit Time](https://www.fastprep.io/problems/ibm-last-object-exit-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-last-object-exit-time)|🔥 Oct 10, 2026|
 |**IBM**|[Maximum Easy Tasks After Rearranging](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|🔥 Oct 10, 2026|
 |**Google**|[Word Ladder](https://www.fastprep.io/problems/google-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-word-ladder)|🔥 Oct 10, 2026|
@@ -1203,6 +1204,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**ByteDance / Google**|[Design a Multimedia Content Moderation Platform](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|🆕 Sep 13, 2026|
 |**Citadel**|[Maximize Workday Earnings](https://www.fastprep.io/problems/citadel-maximize-workday-earnings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-maximize-workday-earnings)|🆕 Sep 13, 2026|
 |**Scribd**|[Most Popular Actor by Movie Views](https://www.fastprep.io/problems/scribd-most-popular-actor-by-movie-views)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scribd-most-popular-actor-by-movie-views)|🆕 Sep 13, 2026|
+|**Headlands Technologies**|[Minimum Changes for Distinct Adjacent Characters](https://www.fastprep.io/problems/headlands-minimum-changes-no-equal-adjacent-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-minimum-changes-no-equal-adjacent-characters)|🆕 Sep 13, 2026|
+|**Headlands Technologies**|[Sliding-Window Means with IEEE Special Values](https://www.fastprep.io/problems/headlands-sliding-window-means-ieee-floats)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-sliding-window-means-ieee-floats)|🆕 Sep 13, 2026|
 |**Morgan Stanley**|[Maximum Concurrent Processes](https://www.fastprep.io/problems/morgan-stanley-maximum-concurrent-processes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/morgan-stanley-maximum-concurrent-processes)|🆕 Sep 12, 2026|
 |**Google**|[Lexicographically Smallest K-Step Return Walk](https://www.fastprep.io/problems/google-lexicographically-smallest-k-step-return-walk)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-lexicographically-smallest-k-step-return-walk)|🆕 Sep 12, 2026|
 |**Tekion**|[Dungeon Game](https://www.fastprep.io/problems/tekion-dungeon-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-dungeon-game)|🆕 Sep 12, 2026|
@@ -1687,7 +1690,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**OpenAI**|[Design a GPU Worker Messaging Protocol](https://www.fastprep.io/system-design/gpu-worker-messaging-protocol)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-worker-messaging-protocol)|Aug 19, 2026|
 |**OpenAI**|[Message Serializer and Deserializer](https://www.fastprep.io/problems/openai-message-serializer-deserializer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-message-serializer-deserializer)|Aug 19, 2026|
 |**IBM**|[Count Invalid Log Groups](https://www.fastprep.io/problems/ibm-count-invalid-log-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-invalid-log-groups)|Aug 18, 2026|
-|**IBM**|[Count Paginated Medical Records in a Range](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|Aug 18, 2026|
-|**Pinterest**|[Design an Asynchronous Bulk Record Update Service](https://www.fastprep.io/system-design/asynchronous-bulk-record-update-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/asynchronous-bulk-record-update-service)|Aug 18, 2026|
-|**Axon**|[Design a Nearest-Timestamp Device Status Service](https://www.fastprep.io/system-design/nearest-timestamp-device-status)|System design|[![Practice][p]](https://www.fastprep.io/system-design/nearest-timestamp-device-status)|Aug 17, 2026|
 <a id="bottom"></a>
