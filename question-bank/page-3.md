@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[Find Arrangement](https://www.fastprep.io/problems/ibm-find-arrangements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-arrangements)|Jun 15, 2024|
 |**Microsoft**|[Skycraper](https://www.fastprep.io/problems/microsoft-skyscraper)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-skyscraper)|Jun 15, 2024|
 |**Microsoft**|[Min Num Cells](https://www.fastprep.io/problems/microsoft-min-num-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-min-num-letters)|Jun 15, 2024|
 |**Microsoft**|[Maximum Cells](https://www.fastprep.io/problems/microsoft-maximum-cells)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-cells)|Jun 15, 2024|

@@ -905,6 +905,7 @@
 |**Bloomberg LP**|[Check Anagrams](https://www.fastprep.io/problems/bloomberg-valid-anagram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-valid-anagram)|Nov 17, 2025|
 |**MathWorks**|[Balancing Teams](https://www.fastprep.io/problems/mathworks-balancing-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-balancing-teams)|Nov 16, 2025|
 |**MathWorks**|[Largest Sub-Grid](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Nov 16, 2025|
+|**Zip**|[Shortest Distance in a Graph](https://www.fastprep.io/problems/zip-graph-shortest-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-graph-shortest-distance)|Nov 14, 2025|
 |**Bloomberg LP**|[Subsets](https://www.fastprep.io/problems/bloomberg-subsets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-subsets)|Nov 13, 2025|
 |**Stripe**|[Repair Redirected Request Body Replay](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|Nov 12, 2025|
 |**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|
@@ -1808,5 +1809,4 @@
 |**Amazon**|[Is Regex Matching](https://www.fastprep.io/problems/amazon-is-regex-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-is-regex-matching)|Jun 15, 2024|
 |**Uber**|[Word Pairs](https://www.fastprep.io/problems/uber-word-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-word-pairs)|Jun 15, 2024|
 |**Uber**|[Bus Time](https://www.fastprep.io/problems/uber-bus-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-bus-time)|Jun 15, 2024|
-|**IBM**|[Find Arrangement](https://www.fastprep.io/problems/ibm-find-arrangements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-arrangements)|Jun 15, 2024|
 <a id="bottom"></a>
