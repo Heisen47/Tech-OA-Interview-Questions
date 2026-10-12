@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,433 questions**
+**3,436 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -75,6 +75,7 @@
 |**AT&T**|[3Sum](https://www.fastprep.io/problems/att-three-sum)|[![Practice][p]](https://www.fastprep.io/problems/att-three-sum)|Oct 07, 2025|
 |**Arista Networks**|[Trace Pointer Rebinding and Pointee Updates](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|[![Practice][p]](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Oct 02, 2025|
 |**Google**|[Unique Word Abbreviations](https://www.fastprep.io/problems/google-unique-word-abbreviations)|[![Practice][p]](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Sep 27, 2025|
+|**Meta**|[Common Words Across Files](https://www.fastprep.io/problems/meta-common-words-across-files)|[![Practice][p]](https://www.fastprep.io/problems/meta-common-words-across-files)|Sep 22, 2025|
 |**Microsoft**|[Isomorphic Strings](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|Sep 18, 2025|
 |**Microsoft**|[Merge Two Descending Linked Lists](https://www.fastprep.io/problems/microsoft-merge-two-descending-linked-lists)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-merge-two-descending-linked-lists)|Sep 18, 2025|
 |**Microsoft**|[Sort a Linked List in Descending Order](https://www.fastprep.io/problems/microsoft-sort-linked-list-descending)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-sort-linked-list-descending)|Sep 18, 2025|
@@ -213,6 +214,8 @@
 |**Epify**|[Request Redirection](https://www.fastprep.io/problems/epifi-get-min-latency)|[![Practice][p]](https://www.fastprep.io/problems/epifi-get-min-latency)|May 25, 2025|
 |**Juspay**|[Converging Maze: Largest Sum Cycle](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|[![Practice][p]](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|May 25, 2025|
 |**Juspay**|[Converging Maze: Nearest meeting cell](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|[![Practice][p]](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|May 25, 2025|
+|**Meta**|[Rank Bipedal Dinosaurs by Speed](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|[![Practice][p]](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|May 20, 2025|
+|**Meta**|[Valid Palindrome](https://www.fastprep.io/problems/meta-valid-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/meta-valid-palindrome)|May 20, 2025|
 |**Old Mission**|[Restricted JSON Parser](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|[![Practice][p]](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|May 12, 2025|
 |**Temporal**|[Delayed Task Executor Ordering](https://www.fastprep.io/problems/temporal-delayed-task-executor)|[![Practice][p]](https://www.fastprep.io/problems/temporal-delayed-task-executor)|May 09, 2025|
 |**ElevenLabs**|[Dubbing Review Status Propagation](https://www.fastprep.io/problems/elevenlabs-dubbing-review-status)|[![Practice][p]](https://www.fastprep.io/problems/elevenlabs-dubbing-review-status)|May 01, 2025|
@@ -297,6 +300,7 @@
 |**Microsoft**|[Maximize Number Of Produced Cars](https://www.fastprep.io/problems/microsoft-maximize-number-of-produced-cars)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximize-number-of-produced-cars)|Feb 08, 2025|
 |**Microsoft**|[Minimize Tokens Remaining](https://www.fastprep.io/problems/microsoft-minimum-tokens-remaining)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-tokens-remaining)|Feb 08, 2025|
 |**Tennr**|[Find First and Last Position in Sorted Array](https://www.fastprep.io/problems/tennr-find-first-and-last-position)|[![Practice][p]](https://www.fastprep.io/problems/tennr-find-first-and-last-position)|Feb 06, 2025|
+|**Meta**|[Top Five Stories by Latest Popularity](https://www.fastprep.io/problems/meta-top-five-stories-by-popularity)|[![Practice][p]](https://www.fastprep.io/problems/meta-top-five-stories-by-popularity)|Feb 06, 2025|
 |**Amazon**|[Max Number of Products You can Pick](https://www.fastprep.io/problems/amazon-maximum-number-of-products-you-can-pick)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-number-of-products-you-can-pick)|Feb 05, 2025|
 |**Amazon**|[Maximize Sum of Array Multiplication](https://www.fastprep.io/problems/amazon-maximize-sum-of-array-multiplication)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-sum-of-array-multiplication)|Feb 05, 2025|
 |**Amazon**|[Sum of Max Subarrys](https://www.fastprep.io/problems/amazon-sum-of-max-subarrays)|[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-of-max-subarrays)|Feb 02, 2025|
@@ -1418,7 +1422,6 @@
 |**ZipRecruiter**|[Largest Square in a Histogram](https://www.fastprep.io/problems/ziprecruiter-largest-square-in-histogram)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-largest-square-in-histogram)|Feb 22, 2022|
 |**ZipRecruiter**|[Peak Elements in Removal Order](https://www.fastprep.io/problems/ziprecruiter-peak-removal-order)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-peak-removal-order)|Feb 22, 2022|
 |**Meta**|[Find an Equal-Sum Split](https://www.fastprep.io/problems/meta-equal-sum-array-split)|[![Practice][p]](https://www.fastprep.io/problems/meta-equal-sum-array-split)|Feb 21, 2022|
-|**Meta**|[Rank Bipedal Dinosaurs by Speed](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|[![Practice][p]](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|Feb 21, 2022|
 |**Airbnb**|[Fraction to Recurring Decimal](https://www.fastprep.io/problems/airbnb-fraction-to-recurring-decimal)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-fraction-to-recurring-decimal)|Feb 18, 2022|
 |**ZipRecruiter**|[Multiset Intersection of Three Lists](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|Feb 17, 2022|
 |**ZipRecruiter**|[Rotation with at Most Three Mismatches](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|Feb 17, 2022|

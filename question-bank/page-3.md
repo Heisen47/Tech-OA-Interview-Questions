@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Xperi**|[Count Integer Sequences](https://www.fastprep.io/problems/xperi-count-integer-sequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/xperi-count-integer-sequences)|Jun 20, 2024|
+|**Amazon**|[Maximum Stability](https://www.fastprep.io/problems/amazon-maximum-stability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-stability)|Jun 15, 2024|
+|**Amazon**|[Is Regex Matching](https://www.fastprep.io/problems/amazon-is-regex-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-is-regex-matching)|Jun 15, 2024|
+|**Uber**|[Word Pairs](https://www.fastprep.io/problems/uber-word-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-word-pairs)|Jun 15, 2024|
+|**Uber**|[Bus Time](https://www.fastprep.io/problems/uber-bus-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-bus-time)|Jun 15, 2024|
 |**IBM**|[Find Arrangement](https://www.fastprep.io/problems/ibm-find-arrangements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-arrangements)|Jun 15, 2024|
 |**Microsoft**|[Skycraper](https://www.fastprep.io/problems/microsoft-skyscraper)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-skyscraper)|Jun 15, 2024|
 |**Microsoft**|[Min Num Cells](https://www.fastprep.io/problems/microsoft-min-num-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-min-num-letters)|Jun 15, 2024|
@@ -632,7 +637,6 @@
 |**ZipRecruiter**|[Largest Square in a Histogram](https://www.fastprep.io/problems/ziprecruiter-largest-square-in-histogram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-largest-square-in-histogram)|Feb 22, 2022|
 |**ZipRecruiter**|[Peak Elements in Removal Order](https://www.fastprep.io/problems/ziprecruiter-peak-removal-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-peak-removal-order)|Feb 22, 2022|
 |**Meta**|[Find an Equal-Sum Split](https://www.fastprep.io/problems/meta-equal-sum-array-split)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-equal-sum-array-split)|Feb 21, 2022|
-|**Meta**|[Rank Bipedal Dinosaurs by Speed](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|Feb 21, 2022|
 |**Airbnb**|[Fraction to Recurring Decimal](https://www.fastprep.io/problems/airbnb-fraction-to-recurring-decimal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-fraction-to-recurring-decimal)|Feb 18, 2022|
 |**ZipRecruiter**|[Multiset Intersection of Three Lists](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|Feb 17, 2022|
 |**ZipRecruiter**|[Rotation with at Most Three Mismatches](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|Feb 17, 2022|

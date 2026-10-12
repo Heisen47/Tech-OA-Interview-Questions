@@ -958,6 +958,7 @@
 |**AT&T**|[3Sum](https://www.fastprep.io/problems/att-three-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/att-three-sum)|Oct 07, 2025|
 |**Arista Networks**|[Trace Pointer Rebinding and Pointee Updates](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Oct 02, 2025|
 |**Google**|[Unique Word Abbreviations](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Sep 27, 2025|
+|**Meta**|[Common Words Across Files](https://www.fastprep.io/problems/meta-common-words-across-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-common-words-across-files)|Sep 22, 2025|
 |**Microsoft**|[Isomorphic Strings](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|Sep 18, 2025|
 |**Microsoft**|[Merge Two Descending Linked Lists](https://www.fastprep.io/problems/microsoft-merge-two-descending-linked-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-merge-two-descending-linked-lists)|Sep 18, 2025|
 |**Microsoft**|[Sort a Linked List in Descending Order](https://www.fastprep.io/problems/microsoft-sort-linked-list-descending)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-sort-linked-list-descending)|Sep 18, 2025|
@@ -1118,6 +1119,8 @@
 |**Juspay**|[Converging Maze: Nearest meeting cell](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|Coding|[![Practice][p]](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|May 25, 2025|
 |**Google**|[Design Personalized Private Email Search](https://www.fastprep.io/system-design/personalized-private-email-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-private-email-search)|May 23, 2025|
 |**Meta**|[Multi-Datacenter Kernel Upgrade Pipeline](https://www.fastprep.io/system-design/multi-datacenter-kernel-upgrade-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-datacenter-kernel-upgrade-pipeline)|May 20, 2025|
+|**Meta**|[Rank Bipedal Dinosaurs by Speed](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|May 20, 2025|
+|**Meta**|[Valid Palindrome](https://www.fastprep.io/problems/meta-valid-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-valid-palindrome)|May 20, 2025|
 |**Postman**|[Design a Dating Application](https://www.fastprep.io/low-level-design/dating-application-object-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dating-application-object-model)|May 15, 2025|
 |**Postman**|[Design a Location-Aware Dating Application](https://www.fastprep.io/low-level-design/location-aware-dating-application)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/location-aware-dating-application)|May 15, 2025|
 |**Old Mission**|[Restricted JSON Parser](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|May 12, 2025|
@@ -1222,6 +1225,7 @@
 |**Microsoft**|[Maximize Number Of Produced Cars](https://www.fastprep.io/problems/microsoft-maximize-number-of-produced-cars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximize-number-of-produced-cars)|Feb 08, 2025|
 |**Microsoft**|[Minimize Tokens Remaining](https://www.fastprep.io/problems/microsoft-minimum-tokens-remaining)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-tokens-remaining)|Feb 08, 2025|
 |**Tennr**|[Find First and Last Position in Sorted Array](https://www.fastprep.io/problems/tennr-find-first-and-last-position)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tennr-find-first-and-last-position)|Feb 06, 2025|
+|**Meta**|[Top Five Stories by Latest Popularity](https://www.fastprep.io/problems/meta-top-five-stories-by-popularity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-top-five-stories-by-popularity)|Feb 06, 2025|
 |**Amazon**|[Max Number of Products You can Pick](https://www.fastprep.io/problems/amazon-maximum-number-of-products-you-can-pick)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-number-of-products-you-can-pick)|Feb 05, 2025|
 |**Amazon**|[Maximize Sum of Array Multiplication](https://www.fastprep.io/problems/amazon-maximize-sum-of-array-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-sum-of-array-multiplication)|Feb 05, 2025|
 |**Amazon**|[Sum of Max Subarrys](https://www.fastprep.io/problems/amazon-sum-of-max-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-of-max-subarrays)|Feb 02, 2025|
@@ -1804,9 +1808,4 @@
 |**Microsoft**|[Get Alphabetically Smallest String](https://www.fastprep.io/problems/microsoft-get-alphabetically-smallest-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-get-alphabetically-smallest-string)|Jun 20, 2024|
 |**Paypal**|[Modify Array](https://www.fastprep.io/problems/paypal-modify-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypal-modify-array)|Jun 20, 2024|
 |**Xperi**|[Make Numbers Equal](https://www.fastprep.io/problems/xperi-make-numbers-equal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/xperi-make-numbers-equal)|Jun 20, 2024|
-|**Xperi**|[Count Integer Sequences](https://www.fastprep.io/problems/xperi-count-integer-sequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/xperi-count-integer-sequences)|Jun 20, 2024|
-|**Amazon**|[Maximum Stability](https://www.fastprep.io/problems/amazon-maximum-stability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-stability)|Jun 15, 2024|
-|**Amazon**|[Is Regex Matching](https://www.fastprep.io/problems/amazon-is-regex-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-is-regex-matching)|Jun 15, 2024|
-|**Uber**|[Word Pairs](https://www.fastprep.io/problems/uber-word-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-word-pairs)|Jun 15, 2024|
-|**Uber**|[Bus Time](https://www.fastprep.io/problems/uber-bus-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-bus-time)|Jun 15, 2024|
 <a id="bottom"></a>
