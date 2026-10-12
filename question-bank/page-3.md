@@ -629,6 +629,8 @@
 |**Fivetran**|[Design a Parking Lot Operations System](https://www.fastprep.io/system-design/parking-lot-operations-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/parking-lot-operations-system)|Feb 23, 2022|
 |**ZipRecruiter**|[Largest Square in a Histogram](https://www.fastprep.io/problems/ziprecruiter-largest-square-in-histogram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-largest-square-in-histogram)|Feb 22, 2022|
 |**ZipRecruiter**|[Peak Elements in Removal Order](https://www.fastprep.io/problems/ziprecruiter-peak-removal-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-peak-removal-order)|Feb 22, 2022|
+|**Meta**|[Find an Equal-Sum Split](https://www.fastprep.io/problems/meta-equal-sum-array-split)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-equal-sum-array-split)|Feb 21, 2022|
+|**Meta**|[Rank Bipedal Dinosaurs by Speed](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|Feb 21, 2022|
 |**Airbnb**|[Fraction to Recurring Decimal](https://www.fastprep.io/problems/airbnb-fraction-to-recurring-decimal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-fraction-to-recurring-decimal)|Feb 18, 2022|
 |**ZipRecruiter**|[Multiset Intersection of Three Lists](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|Feb 17, 2022|
 |**ZipRecruiter**|[Rotation with at Most Three Mismatches](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|Feb 17, 2022|
@@ -703,8 +705,6 @@
 |**Tesla**|[Priority, Expiration, and LRU Eviction](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|Mar 18, 2021|
 |**Airbnb**|[Construct a Possible Bipartition](https://www.fastprep.io/problems/airbnb-bipartition-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-bipartition-groups)|Mar 09, 2021|
 |**Bloomberg LP**|[Design HashMap](https://www.fastprep.io/problems/bloomberg-design-hashmap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-design-hashmap)|Mar 08, 2021|
-|**Meta**|[Find an Equal-Sum Split](https://www.fastprep.io/problems/meta-equal-sum-array-split)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-equal-sum-array-split)|Mar 04, 2021|
-|**Meta**|[Find the Fastest Dinosaur from CSV Records](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-fastest-dinosaur-csv)|Mar 04, 2021|
 |**Bloomberg LP**|[Alien Dictionary](https://www.fastprep.io/problems/bloomberg-alien-dictionary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-alien-dictionary)|Feb 26, 2021|
 |**Bloomberg LP**|[Binary Tree Level Order Traversal](https://www.fastprep.io/problems/bloomberg-binary-tree-level-order-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-level-order-traversal)|Feb 26, 2021|
 |**Bloomberg LP**|[The Maze](https://www.fastprep.io/problems/bloomberg-the-maze)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-the-maze)|Feb 26, 2021|
