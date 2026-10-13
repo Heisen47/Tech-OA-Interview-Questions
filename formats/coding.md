@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,478 questions**
+**3,493 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1649,7 +1649,7 @@
 |**TikTok**|[LRU Cache with TTL Expiration](https://www.fastprep.io/problems/tiktok-lru-cache-with-ttl-expiration)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-lru-cache-with-ttl-expiration)|May 11, 2026|
 |**Upstart**|[Bounding Box from Coordinates](https://www.fastprep.io/problems/upstart-bounding-box-from-coordinates)|[![Practice][p]](https://www.fastprep.io/problems/upstart-bounding-box-from-coordinates)|May 11, 2026|
 |**Upstart**|[Filter by Threshold and Return Name with Max Score](https://www.fastprep.io/problems/upstart-filter-threshold-max-score)|[![Practice][p]](https://www.fastprep.io/problems/upstart-filter-threshold-max-score)|May 11, 2026|
-|**Whatnot**|[User Journey Paths](https://www.fastprep.io/problems/whatnot-user-journey-paths)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-user-journey-paths)|May 11, 2026|
+|**WhatNot**|[User Journey Paths](https://www.fastprep.io/problems/whatnot-user-journey-paths)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-user-journey-paths)|May 11, 2026|
 |**Anthropic**|[In-Memory Database with Backup and Restore](https://www.fastprep.io/problems/anthropic-in-memory-database-backup-restore)|[![Practice][p]](https://www.fastprep.io/problems/anthropic-in-memory-database-backup-restore)|May 10, 2026|
 |**Capital One**|[Cyclic Shift to Strictly Descending Array](https://www.fastprep.io/problems/capital-one-cyclic-shift-strictly-descending)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-cyclic-shift-strictly-descending)|May 10, 2026|
 |**Stripe**|[Email Log Processing, Grouping, and Sorting](https://www.fastprep.io/problems/stripe-email-log-grouping-and-sorting)|[![Practice][p]](https://www.fastprep.io/problems/stripe-email-log-grouping-and-sorting)|May 10, 2026|
@@ -1718,6 +1718,8 @@
 |**Headlands Technologies**|[Top K Frequent Elements](https://www.fastprep.io/problems/headlands-top-k-frequent-elements)|[![Practice][p]](https://www.fastprep.io/problems/headlands-top-k-frequent-elements)|Apr 09, 2026|
 |**Modular**|[Critical Path Through Dependent Tasks](https://www.fastprep.io/problems/modular-critical-path-schedule)|[![Practice][p]](https://www.fastprep.io/problems/modular-critical-path-schedule)|Apr 08, 2026|
 |**Notion**|[DAG Downstream Nodes](https://www.fastprep.io/problems/notion-dag-downstream-nodes)|[![Practice][p]](https://www.fastprep.io/problems/notion-dag-downstream-nodes)|Apr 08, 2026|
+|**WhatNot**|[Merge Sorted Squares of Two Arrays](https://www.fastprep.io/problems/whatnot-merge-sorted-squares-two-arrays)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-merge-sorted-squares-two-arrays)|Apr 08, 2026|
+|**WhatNot**|[Palindrome with One Deletion](https://www.fastprep.io/problems/whatnot-valid-palindrome-one-deletion)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-valid-palindrome-one-deletion)|Apr 08, 2026|
 |**Notion**|[Mutable Table Aggregations](https://www.fastprep.io/problems/notion-mutable-table-aggregations)|[![Practice][p]](https://www.fastprep.io/problems/notion-mutable-table-aggregations)|Apr 07, 2026|
 |**Amazon**|[Maximize Protected City Population](https://www.fastprep.io/problems/amazon-maximize-protected-city-population)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-protected-city-population)|Apr 06, 2026|
 |**Amazon**|[Minimum Cost to Convert Products to Variant A](https://www.fastprep.io/problems/amazon-minimum-cost-to-convert-products-to-variant-a)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-cost-to-convert-products-to-variant-a)|Apr 06, 2026|
@@ -1821,6 +1823,4 @@
 |**Amazon**|[VM Rental Revenue](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|[![Practice][p]](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Jan 24, 2026|
 |**Amazon**|[Lexicographically Maximum Final Sequence](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Jan 24, 2026|
 |**Ramp**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/ramp-worker-management-level-1)|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-1)|Jan 21, 2026|
-|**Ramp**|[Worker Management, Part 2: Top Workers](https://www.fastprep.io/problems/ramp-worker-management-level-2)|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-2)|Jan 21, 2026|
-|**Ramp**|[Worker Management, Part 3: Promotions and Salary](https://www.fastprep.io/problems/ramp-worker-management-level-3)|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-3)|Jan 21, 2026|
 <a id="bottom"></a>
