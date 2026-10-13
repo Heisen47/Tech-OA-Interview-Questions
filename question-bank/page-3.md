@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Salesforce**|[Same Substring](https://www.fastprep.io/problems/salesforce-same-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-same-substring)|Jul 12, 2024|
 |**Citadel**|[Get Min Operations](https://www.fastprep.io/problems/citadel-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-get-min-operations)|Jul 11, 2024|
 |**JP Morgan**|[Chess Tourment](https://www.fastprep.io/problems/jpmorgan-get-potential-of-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-potential-of-winner)|Jul 10, 2024|
 |**Citadel**|[Count Stable Segments](https://www.fastprep.io/problems/citadel-count-stable-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-count-stable-segments)|Jul 10, 2024|
@@ -234,7 +235,6 @@
 |**Zscaler**|[Count Sentences](https://www.fastprep.io/problems/zscaler-count-sentences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-count-sentences)|Mar 09, 2024|
 |**Sentry**|[Five-Minute Hit Counter](https://www.fastprep.io/problems/sentry-five-minute-hit-counter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sentry-five-minute-hit-counter)|Mar 08, 2024|
 |**Sentry**|[Design and Implement a Dependency-Aware Package Manager](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Mar 08, 2024|
-|**Sentry**|[Design and Implement a Multi-Entrance Parking Lot](https://www.fastprep.io/low-level-design/multi-entrance-sized-parking-lot)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-entrance-sized-parking-lot)|Mar 08, 2024|
 |**Optiver**|[Get Biggest Lions](https://www.fastprep.io/problems/get-biggest-lions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-biggest-lions)|Mar 06, 2024|
 |**Airbnb**|[Minimum Eating Speed](https://www.fastprep.io/problems/airbnb-minimum-eating-speed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-minimum-eating-speed)|Mar 06, 2024|
 |**Google**|[Largest Lexicographical Substring](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Mar 05, 2024|

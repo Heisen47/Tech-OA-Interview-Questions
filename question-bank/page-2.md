@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Cursor**|[Hash-Tree Client/Server Synchronization](https://www.fastprep.io/system-design/hash-tree-client-server-synchronization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/hash-tree-client-server-synchronization)|Aug 21, 2026|
 |**ByteDance**|[Relational Query Index Design](https://www.fastprep.io/system-design/relational-query-index-design)|System design|[![Practice][p]](https://www.fastprep.io/system-design/relational-query-index-design)|Aug 21, 2026|
 |**ByteDance**|[SQL Index Eligibility Analysis](https://www.fastprep.io/system-design/sql-index-eligibility-analysis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/sql-index-eligibility-analysis)|Aug 21, 2026|
 |**IBM**|[Drawing Edge](https://www.fastprep.io/problems/ibm-drawing-edge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-drawing-edge)|Aug 20, 2026|
@@ -1802,5 +1803,4 @@
 |**Pure Storage**|[Shopping and Billing](https://www.fastprep.io/problems/purestorage-count-palindromic-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/purestorage-count-palindromic-substrings)|Jul 15, 2024|
 |**Mygate**|[Minimum in a Rotated Sorted Array](https://www.fastprep.io/problems/mygate-minimum-rotated-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mygate-minimum-rotated-array)|Jul 15, 2024|
 |**Salesforce**|[Least Stressful Path](https://www.fastprep.io/problems/salesforce-least-stressful-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-least-stressful-path)|Jul 12, 2024|
-|**Salesforce**|[Same Substring](https://www.fastprep.io/problems/salesforce-same-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-same-substring)|Jul 12, 2024|
 <a id="bottom"></a>
