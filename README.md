@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,461)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (583)](formats/system-design.md) · [Low-level design (172)](formats/low-level-design.md) · [AI coding (79)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,461)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (583)](formats/system-design.md) · [Low-level design (172)](formats/low-level-design.md) · [AI coding (80)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -211,6 +211,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Quince**|[Meeting Rooms II](https://www.fastprep.io/problems/quince-minimum-meeting-rooms)|Coding|[![Practice][p]](https://www.fastprep.io/problems/quince-minimum-meeting-rooms)|🔥 Oct 06, 2026|
 |**ServiceNow**|[LRU Cache](https://www.fastprep.io/problems/service-now-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/service-now-lru-cache)|🔥 Oct 06, 2026|
 |**Teradata**|[Task Scheduler with Cooldown](https://www.fastprep.io/problems/teradata-task-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/teradata-task-scheduler)|🔥 Oct 06, 2026|
+|**Applied Intuition**|[Driving Log Ingestion and Playback Windows](https://www.fastprep.io/project-coding/applied-intuition-driving-log-playback)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/applied-intuition-driving-log-playback)|🔥 Oct 06, 2026|
 |**Tekion / Autodesk**|[Design a Continuous Table Merge into NoSQL](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|System design|[![Practice][p]](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|🔥 Oct 05, 2026|
 |**Bloomberg LP**|[Design a Deck, Hand, and Dealer](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|🔥 Oct 05, 2026|
 |**Amazon / Airwallex / Apple / Wex / Confluent / Oracle / Motive / Grab / Optiver / Scale AI / ByteDance / Navi**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🔥 Oct 05, 2026|
@@ -1689,5 +1690,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Oracle**|[Design a Healthcare Data Ingestion Pipeline](https://www.fastprep.io/system-design/healthcare-data-ingestion-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/healthcare-data-ingestion-pipeline)|Aug 19, 2026|
 |**eBay**|[Design a Top-Selling Items and Categories Dashboard](https://www.fastprep.io/system-design/top-selling-items-and-categories-dashboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/top-selling-items-and-categories-dashboard)|Aug 19, 2026|
 |**eBay**|[Design a Workplace Lunch Ordering Platform](https://www.fastprep.io/system-design/workplace-lunch-ordering-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/workplace-lunch-ordering-platform)|Aug 19, 2026|
-|**Micro1**|[Design an In-Memory Read-Through Cache](https://www.fastprep.io/low-level-design/in-memory-read-through-cache)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-read-through-cache)|Aug 19, 2026|
 <a id="bottom"></a>
