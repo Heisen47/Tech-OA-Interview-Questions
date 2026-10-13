@@ -9,7 +9,6 @@
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Amazon / Goldman Sachs / Wayfair / Walmart / Navan / Uber**|[Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|🔥 Oct 12, 2026|
-|**Amazon**|[Design and Implement a Train Route Fare Calculator](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|[![Practice][p]](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|🔥 Oct 12, 2026|
 |**Oracle**|[Design an LRU Cache Object Model](https://www.fastprep.io/low-level-design/lru-cache-object-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/lru-cache-object-model)|🔥 Oct 12, 2026|
 |**Twitch / Citadel / Kotak Mahindra Bank**|[Design and Implement a Terminal Battleship Game](https://www.fastprep.io/low-level-design/battleship-game)|[![Practice][p]](https://www.fastprep.io/low-level-design/battleship-game)|🔥 Oct 10, 2026|
 |**Uber**|[Design a Participant Meeting Scheduler](https://www.fastprep.io/low-level-design/participant-meeting-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/participant-meeting-scheduler)|🔥 Oct 09, 2026|
@@ -88,6 +87,7 @@
 |**Salesforce**|[Ludo Game Object Model](https://www.fastprep.io/low-level-design/ludo-game-object-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/ludo-game-object-model)|🆕 Sep 08, 2026|
 |**Tekion**|[Design an Inventory Stock Control Domain](https://www.fastprep.io/low-level-design/inventory-stock-control-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/inventory-stock-control-domain)|🆕 Sep 05, 2026|
 |**The Walt Disney Company**|[Design an Authentication Session Lifecycle](https://www.fastprep.io/low-level-design/authentication-session-lifecycle)|[![Practice][p]](https://www.fastprep.io/low-level-design/authentication-session-lifecycle)|🆕 Sep 04, 2026|
+|**Amazon**|[Design and Implement a Train Route Fare Calculator](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|[![Practice][p]](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|🆕 Sep 03, 2026|
 |**SentinelOne**|[Design and Implement a Concurrent Web Crawler Library](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library)|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library)|🆕 Sep 03, 2026|
 |**Amazon**|[Design and Implement a Sliding Window Maximum API](https://www.fastprep.io/low-level-design/sliding-window-maximum-api)|[![Practice][p]](https://www.fastprep.io/low-level-design/sliding-window-maximum-api)|🆕 Sep 03, 2026|
 |**Google**|[Design a Bookshelf with Reading Progress](https://www.fastprep.io/low-level-design/bookshelf-reading-progress)|[![Practice][p]](https://www.fastprep.io/low-level-design/bookshelf-reading-progress)|🆕 Sep 01, 2026|
