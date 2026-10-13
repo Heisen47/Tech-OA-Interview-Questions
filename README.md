@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,474)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (583)](formats/system-design.md) · [Low-level design (172)](formats/low-level-design.md) · [AI coding (80)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,474)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (584)](formats/system-design.md) · [Low-level design (175)](formats/low-level-design.md) · [AI coding (80)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -34,6 +34,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 |**Globalization Partners / Coupa Software / Adobe**|[Design and Repair a Thread-Safe Configuration Singleton](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|🔥 Oct 13, 2026|
+|**Adobe**|[Design and Implement Shared and Weak Ownership Pointers](https://www.fastprep.io/low-level-design/smart-pointer-ownership-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/smart-pointer-ownership-domain)|🔥 Oct 13, 2026|
 |**Amazon / Goldman Sachs / Wayfair / Walmart / Navan / Uber**|[Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|🔥 Oct 12, 2026|
 |**Anthropic**|[Design Opaque-GPU Inference Capacity](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review)|System design|[![Practice][p]](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review)|🔥 Oct 12, 2026|
 |**Atlassian**|[Design a Responsive Product Catalog Search Frontend](https://www.fastprep.io/system-design/responsive-product-catalog-search-frontend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/responsive-product-catalog-search-frontend)|🔥 Oct 12, 2026|
@@ -60,7 +61,10 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Available Recipes from Initial Supplies](https://www.fastprep.io/problems/amazon-available-recipes-from-supplies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-available-recipes-from-supplies)|🔥 Oct 11, 2026|
 |**NVIDIA**|[Parallel String Counts with a Custom Hash Table](https://www.fastprep.io/problems/nvidia-parallel-custom-string-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nvidia-parallel-custom-string-counts)|🔥 Oct 11, 2026|
 |**Stripe**|[Split Tender Payments with Expiration and Refunds](https://www.fastprep.io/problems/stripe-split-tender-payments-with-refunds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-split-tender-payments-with-refunds)|🔥 Oct 11, 2026|
-|**Amazon / Instacart / Zip / Nykaa**|[Design a Last-Unit Inventory Reservation Service](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|🔥 Oct 11, 2026|
+|**Amazon / Instacart / Zip / Nykaa / Flipkart**|[Design a Last-Unit Inventory Reservation Service](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|🔥 Oct 11, 2026|
+|**Amazon**|[Design a Smart Thermostat Telemetry Platform](https://www.fastprep.io/system-design/smart-thermostat-telemetry-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/smart-thermostat-telemetry-platform)|🔥 Oct 11, 2026|
+|**Amazon**|[Design a Bounded Flash Logging Buffer](https://www.fastprep.io/low-level-design/flash-partition-logging-buffer)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/flash-partition-logging-buffer)|🔥 Oct 11, 2026|
+|**Okta**|[Design a Persistent Chronological Social Feed](https://www.fastprep.io/low-level-design/persistent-social-news-feed-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/persistent-social-news-feed-domain)|🔥 Oct 11, 2026|
 |**IBM**|[Last Object Exit Time](https://www.fastprep.io/problems/ibm-last-object-exit-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-last-object-exit-time)|🔥 Oct 10, 2026|
 |**IBM**|[Maximum Easy Tasks After Rearranging](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|🔥 Oct 10, 2026|
 |**Google**|[Word Ladder](https://www.fastprep.io/problems/google-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-word-ladder)|🔥 Oct 10, 2026|
@@ -1685,9 +1689,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Quince**|[Minimum Sprinklers to Cover an Interval](https://www.fastprep.io/problems/quince-minimum-sprinklers-to-cover-an-interval)|Coding|[![Practice][p]](https://www.fastprep.io/problems/quince-minimum-sprinklers-to-cover-an-interval)|Aug 21, 2026|
 |**Quince**|[Check a Repeated String as a Subsequence](https://www.fastprep.io/problems/quince-check-a-repeated-string-as-a-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/quince-check-a-repeated-string-as-a-subsequence)|Aug 21, 2026|
 |**Temu**|[Merge Two Sorted Collections Without Duplicates](https://www.fastprep.io/problems/temu-merge-two-sorted-collections-without-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temu-merge-two-sorted-collections-without-duplicates)|Aug 21, 2026|
-|**Anthropic**|[Design a Model-Weight Deployment Platform](https://www.fastprep.io/system-design/model-weight-deployment-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/model-weight-deployment-platform)|Aug 21, 2026|
-|**ByteDance**|[Cache Avalanche Resilience](https://www.fastprep.io/system-design/cache-avalanche-resilience)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cache-avalanche-resilience)|Aug 21, 2026|
-|**ByteDance**|[Cache-Aside Consistency Recovery](https://www.fastprep.io/system-design/cache-aside-consistency-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cache-aside-consistency-recovery)|Aug 21, 2026|
-|**Netflix**|[Design a Competitive Ad Exclusion Service](https://www.fastprep.io/system-design/competitive-ad-exclusion-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/competitive-ad-exclusion-service)|Aug 21, 2026|
-|**General Motors**|[Design a Composable AI Function Platform](https://www.fastprep.io/system-design/composable-ai-function-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/composable-ai-function-platform)|Aug 21, 2026|
 <a id="bottom"></a>

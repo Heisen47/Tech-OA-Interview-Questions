@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Process Queue](https://www.fastprep.io/problems/amazon-process-queue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-process-queue)|Jul 15, 2024|
+|**Amazon**|[Get Redundant Substrings](https://www.fastprep.io/problems/amazon-get-redundant-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-redundant-substrings)|Jul 15, 2024|
+|**Blackrock**|[Count Levels](https://www.fastprep.io/problems/blackrock-count-levels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/blackrock-count-levels)|Jul 15, 2024|
+|**Pure Storage**|[Shopping and Billing](https://www.fastprep.io/problems/purestorage-count-palindromic-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/purestorage-count-palindromic-substrings)|Jul 15, 2024|
+|**Mygate**|[Minimum in a Rotated Sorted Array](https://www.fastprep.io/problems/mygate-minimum-rotated-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mygate-minimum-rotated-array)|Jul 15, 2024|
+|**Salesforce**|[Least Stressful Path](https://www.fastprep.io/problems/salesforce-least-stressful-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-least-stressful-path)|Jul 12, 2024|
 |**Salesforce**|[Same Substring](https://www.fastprep.io/problems/salesforce-same-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-same-substring)|Jul 12, 2024|
 |**Citadel**|[Get Min Operations](https://www.fastprep.io/problems/citadel-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-get-min-operations)|Jul 11, 2024|
 |**JP Morgan**|[Chess Tourment](https://www.fastprep.io/problems/jpmorgan-get-potential-of-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-potential-of-winner)|Jul 10, 2024|

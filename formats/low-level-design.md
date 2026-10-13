@@ -2,17 +2,20 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**172 questions**
+**175 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Globalization Partners / Coupa Software / Adobe**|[Design and Repair a Thread-Safe Configuration Singleton](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|🔥 Oct 13, 2026|
+|**Adobe**|[Design and Implement Shared and Weak Ownership Pointers](https://www.fastprep.io/low-level-design/smart-pointer-ownership-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/smart-pointer-ownership-domain)|🔥 Oct 13, 2026|
 |**Amazon / Goldman Sachs / Wayfair / Walmart / Navan / Uber**|[Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|🔥 Oct 12, 2026|
 |**Oracle**|[Design an LRU Cache Object Model](https://www.fastprep.io/low-level-design/lru-cache-object-model)|[![Practice][p]](https://www.fastprep.io/low-level-design/lru-cache-object-model)|🔥 Oct 12, 2026|
 |**Amazon / Groww**|[Design and Implement a Shopping Cart Price Calculator](https://www.fastprep.io/low-level-design/shopping-cart-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/shopping-cart-domain)|🔥 Oct 12, 2026|
 |**Sentry / Amazon**|[Design and Implement a Multi-Entrance Parking Lot](https://www.fastprep.io/low-level-design/multi-entrance-sized-parking-lot)|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-entrance-sized-parking-lot)|🔥 Oct 12, 2026|
+|**Amazon**|[Design a Bounded Flash Logging Buffer](https://www.fastprep.io/low-level-design/flash-partition-logging-buffer)|[![Practice][p]](https://www.fastprep.io/low-level-design/flash-partition-logging-buffer)|🔥 Oct 11, 2026|
+|**Okta**|[Design a Persistent Chronological Social Feed](https://www.fastprep.io/low-level-design/persistent-social-news-feed-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/persistent-social-news-feed-domain)|🔥 Oct 11, 2026|
 |**Twitch / Citadel / Kotak Mahindra Bank**|[Design and Implement a Terminal Battleship Game](https://www.fastprep.io/low-level-design/battleship-game)|[![Practice][p]](https://www.fastprep.io/low-level-design/battleship-game)|🔥 Oct 10, 2026|
 |**Uber**|[Design a Participant Meeting Scheduler](https://www.fastprep.io/low-level-design/participant-meeting-scheduler)|[![Practice][p]](https://www.fastprep.io/low-level-design/participant-meeting-scheduler)|🔥 Oct 09, 2026|
 |**Kotak Mahindra Bank**|[Design a Food Delivery Order Domain](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|[![Practice][p]](https://www.fastprep.io/low-level-design/food-delivery-order-domain)|🔥 Oct 07, 2026|

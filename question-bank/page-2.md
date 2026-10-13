@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Anthropic**|[Design a Model-Weight Deployment Platform](https://www.fastprep.io/system-design/model-weight-deployment-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/model-weight-deployment-platform)|Aug 21, 2026|
+|**ByteDance**|[Cache Avalanche Resilience](https://www.fastprep.io/system-design/cache-avalanche-resilience)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cache-avalanche-resilience)|Aug 21, 2026|
+|**ByteDance**|[Cache-Aside Consistency Recovery](https://www.fastprep.io/system-design/cache-aside-consistency-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cache-aside-consistency-recovery)|Aug 21, 2026|
+|**Netflix**|[Design a Competitive Ad Exclusion Service](https://www.fastprep.io/system-design/competitive-ad-exclusion-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/competitive-ad-exclusion-service)|Aug 21, 2026|
+|**General Motors**|[Design a Composable AI Function Platform](https://www.fastprep.io/system-design/composable-ai-function-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/composable-ai-function-platform)|Aug 21, 2026|
 |**Cursor**|[Hash-Tree Client/Server Synchronization](https://www.fastprep.io/system-design/hash-tree-client-server-synchronization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/hash-tree-client-server-synchronization)|Aug 21, 2026|
 |**ByteDance**|[Relational Query Index Design](https://www.fastprep.io/system-design/relational-query-index-design)|System design|[![Practice][p]](https://www.fastprep.io/system-design/relational-query-index-design)|Aug 21, 2026|
 |**ByteDance**|[SQL Index Eligibility Analysis](https://www.fastprep.io/system-design/sql-index-eligibility-analysis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/sql-index-eligibility-analysis)|Aug 21, 2026|
@@ -1797,10 +1802,4 @@
 |**Moveworks**|[Find Max Number of Strings](https://www.fastprep.io/problems/moveworks-find-maximum-number-of-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/moveworks-find-maximum-number-of-strings)|Jul 17, 2024|
 |**Moveworks**|[Min Operations to Sort Array](https://www.fastprep.io/problems/moveworks-get-minimum-operations-to-sort-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/moveworks-get-minimum-operations-to-sort-array)|Jul 17, 2024|
 |**Amazon**|[Compute Encoded Product Name](https://www.fastprep.io/problems/amazon-compute-encoded-product-name)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-compute-encoded-product-name)|Jul 15, 2024|
-|**Amazon**|[Process Queue](https://www.fastprep.io/problems/amazon-process-queue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-process-queue)|Jul 15, 2024|
-|**Amazon**|[Get Redundant Substrings](https://www.fastprep.io/problems/amazon-get-redundant-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-redundant-substrings)|Jul 15, 2024|
-|**Blackrock**|[Count Levels](https://www.fastprep.io/problems/blackrock-count-levels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/blackrock-count-levels)|Jul 15, 2024|
-|**Pure Storage**|[Shopping and Billing](https://www.fastprep.io/problems/purestorage-count-palindromic-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/purestorage-count-palindromic-substrings)|Jul 15, 2024|
-|**Mygate**|[Minimum in a Rotated Sorted Array](https://www.fastprep.io/problems/mygate-minimum-rotated-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mygate-minimum-rotated-array)|Jul 15, 2024|
-|**Salesforce**|[Least Stressful Path](https://www.fastprep.io/problems/salesforce-least-stressful-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-least-stressful-path)|Jul 12, 2024|
 <a id="bottom"></a>
