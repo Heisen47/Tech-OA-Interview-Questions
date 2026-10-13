@@ -773,6 +773,7 @@
 |**Bloomberg LP**|[Decode String](https://www.fastprep.io/problems/bloomberg-decode-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-decode-string)|Mar 23, 2026|
 |**Headlands Technologies**|[Queue Mean Queries](https://www.fastprep.io/problems/headlands-queue-mean)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-queue-mean)|Mar 23, 2026|
 |**Headlands Technologies**|[Queue Mean from Corrective Snapshots](https://www.fastprep.io/problems/headlands-snapshot-queue-mean)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-snapshot-queue-mean)|Mar 23, 2026|
+|**WhatNot**|[Text Justification](https://www.fastprep.io/problems/whatnot-text-justification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-text-justification)|Mar 23, 2026|
 |**Headlands Technologies**|[Disaster Recovery](https://www.fastprep.io/problems/headlands-disaster-recovery)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-disaster-recovery)|Mar 21, 2026|
 |**Microsoft**|[Visible Profiles Count](https://www.fastprep.io/problems/microsoft-visible-profiles-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-visible-profiles-count)|Mar 21, 2026|
 |**Swiggy**|[First and Last Occurrence](https://www.fastprep.io/problems/swiggy-first-and-last-occurrence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/swiggy-first-and-last-occurrence)|Mar 20, 2026|
@@ -795,6 +796,7 @@
 |**Ramp**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Mar 04, 2026|
 |**Persona**|[Design and Implement a Progressive Banking System](https://www.fastprep.io/low-level-design/progressive-banking-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/progressive-banking-system)|Mar 03, 2026|
 |**Salesforce**|[Count Palindromic Concatenation Pairs](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Mar 02, 2026|
+|**WhatNot**|[Validate Rows and Columns](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|Mar 01, 2026|
 |**Google**|[All Long Subsequences Are Dictionary Words](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|Feb 28, 2026|
 |**Google**|[Frequency-Weighted Next-Word Sampling](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|Feb 28, 2026|
 |**Google**|[Select First or Last K Stream Words](https://www.fastprep.io/problems/google-select-first-or-last-k-stream-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-select-first-or-last-k-stream-words)|Feb 28, 2026|
@@ -991,6 +993,7 @@
 |**AT&T**|[Break a Palindrome](https://www.fastprep.io/problems/att-break-a-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/att-break-a-palindrome)|Oct 07, 2025|
 |**AT&T**|[3Sum](https://www.fastprep.io/problems/att-three-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/att-three-sum)|Oct 07, 2025|
 |**Arista Networks**|[Trace Pointer Rebinding and Pointee Updates](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arista-trace-pointer-rebinding-and-writes)|Oct 02, 2025|
+|**WhatNot**|[Build a Seven-Minute Playlist](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-seven-minute-playlist)|Oct 02, 2025|
 |**Google**|[Unique Word Abbreviations](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-unique-word-abbreviations)|Sep 27, 2025|
 |**Meta**|[Common Words Across Files](https://www.fastprep.io/problems/meta-common-words-across-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-common-words-across-files)|Sep 22, 2025|
 |**Microsoft**|[Isomorphic Strings](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|Sep 18, 2025|
@@ -1799,7 +1802,4 @@
 |**DE Shaw**|[Make Array Bitonic](https://www.fastprep.io/problems/make-array-bitonic-deshaw)|Coding|[![Practice][p]](https://www.fastprep.io/problems/make-array-bitonic-deshaw)|Jul 17, 2024|
 |**Moveworks**|[Number of Balanced Strings](https://www.fastprep.io/problems/moveworks-number-of-balanced-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/moveworks-number-of-balanced-strings)|Jul 17, 2024|
 |**Moveworks**|[Min Moves to Sort Array](https://www.fastprep.io/problems/moveworks-minimum-moves-to-sort-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/moveworks-minimum-moves-to-sort-array)|Jul 17, 2024|
-|**Moveworks**|[Find Max Number of Strings](https://www.fastprep.io/problems/moveworks-find-maximum-number-of-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/moveworks-find-maximum-number-of-strings)|Jul 17, 2024|
-|**Moveworks**|[Min Operations to Sort Array](https://www.fastprep.io/problems/moveworks-get-minimum-operations-to-sort-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/moveworks-get-minimum-operations-to-sort-array)|Jul 17, 2024|
-|**Amazon**|[Compute Encoded Product Name](https://www.fastprep.io/problems/amazon-compute-encoded-product-name)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-compute-encoded-product-name)|Jul 15, 2024|
 <a id="bottom"></a>
