@@ -9,6 +9,21 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Citadel**|[Get Min Operations](https://www.fastprep.io/problems/citadel-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-get-min-operations)|Jul 11, 2024|
+|**JP Morgan**|[Chess Tourment](https://www.fastprep.io/problems/jpmorgan-get-potential-of-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-potential-of-winner)|Jul 10, 2024|
+|**Citadel**|[Count Stable Segments](https://www.fastprep.io/problems/citadel-count-stable-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-count-stable-segments)|Jul 10, 2024|
+|**Citadel**|[Find Consistent Logs](https://www.fastprep.io/problems/citadel-find-consistent-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-find-consistent-logs)|Jul 10, 2024|
+|**Citadel**|[Get Max Throughput](https://www.fastprep.io/problems/citadel-get-max-throughput)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-get-max-throughput)|Jul 10, 2024|
+|**Citadel**|[Get Recommended Friends](https://www.fastprep.io/problems/citadel-get-recommended-friends)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-get-recommended-friends)|Jul 10, 2024|
+|**Goldman Sachs**|[Alphanumeric Combinations](https://www.fastprep.io/problems/goldman-alphanumeric-combinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-alphanumeric-combinations)|Jul 10, 2024|
+|**Amazon**|[Max Consecutive ON Servers](https://www.fastprep.io/problems/amazon-get-max-consecutive-on)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-consecutive-on)|Jul 09, 2024|
+|**Skydio**|[Drone API Sliding-Window Rate Limiter](https://www.fastprep.io/problems/skydio-drone-api-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/skydio-drone-api-rate-limiter)|Jul 06, 2024|
+|**Retool**|[Next Consistent Wordle Guess](https://www.fastprep.io/problems/retool-next-wordle-guess)|Coding|[![Practice][p]](https://www.fastprep.io/problems/retool-next-wordle-guess)|Jun 30, 2024|
+|**Retool**|[Wordle Feedback](https://www.fastprep.io/problems/retool-wordle-feedback)|Coding|[![Practice][p]](https://www.fastprep.io/problems/retool-wordle-feedback)|Jun 30, 2024|
+|**Retool**|[Wordle Guess Loop](https://www.fastprep.io/problems/retool-wordle-guess-loop)|Coding|[![Practice][p]](https://www.fastprep.io/problems/retool-wordle-guess-loop)|Jun 30, 2024|
+|**Amazon**|[Get Total Requests](https://www.fastprep.io/problems/amazon-get-total-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-total-requests)|Jun 27, 2024|
+|**Uber**|[Find Length of Longest Common Prefix](https://www.fastprep.io/problems/uber-find-length-of-longest-common-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-find-length-of-longest-common-prefix)|Jun 27, 2024|
+|**Snowflake**|[Minimum Segment](https://www.fastprep.io/problems/snowflake-minimum-division)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-division)|Jun 27, 2024|
 |**Cisco**|[Find Critical Nodes](https://www.fastprep.io/problems/cisco-find-critical-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-critical-nodes)|Jun 27, 2024|
 |**Benchling**|[Degenerate DNA Substring Search](https://www.fastprep.io/problems/benchling-degenerate-dna-substring-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-degenerate-dna-substring-search)|Jun 25, 2024|
 |**Amazon**|[Maximize Negative Signs](https://www.fastprep.io/problems/maximize-negative-signs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maximize-negative-signs)|Jun 24, 2024|

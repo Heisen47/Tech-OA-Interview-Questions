@@ -2,12 +2,25 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,461 questions**
+**3,474 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Stripe**|[Validate Timestamped Message Records](https://www.fastprep.io/problems/stripe-timestamped-record-validation)|[![Practice][p]](https://www.fastprep.io/problems/stripe-timestamped-record-validation)|Jan 17, 2026|
+|**FlexTrade**|[Course Schedule](https://www.fastprep.io/problems/flextrade-course-schedule)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-course-schedule)|Jan 17, 2026|
+|**Stripe**|[Filter Contacts by Email Domain](https://www.fastprep.io/problems/stripe-contact-domain-filter)|[![Practice][p]](https://www.fastprep.io/problems/stripe-contact-domain-filter)|Jan 16, 2026|
+|**Motive**|[Group Anagrams](https://www.fastprep.io/problems/motive-group-anagrams)|[![Practice][p]](https://www.fastprep.io/problems/motive-group-anagrams)|Jan 15, 2026|
+|**Motive**|[Longest Equal-Zero-One Subarray](https://www.fastprep.io/problems/motive-longest-equal-zero-one-subarray)|[![Practice][p]](https://www.fastprep.io/problems/motive-longest-equal-zero-one-subarray)|Jan 15, 2026|
+|**Motive**|[Maximum Weighted Sum After Left Rotations](https://www.fastprep.io/problems/motive-maximum-weighted-left-rotation)|[![Practice][p]](https://www.fastprep.io/problems/motive-maximum-weighted-left-rotation)|Jan 15, 2026|
+|**Motive**|[Valid Parenthesis String](https://www.fastprep.io/problems/motive-valid-parenthesis-string)|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-parenthesis-string)|Jan 15, 2026|
+|**Walmart**|[Sort Real Number Strings](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|[![Practice][p]](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Jan 12, 2026|
+|**SavantLabs**|[Minutes to Infect Tree](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|[![Practice][p]](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Jan 12, 2026|
+|**Toast**|[Maximum Stock Profit With Time Gap](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|[![Practice][p]](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|Jan 12, 2026|
+|**Amazon**|[Longest Arithmetic Subarray After One Change](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change)|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change)|Jan 06, 2026|
+|**Amazon**|[Replace Values and Return Sums](https://www.fastprep.io/problems/amazon-replace-values-and-return-sums)|[![Practice][p]](https://www.fastprep.io/problems/amazon-replace-values-and-return-sums)|Jan 06, 2026|
+|**Bloomberg LP**|[Valid Parentheses](https://www.fastprep.io/problems/bloomberg-valid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-valid-parentheses)|Dec 30, 2025|
 |**Anchorage**|[Dynamic Fixed-K Score Leaderboard](https://www.fastprep.io/problems/anchorage-dynamic-score-leaderboard)|[![Practice][p]](https://www.fastprep.io/problems/anchorage-dynamic-score-leaderboard)|Dec 29, 2025|
 |**Google**|[Count Divisible Coin Selections](https://www.fastprep.io/problems/google-count-divisible-coin-selections)|[![Practice][p]](https://www.fastprep.io/problems/google-count-divisible-coin-selections)|Dec 24, 2025|
 |**Google**|[Minimum Town Sum Difference](https://www.fastprep.io/problems/google-minimum-town-sum-difference)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-town-sum-difference)|Dec 24, 2025|
