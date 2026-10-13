@@ -10,6 +10,7 @@
 | :-- | :-- | :-: | :-- |
 |**Google**|[Count Enclosed Freshwater Regions](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|[![Practice][p]](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|🔥 Oct 13, 2026|
 |**Google**|[Path Leaf Character Iterator](https://www.fastprep.io/problems/google-path-leaf-character-iterator)|[![Practice][p]](https://www.fastprep.io/problems/google-path-leaf-character-iterator)|🔥 Oct 13, 2026|
+|**Google**|[Merge Hierarchical Trees by Name](https://www.fastprep.io/problems/google-merge-hierarchical-trees-by-name)|[![Practice][p]](https://www.fastprep.io/problems/google-merge-hierarchical-trees-by-name)|🔥 Oct 13, 2026|
 |**Perplexity AI**|[In-Memory Filesystem Commands](https://www.fastprep.io/problems/perplexity-ai-in-memory-filesystem-commands)|[![Practice][p]](https://www.fastprep.io/problems/perplexity-ai-in-memory-filesystem-commands)|🔥 Oct 12, 2026|
 |**Pinterest**|[Minimum Bus Routes to a Destination](https://www.fastprep.io/problems/pinterest-minimum-bus-routes)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-minimum-bus-routes)|🔥 Oct 12, 2026|
 |**Stripe**|[Financial Account Ledger](https://www.fastprep.io/problems/stripe-financial-account-ledger)|[![Practice][p]](https://www.fastprep.io/problems/stripe-financial-account-ledger)|🔥 Oct 12, 2026|
@@ -385,7 +386,6 @@
 |**Attentive**|[Lisp Expression Parser](https://www.fastprep.io/problems/attentive-lisp-expression-parser)|[![Practice][p]](https://www.fastprep.io/problems/attentive-lisp-expression-parser)|🆕 Sep 27, 2026|
 |**Attentive**|[Messages in an Inclusive Timestamp Range](https://www.fastprep.io/problems/attentive-log-range-query)|[![Practice][p]](https://www.fastprep.io/problems/attentive-log-range-query)|🆕 Sep 27, 2026|
 |**Bloomberg LP**|[Lowest Common Ancestor in an N-ary Tree](https://www.fastprep.io/problems/bloomberg-nary-tree-lowest-common-ancestor)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-nary-tree-lowest-common-ancestor)|🆕 Sep 27, 2026|
-|**Google**|[Merge Hierarchical Trees by Name](https://www.fastprep.io/problems/google-merge-hierarchical-trees-by-name)|[![Practice][p]](https://www.fastprep.io/problems/google-merge-hierarchical-trees-by-name)|🆕 Sep 27, 2026|
 |**Verkada**|[Find the Unique User with Access to Every Camera](https://www.fastprep.io/problems/verkada-admin-user-with-all-camera-access)|[![Practice][p]](https://www.fastprep.io/problems/verkada-admin-user-with-all-camera-access)|🆕 Sep 27, 2026|
 |**Optiver**|[Count Straight-Line Word Occurrences in a Grid](https://www.fastprep.io/problems/optiver-straight-line-word-count)|[![Practice][p]](https://www.fastprep.io/problems/optiver-straight-line-word-count)|🆕 Sep 27, 2026|
 |**Optiver**|[Fastest Average Speed over a Rolling Kilometer](https://www.fastprep.io/problems/optiver-fastest-rolling-kilometer-speed)|[![Practice][p]](https://www.fastprep.io/problems/optiver-fastest-rolling-kilometer-speed)|🆕 Sep 27, 2026|
