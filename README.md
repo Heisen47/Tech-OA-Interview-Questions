@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,461)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (581)](formats/system-design.md) · [Low-level design (171)](formats/low-level-design.md) · [AI coding (79)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,461)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (583)](formats/system-design.md) · [Low-level design (171)](formats/low-level-design.md) · [AI coding (79)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -35,8 +35,11 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 | :-- | :-- | :-- | :-: | :-- |
 |**Amazon / Goldman Sachs / Wayfair / Walmart / Navan / Uber**|[Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|🔥 Oct 12, 2026|
 |**Anthropic**|[Design Opaque-GPU Inference Capacity](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review)|System design|[![Practice][p]](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review)|🔥 Oct 12, 2026|
+|**Amazon**|[Design and Implement a Train Route Fare Calculator](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|🔥 Oct 12, 2026|
+|**Atlassian**|[Design a Responsive Product Catalog Search Frontend](https://www.fastprep.io/system-design/responsive-product-catalog-search-frontend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/responsive-product-catalog-search-frontend)|🔥 Oct 12, 2026|
 |**Headlands Technologies**|[Array Interval Sums](https://www.fastprep.io/problems/headlands-array-interval-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-array-interval-sums)|🔥 Oct 11, 2026|
 |**Dell Technologies**|[Repair Expiration and Soft Deletion](https://www.fastprep.io/project-coding/dell-expiration-soft-delete-repair)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/dell-expiration-soft-delete-repair)|🔥 Oct 11, 2026|
+|**Amazon**|[Design Agentic Security Stream Detection](https://www.fastprep.io/system-design/agentic-security-stream-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/agentic-security-stream-detection)|🔥 Oct 11, 2026|
 |**IBM**|[Last Object Exit Time](https://www.fastprep.io/problems/ibm-last-object-exit-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-last-object-exit-time)|🔥 Oct 10, 2026|
 |**IBM**|[Maximum Easy Tasks After Rearranging](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-easy-tasks-after-rearranging)|🔥 Oct 10, 2026|
 |**Google**|[Word Ladder](https://www.fastprep.io/problems/google-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-word-ladder)|🔥 Oct 10, 2026|
@@ -1490,7 +1493,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Astrotalk**|[Design an Idempotent Action API](https://www.fastprep.io/system-design/idempotent-button-action-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-button-action-api)|🆕 Sep 03, 2026|
 |**Oracle**|[Design GPU Host Health Monitoring and Repair](https://www.fastprep.io/system-design/gpu-host-health-and-repair)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-host-health-and-repair)|🆕 Sep 03, 2026|
 |**SentinelOne**|[Design and Implement a Concurrent Web Crawler Library](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library)|🆕 Sep 03, 2026|
-|**Amazon**|[Design and Implement a Train Route Fare Calculator](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|🆕 Sep 03, 2026|
 |**Amazon**|[Design and Implement a Sliding Window Maximum API](https://www.fastprep.io/low-level-design/sliding-window-maximum-api)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/sliding-window-maximum-api)|🆕 Sep 03, 2026|
 |**Roblox**|[Rate Limiter Sliding Window With Per-Entity Limits](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity)|🆕 Sep 02, 2026|
 |**DoorDash**|[Build a Dasher Payout Service](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/doordash-dasher-payout-service)|🆕 Sep 02, 2026|
@@ -1688,6 +1690,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**eBay**|[Design a Workplace Lunch Ordering Platform](https://www.fastprep.io/system-design/workplace-lunch-ordering-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/workplace-lunch-ordering-platform)|Aug 19, 2026|
 |**Micro1**|[Design an In-Memory Read-Through Cache](https://www.fastprep.io/low-level-design/in-memory-read-through-cache)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-read-through-cache)|Aug 19, 2026|
 |**Meta**|[Build an In-Memory Cloud Storage System](https://www.fastprep.io/project-coding/meta-in-memory-cloud-storage)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/meta-in-memory-cloud-storage)|Aug 19, 2026|
-|**OpenAI**|[Design a GPU Worker Messaging Protocol](https://www.fastprep.io/system-design/gpu-worker-messaging-protocol)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-worker-messaging-protocol)|Aug 19, 2026|
-|**OpenAI**|[Message Serializer and Deserializer](https://www.fastprep.io/problems/openai-message-serializer-deserializer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-message-serializer-deserializer)|Aug 19, 2026|
 <a id="bottom"></a>

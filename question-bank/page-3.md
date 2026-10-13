@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Maximize Negative Signs](https://www.fastprep.io/problems/maximize-negative-signs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maximize-negative-signs)|Jun 24, 2024|
+|**Adobe**|[Determine the Edit Distance in a Word Ladder](https://www.fastprep.io/problems/adobe-determine-edit-distance-in-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-determine-edit-distance-in-word-ladder)|Jun 24, 2024|
+|**Flexport**|[Distinct Moves](https://www.fastprep.io/problems/flexport-distinct-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flexport-distinct-moves)|Jun 24, 2024|
 |**Flexport**|[Maximum Edges](https://www.fastprep.io/problems/flexport-get-maximum-edges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flexport-get-maximum-edges)|Jun 24, 2024|
 |**WeWork**|[Meeting Room](https://www.fastprep.io/problems/wework-meeting-room)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wework-meeting-room)|Jun 24, 2024|
 |**WeWork**|[Shopping and Billing](https://www.fastprep.io/problems/wework-shopping-and-billing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wework-shopping-and-billing)|Jun 24, 2024|
