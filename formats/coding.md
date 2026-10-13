@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,477 questions**
+**3,478 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Google**|[Count Enclosed Freshwater Regions](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|[![Practice][p]](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|🔥 Oct 13, 2026|
+|**Google**|[Path Leaf Character Iterator](https://www.fastprep.io/problems/google-path-leaf-character-iterator)|[![Practice][p]](https://www.fastprep.io/problems/google-path-leaf-character-iterator)|🔥 Oct 13, 2026|
 |**Perplexity AI**|[In-Memory Filesystem Commands](https://www.fastprep.io/problems/perplexity-ai-in-memory-filesystem-commands)|[![Practice][p]](https://www.fastprep.io/problems/perplexity-ai-in-memory-filesystem-commands)|🔥 Oct 12, 2026|
 |**Pinterest**|[Minimum Bus Routes to a Destination](https://www.fastprep.io/problems/pinterest-minimum-bus-routes)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-minimum-bus-routes)|🔥 Oct 12, 2026|
 |**Stripe**|[Financial Account Ledger](https://www.fastprep.io/problems/stripe-financial-account-ledger)|[![Practice][p]](https://www.fastprep.io/problems/stripe-financial-account-ledger)|🔥 Oct 12, 2026|
@@ -303,7 +305,6 @@
 |**DatologyAI**|[SimpleRDD Word Count](https://www.fastprep.io/problems/datologyai-simple-rdd-word-count)|[![Practice][p]](https://www.fastprep.io/problems/datologyai-simple-rdd-word-count)|🔥 Sep 29, 2026|
 |**Google**|[Choose a Shortest Path That Avoids Bob](https://www.fastprep.io/problems/google-alice-shortest-path-avoiding-bob)|[![Practice][p]](https://www.fastprep.io/problems/google-alice-shortest-path-avoiding-bob)|🔥 Sep 29, 2026|
 |**Google**|[Count Matrix Paths Through Ordered Checkpoints](https://www.fastprep.io/problems/google-count-checkpoint-paths)|[![Practice][p]](https://www.fastprep.io/problems/google-count-checkpoint-paths)|🔥 Sep 29, 2026|
-|**Google**|[Count Enclosed Freshwater Regions](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|[![Practice][p]](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|🔥 Sep 29, 2026|
 |**Google**|[Maximum-Area Rectangle from Points](https://www.fastprep.io/problems/google-maximum-area-rotated-rectangle)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-area-rotated-rectangle)|🔥 Sep 29, 2026|
 |**Google**|[Safest Mouse Path Away from a Cat](https://www.fastprep.io/problems/google-mouse-path-maximum-cat-distance)|[![Practice][p]](https://www.fastprep.io/problems/google-mouse-path-maximum-cat-distance)|🔥 Sep 29, 2026|
 |**Google**|[Shortest Land Path](https://www.fastprep.io/problems/google-shortest-land-path)|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-land-path)|🔥 Sep 29, 2026|
@@ -1822,5 +1823,4 @@
 |**Ramp**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/ramp-worker-management-level-1)|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-1)|Jan 21, 2026|
 |**Ramp**|[Worker Management, Part 2: Top Workers](https://www.fastprep.io/problems/ramp-worker-management-level-2)|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-2)|Jan 21, 2026|
 |**Ramp**|[Worker Management, Part 3: Promotions and Salary](https://www.fastprep.io/problems/ramp-worker-management-level-3)|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-3)|Jan 21, 2026|
-|**Ramp**|[Worker Management, Part 4: Double-Paid Intervals](https://www.fastprep.io/problems/ramp-worker-management-level-4)|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-4)|Jan 21, 2026|
 <a id="bottom"></a>

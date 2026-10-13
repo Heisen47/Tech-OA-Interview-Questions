@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,477)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (586)](formats/system-design.md) · [Low-level design (175)](formats/low-level-design.md) · [AI coding (80)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,478)](formats/coding.md) · [SQL (73)](formats/sql.md) · [System design (586)](formats/system-design.md) · [Low-level design (175)](formats/low-level-design.md) · [AI coding (80)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -35,6 +35,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 | :-- | :-- | :-- | :-: | :-- |
 |**Globalization Partners / Coupa Software / Adobe**|[Design and Repair a Thread-Safe Configuration Singleton](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton)|🔥 Oct 13, 2026|
 |**Adobe**|[Design and Implement Shared and Weak Ownership Pointers](https://www.fastprep.io/low-level-design/smart-pointer-ownership-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/smart-pointer-ownership-domain)|🔥 Oct 13, 2026|
+|**Google**|[Count Enclosed Freshwater Regions](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|🔥 Oct 13, 2026|
+|**Google**|[Path Leaf Character Iterator](https://www.fastprep.io/problems/google-path-leaf-character-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-path-leaf-character-iterator)|🔥 Oct 13, 2026|
 |**Amazon / Goldman Sachs / Wayfair / Walmart / Navan / Uber**|[Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot)|🔥 Oct 12, 2026|
 |**Anthropic**|[Design Opaque-GPU Inference Capacity](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review)|System design|[![Practice][p]](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review)|🔥 Oct 12, 2026|
 |**Atlassian**|[Design a Responsive Product Catalog Search Frontend](https://www.fastprep.io/system-design/responsive-product-catalog-search-frontend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/responsive-product-catalog-search-frontend)|🔥 Oct 12, 2026|
@@ -491,7 +493,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**DatologyAI**|[SimpleRDD Word Count](https://www.fastprep.io/problems/datologyai-simple-rdd-word-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datologyai-simple-rdd-word-count)|🔥 Sep 29, 2026|
 |**Google**|[Choose a Shortest Path That Avoids Bob](https://www.fastprep.io/problems/google-alice-shortest-path-avoiding-bob)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-alice-shortest-path-avoiding-bob)|🔥 Sep 29, 2026|
 |**Google**|[Count Matrix Paths Through Ordered Checkpoints](https://www.fastprep.io/problems/google-count-checkpoint-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-checkpoint-paths)|🔥 Sep 29, 2026|
-|**Google**|[Count Enclosed Freshwater Regions](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-enclosed-freshwater-regions)|🔥 Sep 29, 2026|
 |**Google**|[Maximum-Area Rectangle from Points](https://www.fastprep.io/problems/google-maximum-area-rotated-rectangle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-area-rotated-rectangle)|🔥 Sep 29, 2026|
 |**Google**|[Safest Mouse Path Away from a Cat](https://www.fastprep.io/problems/google-mouse-path-maximum-cat-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-mouse-path-maximum-cat-distance)|🔥 Sep 29, 2026|
 |**Google**|[Shortest Land Path](https://www.fastprep.io/problems/google-shortest-land-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-land-path)|🔥 Sep 29, 2026|
@@ -1688,5 +1689,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**ByteDance**|[Count House Segments After Sequential Destruction](https://www.fastprep.io/problems/bytedance-count-house-segments-after-destruction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-count-house-segments-after-destruction)|Aug 21, 2026|
 |**Quince**|[Minimum Sprinklers to Cover an Interval](https://www.fastprep.io/problems/quince-minimum-sprinklers-to-cover-an-interval)|Coding|[![Practice][p]](https://www.fastprep.io/problems/quince-minimum-sprinklers-to-cover-an-interval)|Aug 21, 2026|
 |**Quince**|[Check a Repeated String as a Subsequence](https://www.fastprep.io/problems/quince-check-a-repeated-string-as-a-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/quince-check-a-repeated-string-as-a-subsequence)|Aug 21, 2026|
-|**Temu**|[Merge Two Sorted Collections Without Duplicates](https://www.fastprep.io/problems/temu-merge-two-sorted-collections-without-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temu-merge-two-sorted-collections-without-duplicates)|Aug 21, 2026|
 <a id="bottom"></a>
