@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Temu**|[Merge Two Sorted Collections Without Duplicates](https://www.fastprep.io/problems/temu-merge-two-sorted-collections-without-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temu-merge-two-sorted-collections-without-duplicates)|Aug 21, 2026|
 |**Anthropic**|[Design a Model-Weight Deployment Platform](https://www.fastprep.io/system-design/model-weight-deployment-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/model-weight-deployment-platform)|Aug 21, 2026|
 |**ByteDance**|[Cache Avalanche Resilience](https://www.fastprep.io/system-design/cache-avalanche-resilience)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cache-avalanche-resilience)|Aug 21, 2026|
 |**ByteDance**|[Cache-Aside Consistency Recovery](https://www.fastprep.io/system-design/cache-aside-consistency-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cache-aside-consistency-recovery)|Aug 21, 2026|
@@ -1801,5 +1802,4 @@
 |**Hudson River Trading**|[Buy and Sell Stock](https://www.fastprep.io/problems/hudsonriver-buy-sell-stock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-buy-sell-stock)|Jul 17, 2024|
 |**DE Shaw**|[Make Array Bitonic](https://www.fastprep.io/problems/make-array-bitonic-deshaw)|Coding|[![Practice][p]](https://www.fastprep.io/problems/make-array-bitonic-deshaw)|Jul 17, 2024|
 |**Moveworks**|[Number of Balanced Strings](https://www.fastprep.io/problems/moveworks-number-of-balanced-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/moveworks-number-of-balanced-strings)|Jul 17, 2024|
-|**Moveworks**|[Min Moves to Sort Array](https://www.fastprep.io/problems/moveworks-minimum-moves-to-sort-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/moveworks-minimum-moves-to-sort-array)|Jul 17, 2024|
 <a id="bottom"></a>
