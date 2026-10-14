@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ByteDance**|[Count House Segments After Sequential Destruction](https://www.fastprep.io/problems/bytedance-count-house-segments-after-destruction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-count-house-segments-after-destruction)|Aug 21, 2026|
+|**Quince**|[Minimum Sprinklers to Cover an Interval](https://www.fastprep.io/problems/quince-minimum-sprinklers-to-cover-an-interval)|Coding|[![Practice][p]](https://www.fastprep.io/problems/quince-minimum-sprinklers-to-cover-an-interval)|Aug 21, 2026|
+|**Quince**|[Check a Repeated String as a Subsequence](https://www.fastprep.io/problems/quince-check-a-repeated-string-as-a-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/quince-check-a-repeated-string-as-a-subsequence)|Aug 21, 2026|
+|**Temu**|[Merge Two Sorted Collections Without Duplicates](https://www.fastprep.io/problems/temu-merge-two-sorted-collections-without-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temu-merge-two-sorted-collections-without-duplicates)|Aug 21, 2026|
 |**Anthropic**|[Design a Model-Weight Deployment Platform](https://www.fastprep.io/system-design/model-weight-deployment-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/model-weight-deployment-platform)|Aug 21, 2026|
 |**ByteDance**|[Cache Avalanche Resilience](https://www.fastprep.io/system-design/cache-avalanche-resilience)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cache-avalanche-resilience)|Aug 21, 2026|
 |**ByteDance**|[Cache-Aside Consistency Recovery](https://www.fastprep.io/system-design/cache-aside-consistency-recovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cache-aside-consistency-recovery)|Aug 21, 2026|
@@ -1798,8 +1802,4 @@
 |**Uber**|[Count L Shapes](https://www.fastprep.io/problems/uber-count-l-shapes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-count-l-shapes)|Jul 20, 2024|
 |**Uber**|[Count Elements With At Least One Smaller And One Greater Value](https://www.fastprep.io/problems/uber-count-elements-with-at-least-one-smaller-and-one-greater-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-count-elements-with-at-least-one-smaller-and-one-greater-value)|Jul 20, 2024|
 |**Uber**|[Min Operations To Make Harmonious](https://www.fastprep.io/problems/uber-minimum-operations-to-make-sequence-harmonious)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-operations-to-make-sequence-harmonious)|Jul 20, 2024|
-|**Snowflake**|[Get Maximum Sum](https://www.fastprep.io/problems/snowflake-get-maximum-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-sum)|Jul 20, 2024|
-|**Jane Street**|[Transform String](https://www.fastprep.io/problems/janestreet-transform-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/janestreet-transform-string)|Jul 20, 2024|
-|**Postman**|[Design Undo Delete for Shared Collections](https://www.fastprep.io/low-level-design/undo-delete-shared-collections)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/undo-delete-shared-collections)|Jul 19, 2024|
-|**Postman**|[Design Undoable Deletion for API Collections](https://www.fastprep.io/low-level-design/undoable-collection-deletion)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/undoable-collection-deletion)|Jul 19, 2024|
 <a id="bottom"></a>
