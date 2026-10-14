@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**586 questions**
+**587 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**OpenAI / ByteDance**|[Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement)|[![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement)|🔥 Oct 13, 2026|
+|**Rippling / Apple / Oracle / Confluent / Baseten**|[Design a Centralized Log Ingestion and Search Platform](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search)|[![Practice][p]](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search)|🔥 Oct 13, 2026|
+|**Mercor**|[Design an Exact User-ID Membership Store](https://www.fastprep.io/system-design/exact-user-id-membership-store)|[![Practice][p]](https://www.fastprep.io/system-design/exact-user-id-membership-store)|🔥 Oct 13, 2026|
 |**Anthropic**|[Design Opaque-GPU Inference Capacity](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review)|[![Practice][p]](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review)|🔥 Oct 12, 2026|
 |**Atlassian**|[Design a Responsive Product Catalog Search Frontend](https://www.fastprep.io/system-design/responsive-product-catalog-search-frontend)|[![Practice][p]](https://www.fastprep.io/system-design/responsive-product-catalog-search-frontend)|🔥 Oct 12, 2026|
 |**Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs / Salesforce / Vercel / Sentry / Motive / Deloitte / ZipRecruiter**|[Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service)|[![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service)|🔥 Oct 12, 2026|
@@ -57,7 +60,6 @@
 |**Temporal / Amazon**|[Design Zero-Downtime Database Migration](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|🔥 Oct 04, 2026|
 |**Microsoft**|[Design a Product Page Sharing and Rewards Platform](https://www.fastprep.io/system-design/product-page-sharing-and-rewards-platform)|[![Practice][p]](https://www.fastprep.io/system-design/product-page-sharing-and-rewards-platform)|🔥 Oct 03, 2026|
 |**Anthropic / Snap Inc. / Lyft / Fivetran / Temporal**|[One-to-One Chat Service](https://www.fastprep.io/system-design/one-to-one-chat-service)|[![Practice][p]](https://www.fastprep.io/system-design/one-to-one-chat-service)|🔥 Oct 03, 2026|
-|**OpenAI**|[Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement)|[![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement)|🔥 Oct 03, 2026|
 |**Cohere**|[Enterprise Research Assistant](https://www.fastprep.io/system-design/enterprise-research-assistant)|[![Practice][p]](https://www.fastprep.io/system-design/enterprise-research-assistant)|🔥 Oct 03, 2026|
 |**Grammarly**|[Design a Real-Time Anonymous Pixel Canvas](https://www.fastprep.io/system-design/real-time-anonymous-pixel-canvas)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-anonymous-pixel-canvas)|🔥 Oct 03, 2026|
 |**Qualified Health AI**|[Design a Session-Scoped Document Q&A Agent](https://www.fastprep.io/system-design/session-scoped-document-qa-agent)|[![Practice][p]](https://www.fastprep.io/system-design/session-scoped-document-qa-agent)|🔥 Oct 03, 2026|
@@ -281,7 +283,6 @@
 |**Amazon**|[Customer Support Chat Platform](https://www.fastprep.io/system-design/customer-support-chat-platform)|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-chat-platform)|Aug 26, 2026|
 |**ElevenLabs**|[AI-Assisted Commerce Platform](https://www.fastprep.io/system-design/ai-assisted-commerce-platform)|[![Practice][p]](https://www.fastprep.io/system-design/ai-assisted-commerce-platform)|Aug 26, 2026|
 |**Netflix / Google**|[Design a Grounded Recommendation Chatbot](https://www.fastprep.io/system-design/grounded-recommendation-chatbot)|[![Practice][p]](https://www.fastprep.io/system-design/grounded-recommendation-chatbot)|Aug 25, 2026|
-|**Rippling / Apple / Oracle / Confluent**|[Design a Centralized Log Ingestion and Search Platform](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search)|[![Practice][p]](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search)|Aug 25, 2026|
 |**Apple**|[Design a Multi-Version Configuration Service](https://www.fastprep.io/system-design/multi-version-configuration-service)|[![Practice][p]](https://www.fastprep.io/system-design/multi-version-configuration-service)|Aug 25, 2026|
 |**Microsoft**|[Design a Ticket Context and System Status Platform](https://www.fastprep.io/system-design/ticket-context-system-status-platform)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-context-system-status-platform)|Aug 25, 2026|
 |**Waymo**|[Design an Autonomous-Vehicle Cloud Command System](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system)|Aug 25, 2026|

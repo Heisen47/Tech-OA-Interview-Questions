@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,493 questions**
+**3,496 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -22,6 +22,10 @@
 |**Oracle**|[Time-Based Key-Value Store](https://www.fastprep.io/problems/oracle-time-based-key-value-store)|[![Practice][p]](https://www.fastprep.io/problems/oracle-time-based-key-value-store)|🔥 Oct 12, 2026|
 |**Oracle**|[Detect a Cycle in a Directed Graph](https://www.fastprep.io/problems/oracle-directed-graph-cycle-detection)|[![Practice][p]](https://www.fastprep.io/problems/oracle-directed-graph-cycle-detection)|🔥 Oct 12, 2026|
 |**Pinterest**|[Top-Scoring Items in a Time Window](https://www.fastprep.io/problems/pinterest-time-window-top-scoring-items)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-time-window-top-scoring-items)|🔥 Oct 12, 2026|
+|**OpenAI**|[Simplify a Quadratic Expression](https://www.fastprep.io/problems/openai-simplify-quadratic-expression)|[![Practice][p]](https://www.fastprep.io/problems/openai-simplify-quadratic-expression)|🔥 Oct 12, 2026|
+|**OpenAI**|[Macaron Order Price](https://www.fastprep.io/problems/openai-macaron-order-price)|[![Practice][p]](https://www.fastprep.io/problems/openai-macaron-order-price)|🔥 Oct 12, 2026|
+|**OpenAI**|[Longest Increasing Price Subsequence](https://www.fastprep.io/problems/openai-longest-increasing-price-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/openai-longest-increasing-price-subsequence)|🔥 Oct 12, 2026|
+|**OpenAI**|[Shortest Atom Action Path](https://www.fastprep.io/problems/openai-shortest-atom-action-path)|[![Practice][p]](https://www.fastprep.io/problems/openai-shortest-atom-action-path)|🔥 Oct 12, 2026|
 |**Headlands Technologies**|[Array Interval Sums](https://www.fastprep.io/problems/headlands-array-interval-sums)|[![Practice][p]](https://www.fastprep.io/problems/headlands-array-interval-sums)|🔥 Oct 11, 2026|
 |**Amazon**|[Minimum Completion Time for DAG Dependencies](https://www.fastprep.io/problems/amazon-minimum-dag-completion-time)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-dag-completion-time)|🔥 Oct 11, 2026|
 |**Pinterest**|[Optimal Account Balancing](https://www.fastprep.io/problems/pinterest-optimal-account-balancing)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-optimal-account-balancing)|🔥 Oct 11, 2026|
@@ -342,7 +346,6 @@
 |**Visa**|[Sort Colors](https://www.fastprep.io/problems/visa-sort-colors)|[![Practice][p]](https://www.fastprep.io/problems/visa-sort-colors)|🆕 Sep 29, 2026|
 |**Microsoft**|[Shopkeeper Final Price Summary](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|🆕 Sep 28, 2026|
 |**Microsoft**|[Maximum Reward Points](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points)|🆕 Sep 28, 2026|
-|**OpenAI**|[Simplify a Quadratic Expression](https://www.fastprep.io/problems/openai-simplify-quadratic-expression)|[![Practice][p]](https://www.fastprep.io/problems/openai-simplify-quadratic-expression)|🆕 Sep 28, 2026|
 |**OpenAI**|[Largest Square of Ones](https://www.fastprep.io/problems/openai-largest-square-of-ones)|[![Practice][p]](https://www.fastprep.io/problems/openai-largest-square-of-ones)|🆕 Sep 28, 2026|
 |**OpenAI**|[Repair One Movement Instruction](https://www.fastprep.io/problems/openai-repair-one-movement-instruction)|[![Practice][p]](https://www.fastprep.io/problems/openai-repair-one-movement-instruction)|🆕 Sep 28, 2026|
 |**Oracle**|[Next Permutation](https://www.fastprep.io/problems/oracle-next-permutation)|[![Practice][p]](https://www.fastprep.io/problems/oracle-next-permutation)|🆕 Sep 28, 2026|
@@ -1820,7 +1823,4 @@
 |**Google**|[Reservoir Sampling with Recorded Draws](https://www.fastprep.io/problems/google-reservoir-sampling-with-recorded-draws)|[![Practice][p]](https://www.fastprep.io/problems/google-reservoir-sampling-with-recorded-draws)|Jan 27, 2026|
 |**Stripe**|[Transaction Fee Calculator — Channel Volume Tiers](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-channel-tiers)|[![Practice][p]](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-channel-tiers)|Jan 26, 2026|
 |**Amazon**|[Package Delivery System](https://www.fastprep.io/problems/amazon-package-delivery-system)|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-delivery-system)|Jan 24, 2026|
-|**Amazon**|[VM Rental Revenue](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|[![Practice][p]](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Jan 24, 2026|
-|**Amazon**|[Lexicographically Maximum Final Sequence](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Jan 24, 2026|
-|**Ramp**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/ramp-worker-management-level-1)|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-1)|Jan 21, 2026|
 <a id="bottom"></a>
