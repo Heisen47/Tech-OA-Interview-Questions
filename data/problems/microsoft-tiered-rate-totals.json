@@ -1,0 +1,80 @@
+{
+  "v": 2,
+  "id": "microsoft-tiered-rate-totals",
+  "hasSignature": true,
+  "title": "Totals from a Tiered Rate Table",
+  "statementHtml": "<h2 class=\"fp-h3\">Problem statement</h2><div class=\"fp-statement-content\"><aside class=\"fp-source-note\" aria-label=\"Source note and acknowledgements\" data-testid=\"problem-source-notes\"><p class=\"fp-source-note__source\"><strong>Source note:</strong> <!-- -->The interviewer asked to &quot;compute a total using a tiered/progressive rate table (think tax brackets or commission tiers).&quot; The report adds: &quot;Tiers are given at runtime.&quot; Then: &quot;Follow-ups covered complexity and how to optimize for repeated queries (precomputing cumulative values per tier, caching).&quot;</p><p class=\"fp-source-note__source\">The report does not give the input format, how the tiers are written, the limits, or how to handle cents. Here, each tier is given by its starting point and a whole-percent rate, the last tier has no upper limit, and each total comes back in cents. You get many amounts in one call, so the repeated-query follow-up is part of the judged task.</p><p class=\"fp-source-note__source\">The judged task matches the report at about 85%.</p></aside><div class=\"fp-prose2\"><p>A tiered rate table charges different parts of an amount at different rates, like tax brackets or sales commission tiers.</p><p>The table has <code>n</code> tiers. Tier <code>i</code> starts at <code>starts[i]</code> and has a rate of <code>rates[i]</code> percent. The first tier starts at <code>0</code>, and the starting points strictly increase. Tier <code>i</code> covers the part of an amount above <code>starts[i]</code> and up to <code>starts[i + 1]</code>. The last tier has no upper limit.</p><p>For an amount <code>x</code>, each tier charges its rate on the part of <code>x</code> that falls inside it, and the total for <code>x</code> is the sum of those charges. Amounts and starting points are whole units, such as dollars. Return each total in hundredths of a unit, such as cents, so every total is a whole number: a part of size <code>p</code> in a tier with rate <code>r</code> adds exactly <code>p * r</code>.</p><p>You are given many amounts in <code>amounts</code>. Return an array <code>answer</code> where <code>answer[j]</code> is the total for <code>amounts[j]</code>.</p></div></div>",
+  "statementText": "Problem statement Source note: The interviewer asked to \"compute a total using a tiered/progressive rate table (think tax brackets or commission tiers).\" The report adds: \"Tiers are given at runtime.\" Then: \"Follow-ups covered complexity and how to optimize for repeated queries (precomputing cumulative values per tier, caching).\" The report does not give the input format, how the tiers are written, the limits, or how to handle cents. Here, each tier is given by its starting point and a whole-percent rate, the last tier has no upper limit, and each total comes back in cents. You get many amounts in one call, so the repeated-query follow-up is part of the judged task. The judged task matches the report at about 85%. A tiered rate table charges different parts of an amount at different rates, like tax brackets or sales commission tiers. The table has n tiers. Tier i starts at starts[i] and has a rate of rates[i] percent. The first tier starts at 0 , and the starting points strictly increase. Tier i covers the part of an amount above starts[i] and up to starts[i + 1] . The last tier has no upper limit. For an amount x , each tier charges its rate on the part of x that falls inside it, and the total for x is the sum of those charges. Amounts and starting points are whole units, such as dollars. Return each total in hundredths of a unit, such as cents, so every total is a whole number: a part of size p in a tier with rate r adds exactly p * r . You are given many amounts in amounts . Return an array answer where answer[j] is the total for amounts[j] .",
+  "functionName": "tieredTotals",
+  "signature": "tieredTotals(starts: int[], rates: int[], amounts: int[]) → long[]",
+  "parameters": [
+    {
+      "name": "starts",
+      "type": "int[]"
+    },
+    {
+      "name": "rates",
+      "type": "int[]"
+    },
+    {
+      "name": "amounts",
+      "type": "int[]"
+    }
+  ],
+  "returnType": "long[]",
+  "examples": [
+    {
+      "id": 1,
+      "inputRaw": "starts = [0,10000,40000]\nrates = [0,10,20]\namounts = [5000,25000,60000]",
+      "expectedRaw": "[0,150000,700000]",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "starts = [0]\nrates = [7]\namounts = [0,1,100]",
+      "expectedRaw": "[0,7,700]",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "starts = [0,100,500]\nrates = [5,3,1]\namounts = [100,500,501]",
+      "expectedRaw": "[500,1700,1701]",
+      "explanation": ""
+    }
+  ],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "starts = [0,10000,40000]\nrates = [0,10,20]\namounts = [5000,25000,60000]",
+      "expectedRaw": "[0,150000,700000]",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "inputRaw": "starts = [0]\nrates = [7]\namounts = [0,1,100]",
+      "expectedRaw": "[0,7,700]",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "inputRaw": "starts = [0,100,500]\nrates = [5,3,1]\namounts = [100,500,501]",
+      "expectedRaw": "[500,1700,1701]",
+      "explanation": ""
+    }
+  ],
+  "constraints": [
+    "1 <= starts.length <= 10^5",
+    "rates.length == starts.length",
+    "starts[0] == 0 and starts[i] < starts[i + 1]",
+    "0 <= starts[i] <= 10^9",
+    "0 <= rates[i] <= 100",
+    "1 <= amounts.length <= 10^5",
+    "0 <= amounts[j] <= 10^9"
+  ],
+  "starterCodes": {
+    "python": "def tieredTotals(starts, rates, amounts):\n    # Write your solution here\n    pass\n",
+    "javascript": "function tieredTotals(starts, rates, amounts) {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public int tieredTotals() {\n        return 0;\n    }\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement tieredTotals\n};\n"
+  }
+}
