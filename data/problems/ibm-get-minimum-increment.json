@@ -1,0 +1,38 @@
+{
+  "id": "ibm-get-minimum-increment",
+  "title": "Get Minimum Increment",
+  "statementHtml": "<h2 class=\"fp-h3\">Problem statement</h2><div class=\"fp-statement-content\"><div class=\"fp-prose2\"><p>\n    Given an integer array <code>arr</code> of length <code>n</code>, you can perform the following operation on the array at most once:\n    </p><ul><li>Choose a subset of elements from the array such that no two selected elements are adjacent (i.e., no two selected elements are next to each other in the array).</li><li>Choose a non-negative integer <code>x</code>, and increase all the selected elements by <code>x</code>.</li></ul><p>\n    Determine the minimum non-negative integer <code>x</code>, required to make the array <code>arr</code> non-decreasing using at most one operation. If it is impossible, return <code>-1</code>.\n    </p></div></div>",
+  "statementText": "Problem statement Given an integer array arr of length n , you can perform the following operation on the array at most once: Choose a subset of elements from the array such that no two selected elements are adjacent (i.e., no two selected elements are next to each other in the array). Choose a non-negative integer x , and increase all the selected elements by x . Determine the minimum non-negative integer x , required to make the array arr non-decreasing using at most one operation. If it is impossible, return -1 .",
+  "functionName": "getMinimumIncrement",
+  "signature": "getMinimumIncrement(arr: int[]) → int",
+  "parameters": [
+    {
+      "name": "arr",
+      "type": "int[]"
+    }
+  ],
+  "returnType": "int",
+  "examples": [
+    {
+      "id": 1,
+      "inputRaw": "arr = [1, 1, 3, 2]",
+      "expectedRaw": "1",
+      "explanation": ""
+    }
+  ],
+  "testCases": [
+    {
+      "id": 1,
+      "inputRaw": "arr = [1, 1, 3, 2]",
+      "expectedRaw": "1",
+      "explanation": ""
+    }
+  ],
+  "constraints": [],
+  "starterCodes": {
+    "python": "def getMinimumIncrement(arr):\n    # Write your solution here\n    pass\n",
+    "javascript": "function getMinimumIncrement(arr) {\n    // Write your solution here\n    return null;\n}\n",
+    "java": "class Solution {\n    public int getMinimumIncrement(int[] arr) {\n  // write your code here\n}\n}",
+    "cpp": "#include <iostream>\n#include <vector>\n#include <string>\nusing namespace std;\n\nclass Solution {\npublic:\n    // Implement getMinimumIncrement\n};\n"
+  }
+}
