@@ -10,7 +10,7 @@ name: Pull upstream question bank
 
 on:
   schedule:
-    - cron: "41 */3 * * *"
+    - cron: "17 6 * * *" # daily at 06:17 UTC
   workflow_dispatch:
 
 permissions:
