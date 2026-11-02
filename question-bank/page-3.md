@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Valid Mixed Case Letters](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|May 25, 2025|
+|**Airtable**|[Approximate Percentiles](https://www.fastprep.io/problems/airtable-approximate-percentiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-approximate-percentiles)|May 25, 2025|
+|**Airtable**|[Get Most Hydrated Team](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|May 25, 2025|
 |**Airtable**|[Table Editing](https://www.fastprep.io/problems/airtable-percentiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-percentiles)|May 25, 2025|
 |**Dell**|[Optimizing Resource Allocation](https://www.fastprep.io/problems/dell-find-optimal-resources)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dell-find-optimal-resources)|May 25, 2025|
 |**Dell**|[Count Binary Substrings](https://www.fastprep.io/problems/dell-get-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dell-get-substring-count)|May 25, 2025|
@@ -41,6 +44,7 @@
 |**Ramp**|[Convert Snake Case Variables to Camel Case](https://www.fastprep.io/problems/ramp-convert-snake-case-variables-to-camel-case)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-convert-snake-case-variables-to-camel-case)|Apr 20, 2025|
 |**Checkr**|[Design a Background-Check Processing Platform](https://www.fastprep.io/system-design/background-check-processing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/background-check-processing-platform)|Apr 19, 2025|
 |**Checkr**|[Candidate Alias Name Matching](https://www.fastprep.io/problems/checkr-name-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/checkr-name-matching)|Apr 19, 2025|
+|**The Walt Disney Company**|[Design an Airport Runway Task Scheduler](https://www.fastprep.io/system-design/airport-runway-task-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/airport-runway-task-scheduler)|Apr 17, 2025|
 |**Datadog**|[Find Streams with All Keywords](https://www.fastprep.io/problems/datadog-mutual-keyword-streams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-mutual-keyword-streams)|Apr 14, 2025|
 |**Datadog**|[List Every Root-to-Leaf Path](https://www.fastprep.io/problems/datadog-root-leaf-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-root-leaf-paths)|Apr 14, 2025|
 |**Amazon**|[Min Num Unique Distribution Hubs](https://www.fastprep.io/problems/amazon-get-minimum-number-of-unique-distribution-centers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-number-of-unique-distribution-centers)|Apr 13, 2025|
@@ -62,6 +66,7 @@
 |**SpaceX**|[DNA Sequence Match](https://www.fastprep.io/problems/spacex-dna-sequence-match)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-dna-sequence-match)|Apr 05, 2025|
 |**Amazon**|[Optimal Utilization](https://www.fastprep.io/problems/amazon-optimal-utilization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimal-utilization)|Apr 05, 2025|
 |**Amazon**|[Buy Servers](https://www.fastprep.io/problems/amazon-purchase-servers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-purchase-servers)|Apr 05, 2025|
+|**Bloomberg LP / The Walt Disney Company**|[Design a Shoe E-Commerce Marketplace](https://www.fastprep.io/system-design/shoe-ecommerce-inventory-checkout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shoe-ecommerce-inventory-checkout)|Apr 05, 2025|
 |**Motive**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Apr 02, 2025|
 |**Atlassian**|[Optimize an Appointment Waitlist Offer Service](https://www.fastprep.io/system-design/appointment-waitlist-offer-management)|System design|[![Practice][p]](https://www.fastprep.io/system-design/appointment-waitlist-offer-management)|Apr 01, 2025|
 |**Amazon**|[Min Retailers](https://www.fastprep.io/problems/amazon-minimum-retailers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-retailers)|Mar 31, 2025|
@@ -1146,7 +1151,6 @@
 |**ZipRecruiter**|[Count Paired Subarrays Reaching a Target](https://www.fastprep.io/problems/ziprecruiter-paired-subarray-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-paired-subarray-sums)|Dec 12, 2023|
 |**Navan**|[Design a Flight Booking Orchestrator](https://www.fastprep.io/low-level-design/flight-booking-orchestration)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-booking-orchestration)|Dec 08, 2023|
 |**Amazon**|[Get Priorities After Execution](https://www.fastprep.io/problems/get-priorities-after-execution)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-priorities-after-execution)|Dec 06, 2023|
-|**Bloomberg LP**|[Design a Shoe E-Commerce Marketplace](https://www.fastprep.io/system-design/shoe-ecommerce-inventory-checkout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shoe-ecommerce-inventory-checkout)|Dec 05, 2023|
 |**Bloomberg LP**|[Design Browser History](https://www.fastprep.io/problems/bloomberg-design-browser-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-design-browser-history)|Dec 05, 2023|
 |**Stripe**|[Resolve Visible User Features](https://www.fastprep.io/problems/stripe-user-feature-visibility)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-user-feature-visibility)|Nov 30, 2023|
 |**Stripe**|[Weighted Server Load Balancer with TTL](https://www.fastprep.io/problems/stripe-weighted-server-load-balancer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-weighted-server-load-balancer)|Nov 30, 2023|
@@ -1649,6 +1653,7 @@
 |**IMC**|[Transaction Balance Over Threshold](https://www.fastprep.io/problems/imc-transaction-balance-over-threshold)|SQL|[![Practice][p]](https://www.fastprep.io/problems/imc-transaction-balance-over-threshold)|Sep 12, 2020|
 |**Wells Fargo**|[Most Negative Number in Each Window](https://www.fastprep.io/problems/wellsfargo-most-negative-number-in-each-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-most-negative-number-in-each-window)|Sep 08, 2020|
 |**Wells Fargo**|[Single-Nested Valid Bracket Substrings](https://www.fastprep.io/problems/wellsfargo-single-nested-valid-bracket-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-single-nested-valid-bracket-segments)|Sep 08, 2020|
+|**The Walt Disney Company**|[Design a Physical DVD Rental and Delivery Platform](https://www.fastprep.io/system-design/physical-dvd-rental-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/physical-dvd-rental-delivery)|Sep 08, 2020|
 |**Bloomberg LP**|[Design Object Storage with Strict Recent Reads](https://www.fastprep.io/system-design/strict-read-after-write-object-storage)|System design|[![Practice][p]](https://www.fastprep.io/system-design/strict-read-after-write-object-storage)|Sep 06, 2020|
 |**Benchling**|[Similar DNA Under Rotation and Substitution](https://www.fastprep.io/problems/benchling-similar-dna-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-similar-dna-rotations)|Sep 05, 2020|
 |**Benchling**|[Unique DNA Sequences Under Circular Rotation](https://www.fastprep.io/problems/benchling-unique-dna-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-unique-dna-rotations)|Sep 05, 2020|

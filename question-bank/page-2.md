@@ -496,6 +496,7 @@
 |**Spotify**|[Design a Personalized Session Playlist Ranking System](https://www.fastprep.io/system-design/personalized-session-playlist-ranking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-session-playlist-ranking)|Aug 14, 2026|
 |**Adobe**|[Count Parent Nodes With a Target Sum](https://www.fastprep.io/problems/adobe-count-parent-nodes-with-target-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-count-parent-nodes-with-target-sum)|Aug 14, 2026|
 |**Adobe**|[Largest Binary Number by Concatenation](https://www.fastprep.io/problems/adobe-largest-binary-number-by-concatenation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-largest-binary-number-by-concatenation)|Aug 14, 2026|
+|**Replit**|[Build a Kubernetes Operator](https://www.fastprep.io/project-coding/replit-kubernetes-operator)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/replit-kubernetes-operator)|Aug 14, 2026|
 |**Headlands Technologies**|[As-Of Join](https://www.fastprep.io/problems/headlands-asof-join)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-asof-join)|Aug 13, 2026|
 |**Anthropic**|[Design Peer-to-Peer Model Distribution](https://www.fastprep.io/system-design/peer-to-peer-model-distribution)|System design|[![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-model-distribution)|Aug 13, 2026|
 |**OpenAI**|[Design a Distributed Crossword Solver](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration)|Aug 13, 2026|
@@ -1005,6 +1006,7 @@
 |**HSBC**|[Find ID of Soldier](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|Jun 21, 2026|
 |**HSBC**|[Find Most Frequently Purchased Products](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products)|Jun 21, 2026|
 |**Amazon**|[Maximum Equal Parts for Prefixes](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes)|Jun 19, 2026|
+|**The Walt Disney Company**|[Design a Ranked Social Network Platform](https://www.fastprep.io/system-design/ranked-social-network-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ranked-social-network-platform)|Jun 19, 2026|
 |**Meesho**|[Efficient Deployments](https://www.fastprep.io/problems/meesho-efficient-deployments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meesho-efficient-deployments)|Jun 18, 2026|
 |**Google**|[Minimum Tree Value After Leaf Relocations](https://www.fastprep.io/problems/google-minimum-tree-value-after-leaf-relocations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-tree-value-after-leaf-relocations)|Jun 18, 2026|
 |**Hebbia**|[Multi-Agent Financial Research Assistant](https://www.fastprep.io/system-design/multi-agent-financial-research-assistant)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-agent-financial-research-assistant)|Jun 18, 2026|
@@ -1752,7 +1754,4 @@
 |**Agoda**|[Team Formation](https://www.fastprep.io/problems/agoda-team-formation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-team-formation)|May 25, 2025|
 |**IBM**|[Get Min Increment](https://www.fastprep.io/problems/ibm-get-minimum-increment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-increment)|May 25, 2025|
 |**IBM**|[Get Min Operations](https://www.fastprep.io/problems/ibm-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-min-operations)|May 25, 2025|
-|**Microsoft**|[Valid Mixed Case Letters](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|May 25, 2025|
-|**Airtable**|[Approximate Percentiles](https://www.fastprep.io/problems/airtable-approximate-percentiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-approximate-percentiles)|May 25, 2025|
-|**Airtable**|[Get Most Hydrated Team](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|May 25, 2025|
 <a id="bottom"></a>
