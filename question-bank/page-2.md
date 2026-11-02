@@ -9,9 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon / Goldman Sachs**|[Repair recurring payments in the Wallet backend](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|Sep 12, 2026|
 |**Bobyard**|[Design an Ordered Canvas Operation Coordinator](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|Sep 12, 2026|
 |**Google / Microsoft**|[Design and Implement a Highway Toll Session Domain](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|Sep 12, 2026|
-|**ByteDance**|[Design an Advertiser Campaign Configuration Platform](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|Sep 12, 2026|
+|**ByteDance / The Walt Disney Company**|[Design an Advertiser Campaign Configuration Platform](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|Sep 12, 2026|
 |**Bobyard**|[Design an Asynchronous Random Image Generation Service](https://www.fastprep.io/system-design/asynchronous-random-image-generation-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/asynchronous-random-image-generation-service)|Sep 12, 2026|
 |**Amazon**|[Word Search II](https://www.fastprep.io/problems/amazon-word-search-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-word-search-ii)|Sep 12, 2026|
 |**Amazon**|[Interleaving String](https://www.fastprep.io/problems/amazon-interleaving-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-interleaving-string)|Sep 12, 2026|
@@ -962,7 +963,7 @@
 |**IBM**|[Maximum Requests in a Time Window](https://www.fastprep.io/problems/ibm-maximum-requests-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-requests-window)|Jul 03, 2026|
 |**IBM**|[Minimum Number of Non-Empty Disjoint Segments](https://www.fastprep.io/problems/ibm-minimum-disjoint-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-disjoint-segments)|Jul 03, 2026|
 |**NVIDIA**|[Governed SQL Generation Chatbot](https://www.fastprep.io/system-design/governed-sql-generation-chatbot)|System design|[![Practice][p]](https://www.fastprep.io/system-design/governed-sql-generation-chatbot)|Jul 02, 2026|
-|**NVIDIA**|[GPU Telemetry Collection and Analytics Platform](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|Jul 02, 2026|
+|**NVIDIA / AMD**|[GPU Telemetry Collection and Analytics Platform](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|Jul 02, 2026|
 |**Baseten**|[Ingest and Structure Historical Pod Alerts](https://www.fastprep.io/system-design/ingest-and-structure-historical-pod-alerts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ingest-and-structure-historical-pod-alerts)|Jul 02, 2026|
 |**Point72**|[Get Triplet Count](https://www.fastprep.io/problems/point72-get-triplet-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-get-triplet-count)|Jul 02, 2026|
 |**Point72**|[Internet Service Provider Monthly Report](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|SQL|[![Practice][p]](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|Jul 02, 2026|
@@ -1423,6 +1424,7 @@
 |**Datadog**|[Design a Photo Match Notification Service](https://www.fastprep.io/system-design/photo-match-notification-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/photo-match-notification-service)|Dec 11, 2025|
 |**Datadog**|[High-Performance Tag Filter](https://www.fastprep.io/problems/datadog-high-performance-tag-filter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-high-performance-tag-filter)|Dec 11, 2025|
 |**Datadog**|[Tagged Metric Window Sums](https://www.fastprep.io/problems/datadog-tagged-window-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-tagged-window-sums)|Dec 11, 2025|
+|**Carta / The Walt Disney Company**|[Design a Mobile and Server Shopping Cart](https://www.fastprep.io/system-design/mobile-and-server-shopping-cart-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/mobile-and-server-shopping-cart-platform)|Dec 11, 2025|
 |**Google**|[Minimum Shared Route Length for Two Travelers](https://www.fastprep.io/problems/google-minimum-shared-route-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-shared-route-length)|Dec 09, 2025|
 |**Scale AI**|[Implement a Worker Load Balancer](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|Dec 07, 2025|
 |**Scale AI**|[Clock Hand Angle with Subsecond Precision](https://www.fastprep.io/problems/scale-ai-clock-hand-angle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-clock-hand-angle)|Dec 07, 2025|
@@ -1753,7 +1755,4 @@
 |**Microsoft**|[Valid Mixed Case Letters](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|May 25, 2025|
 |**Airtable**|[Approximate Percentiles](https://www.fastprep.io/problems/airtable-approximate-percentiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-approximate-percentiles)|May 25, 2025|
 |**Airtable**|[Get Most Hydrated Team](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|May 25, 2025|
-|**Airtable**|[Table Editing](https://www.fastprep.io/problems/airtable-percentiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-percentiles)|May 25, 2025|
-|**Dell**|[Optimizing Resource Allocation](https://www.fastprep.io/problems/dell-find-optimal-resources)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dell-find-optimal-resources)|May 25, 2025|
-|**Dell**|[Count Binary Substrings](https://www.fastprep.io/problems/dell-get-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/dell-get-substring-count)|May 25, 2025|
 <a id="bottom"></a>
