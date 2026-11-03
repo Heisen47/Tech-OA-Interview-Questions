@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Apple**|[Merge Two Strings by Maximum Boundary Overlap](https://www.fastprep.io/problems/apple-factorize-string-extremities)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-factorize-string-extremities)|Sep 12, 2026|
+|**SquadStack.ai**|[Minimum-Cost Digit String Decoding](https://www.fastprep.io/problems/squadstack-weighted-decode-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squadstack-weighted-decode-ways)|Sep 12, 2026|
+|**SquadStack.ai**|[Minimum Seats for One-Way Car Pooling](https://www.fastprep.io/problems/squadstack-minimum-seats-car-pooling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squadstack-minimum-seats-car-pooling)|Sep 12, 2026|
+|**SquadStack.ai**|[Find the Dominant Seller](https://www.fastprep.io/problems/squadstack-dominant-seller)|SQL|[![Practice][p]](https://www.fastprep.io/problems/squadstack-dominant-seller)|Sep 12, 2026|
 |**Amazon / Goldman Sachs**|[Repair recurring payments in the Wallet backend](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|Sep 12, 2026|
 |**Bobyard**|[Design an Ordered Canvas Operation Coordinator](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|Sep 12, 2026|
 |**Google / Microsoft**|[Design and Implement a Highway Toll Session Domain](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|Sep 12, 2026|
@@ -142,7 +146,6 @@
 |**Syfe**|[Design Flash-Sale Notification Fanout](https://www.fastprep.io/system-design/flash-sale-notification-fanout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/flash-sale-notification-fanout)|Sep 09, 2026|
 |**Syfe**|[Allocate And Release Brokerage Inventory](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|Sep 09, 2026|
 |**Get My Parking**|[List Failed And TTL-Expired Pending Payments](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|Sep 09, 2026|
-|**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|Sep 09, 2026|
 |**LinkedIn**|[Design a High-Throughput Single-Node Key-Value Store](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|Sep 09, 2026|
 |**Tesla**|[Design a Content Delivery Network](https://www.fastprep.io/system-design/content-delivery-network)|System design|[![Practice][p]](https://www.fastprep.io/system-design/content-delivery-network)|Sep 09, 2026|
 |**Nuro / Motive**|[Design a Vehicle Sensor and Obstacle Data Platform](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|Sep 09, 2026|
@@ -525,7 +528,6 @@
 |**Oracle**|[Design a Remote Browser Isolation Service](https://www.fastprep.io/system-design/remote-browser-isolation-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/remote-browser-isolation-service)|Aug 10, 2026|
 |**Pinterest / Bloomberg LP**|[Design a Blackjack Table Game](https://www.fastprep.io/low-level-design/blackjack-table-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/blackjack-table-game)|Aug 10, 2026|
 |**Spotify**|[Design a Weekly User Activity Prediction System](https://www.fastprep.io/system-design/weekly-user-activity-prediction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/weekly-user-activity-prediction)|Aug 10, 2026|
-|**Anthropic**|[Design Production ML Serving Observability](https://www.fastprep.io/system-design/production-ml-serving-observability)|System design|[![Practice][p]](https://www.fastprep.io/system-design/production-ml-serving-observability)|Aug 10, 2026|
 |**Amazon**|[Design Group Purchase Contributions and Settlement](https://www.fastprep.io/system-design/group-purchase-contribution-settlement)|System design|[![Practice][p]](https://www.fastprep.io/system-design/group-purchase-contribution-settlement)|Aug 10, 2026|
 |**Abridge**|[Streaming Transcription Service](https://www.fastprep.io/system-design/streaming-transcription-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/streaming-transcription-service)|Aug 10, 2026|
 |**Adobe**|[Hall of Shifting Tiles](https://www.fastprep.io/problems/adobe-hall-of-shifting-tiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-hall-of-shifting-tiles)|Aug 09, 2026|
@@ -1753,5 +1755,4 @@
 |**Agoda**|[Team Formation](https://www.fastprep.io/problems/agoda-team-formation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-team-formation)|May 25, 2025|
 |**IBM**|[Get Min Increment](https://www.fastprep.io/problems/ibm-get-minimum-increment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-increment)|May 25, 2025|
 |**IBM**|[Get Min Operations](https://www.fastprep.io/problems/ibm-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-min-operations)|May 25, 2025|
-|**Microsoft**|[Valid Mixed Case Letters](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|May 25, 2025|
 <a id="bottom"></a>
