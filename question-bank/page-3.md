@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Microsoft**|[Valid Mixed Case Letters](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|May 25, 2025|
 |**Airtable**|[Approximate Percentiles](https://www.fastprep.io/problems/airtable-approximate-percentiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-approximate-percentiles)|May 25, 2025|
 |**Airtable**|[Get Most Hydrated Team](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|May 25, 2025|
 |**Airtable**|[Table Editing](https://www.fastprep.io/problems/airtable-percentiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-percentiles)|May 25, 2025|
@@ -1313,6 +1312,8 @@
 |**ZipRecruiter**|[Replace Each Consonant](https://www.fastprep.io/problems/ziprecruiter-replace-consonants)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-replace-consonants)|Oct 26, 2022|
 |**ZipRecruiter**|[Difference between Even- and Odd-Index Sums](https://www.fastprep.io/problems/ziprecruiter-index-parity-sum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-index-parity-sum-difference)|Oct 25, 2022|
 |**ZipRecruiter**|[Minimum Difference Across Cyclic Rotations](https://www.fastprep.io/problems/ziprecruiter-minimum-cyclic-rotation-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-minimum-cyclic-rotation-difference)|Oct 25, 2022|
+|**Palantir**|[Design a Farm Pest Alert System](https://www.fastprep.io/system-design/farm-pest-alert-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/farm-pest-alert-system)|Oct 25, 2022|
+|**Palantir**|[Design an Airline Aircraft Assignment Planner](https://www.fastprep.io/system-design/airline-aircraft-assignment-planner)|System design|[![Practice][p]](https://www.fastprep.io/system-design/airline-aircraft-assignment-planner)|Oct 25, 2022|
 |**Bloomberg LP**|[Add Two Numbers](https://www.fastprep.io/problems/bloomberg-add-two-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-add-two-numbers)|Oct 24, 2022|
 |**Bloomberg LP**|[Merge Sorted Array](https://www.fastprep.io/problems/bloomberg-merge-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-merge-sorted-array)|Oct 24, 2022|
 |**Optiver**|[Dynamic Future Pricing](https://www.fastprep.io/problems/optiver-future-pricing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-future-pricing)|Oct 21, 2022|
