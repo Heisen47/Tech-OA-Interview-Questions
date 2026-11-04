@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Agoda**|[Team Formation](https://www.fastprep.io/problems/agoda-team-formation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-team-formation)|May 25, 2025|
+|**IBM**|[Get Min Increment](https://www.fastprep.io/problems/ibm-get-minimum-increment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-increment)|May 25, 2025|
 |**IBM**|[Get Min Operations](https://www.fastprep.io/problems/ibm-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-min-operations)|May 25, 2025|
 |**Microsoft**|[Valid Mixed Case Letters](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|May 25, 2025|
 |**Airtable**|[Approximate Percentiles](https://www.fastprep.io/problems/airtable-approximate-percentiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-approximate-percentiles)|May 25, 2025|

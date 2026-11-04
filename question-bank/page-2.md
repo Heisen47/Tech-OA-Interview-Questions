@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Tekion**|[Dungeon Game](https://www.fastprep.io/problems/tekion-dungeon-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-dungeon-game)|Sep 12, 2026|
+|**Tekion**|[IPO](https://www.fastprep.io/problems/tekion-ipo)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-ipo)|Sep 12, 2026|
+|**Hudson River Trading**|[Lowest Number in an Open Range](https://www.fastprep.io/problems/hrt-lowest-number-in-open-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-lowest-number-in-open-range)|Sep 12, 2026|
+|**Hudson River Trading**|[Maximum Rhombic Area Sum](https://www.fastprep.io/problems/hrt-maximum-rhombic-area-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-maximum-rhombic-area-sum)|Sep 12, 2026|
+|**Hudson River Trading**|[Count One-Swap Number Pairs](https://www.fastprep.io/problems/hrt-count-one-swap-number-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-count-one-swap-number-pairs)|Sep 12, 2026|
+|**Apple**|[Merge Two Strings by Maximum Boundary Overlap](https://www.fastprep.io/problems/apple-factorize-string-extremities)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-factorize-string-extremities)|Sep 12, 2026|
 |**SquadStack.ai**|[Minimum-Cost Digit String Decoding](https://www.fastprep.io/problems/squadstack-weighted-decode-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squadstack-weighted-decode-ways)|Sep 12, 2026|
 |**SquadStack.ai**|[Minimum Seats for One-Way Car Pooling](https://www.fastprep.io/problems/squadstack-minimum-seats-car-pooling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squadstack-minimum-seats-car-pooling)|Sep 12, 2026|
 |**SquadStack.ai**|[Find the Dominant Seller](https://www.fastprep.io/problems/squadstack-dominant-seller)|SQL|[![Practice][p]](https://www.fastprep.io/problems/squadstack-dominant-seller)|Sep 12, 2026|
@@ -506,8 +512,6 @@
 |**Agoda**|[Resilient Hotel Search Frontend](https://www.fastprep.io/system-design/resilient-hotel-search-frontend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-hotel-search-frontend)|Aug 13, 2026|
 |**IMC**|[Rock Jumping](https://www.fastprep.io/problems/imc-rock-jumping)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-rock-jumping)|Aug 13, 2026|
 |**IMC**|[Stack Batch Removal](https://www.fastprep.io/problems/imc-stack-batch-removal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-stack-batch-removal)|Aug 13, 2026|
-|**Anthropic**|[Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|Aug 12, 2026|
-|**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|Aug 12, 2026|
 |**Figma**|[Design Comments for a Collaborative Canvas](https://www.fastprep.io/system-design/collaborative-canvas-comments)|System design|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-canvas-comments)|Aug 12, 2026|
 |**Goldman Sachs**|[Design a Live-Stream Chat System](https://www.fastprep.io/system-design/live-stream-chat-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-stream-chat-system)|Aug 12, 2026|
 |**Mercor**|[Design a Unique Username Registration System](https://www.fastprep.io/system-design/unique-username-registration-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/unique-username-registration-system)|Aug 12, 2026|
@@ -636,7 +640,6 @@
 |**Susquehanna International Group (SIG)**|[Design a Cash Register with Inventory and Profit Tracking](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit)|Jul 30, 2026|
 |**Amazon**|[Design a Database Partition Split-and-Merge Manager](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager)|Jul 30, 2026|
 |**Amazon**|[Design and Implement a Streaming Log Handler](https://www.fastprep.io/low-level-design/streaming-log-handler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/streaming-log-handler)|Jul 30, 2026|
-|**DoorDash**|[Design a Three-Day Charity Event System](https://www.fastprep.io/system-design/three-day-charity-event-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system)|Jul 30, 2026|
 |**Mercury Insurance**|[Build a Python CRUD API](https://www.fastprep.io/project-coding/mercury-python-crud-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mercury-python-crud-api)|Jul 30, 2026|
 |**TrueFoundry**|[Verify Words Sorted by a Custom Alphabet](https://www.fastprep.io/problems/truefoundry-verify-custom-alphabet-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/truefoundry-verify-custom-alphabet-order)|Jul 29, 2026|
 |**TrueFoundry**|[Versioned Array](https://www.fastprep.io/problems/truefoundry-versioned-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/truefoundry-versioned-array)|Jul 29, 2026|
@@ -1752,6 +1755,4 @@
 |**Meesho**|[Distinct Moves](https://www.fastprep.io/problems/meesho-distinct-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meesho-distinct-moves)|May 25, 2025|
 |**Agoda**|[Unique Digits in Range](https://www.fastprep.io/problems/agoda-unique-digits-in-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-unique-digits-in-range)|May 25, 2025|
 |**Agoda**|[Two-Core Process Assignment](https://www.fastprep.io/problems/agoda-two-core-process-assignment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-two-core-process-assignment)|May 25, 2025|
-|**Agoda**|[Team Formation](https://www.fastprep.io/problems/agoda-team-formation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-team-formation)|May 25, 2025|
-|**IBM**|[Get Min Increment](https://www.fastprep.io/problems/ibm-get-minimum-increment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-increment)|May 25, 2025|
 <a id="bottom"></a>

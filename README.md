@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,133)](formats/coding.md) · [SQL (92)](formats/sql.md) · [System design (655)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (127)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,133)](formats/coding.md) · [SQL (92)](formats/sql.md) · [System design (657)](formats/system-design.md) · [Low-level design (201)](formats/low-level-design.md) · [AI coding (127)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -39,6 +39,12 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Valon**|[Design Loan Repayment and Investor Distribution](https://www.fastprep.io/system-design/loan-repayment-and-investor-distribution)|System design|[![Practice][p]](https://www.fastprep.io/system-design/loan-repayment-and-investor-distribution)|🔥 Nov 03, 2026|
 |**Amazon / Postman / The Walt Disney Company / Okta**|[Social News Feed With Live Engagement](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|🔥 Nov 03, 2026|
 |**Blinkit / Karat / Amazon**|[Design a Food Delivery Order Tracking System](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|🔥 Nov 03, 2026|
+|**DoorDash**|[Food Review System](https://www.fastprep.io/system-design/food-review-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/food-review-system)|🔥 Nov 03, 2026|
+|**Anthropic**|[Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler)|🔥 Nov 03, 2026|
+|**Anthropic**|[Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees)|🔥 Nov 03, 2026|
+|**DoorDash**|[Design a Three-Day Charity Event System](https://www.fastprep.io/system-design/three-day-charity-event-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system)|🔥 Nov 03, 2026|
+|**Atlassian**|[Design a Multi-Business Invoice System](https://www.fastprep.io/system-design/multi-business-invoice-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-business-invoice-system)|🔥 Nov 03, 2026|
+|**OpenAI**|[Design a Usage-Limit Notice for a Mobile AI Chat App](https://www.fastprep.io/system-design/mobile-chat-usage-limit-notice)|System design|[![Practice][p]](https://www.fastprep.io/system-design/mobile-chat-usage-limit-notice)|🔥 Nov 03, 2026|
 |**DoorDash / Robinhood / Snowflake / Postman / Figma / LinkedIn / Airbnb / Nextdoor / Decagon / Amazon / Cursor / Temporal / Sumo Logic / Zip / HyperVerge / NVIDIA**|[Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system)|🔥 Nov 02, 2026|
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🔥 Nov 02, 2026|
 |**Amazon**|[Repair My Cars Ownership and Saved Edits](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-car-rental-listing-repair)|🔥 Nov 01, 2026|
@@ -374,7 +380,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Klaviyo**|[AI Engineer Intern Mock: Search Customer Messages](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-search)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mock-ai-intern-customer-message-search)|🆕 Oct 16, 2026|
 |**Rippling**|[Comment Word and Substring Search](https://www.fastprep.io/problems/rippling-comment-word-and-substring-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-comment-word-and-substring-search)|🆕 Oct 16, 2026|
 |**OpenAI**|[Design a Cloud Coding Workspace](https://www.fastprep.io/system-design/cloud-coding-workspace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-coding-workspace)|🆕 Oct 16, 2026|
-|**DoorDash**|[Food Review System](https://www.fastprep.io/system-design/food-review-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/food-review-system)|🆕 Oct 16, 2026|
 |**Amazon / Lyft / Google / Pinterest / Snowflake / Datadog**|[Design a Web Crawler](https://www.fastprep.io/system-design/web-crawler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/web-crawler)|🆕 Oct 16, 2026|
 |**Apple**|[Design a Distributed Cache with an Index Database](https://www.fastprep.io/system-design/distributed-cache-with-index-metadata)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-cache-with-index-metadata)|🆕 Oct 16, 2026|
 |**OpenAI**|[Durable Work Queue Operations](https://www.fastprep.io/problems/openai-durable-work-queue-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-durable-work-queue-operations)|🆕 Oct 16, 2026|
@@ -1683,10 +1688,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Shortest Subarray With at Least K Distinct Values](https://www.fastprep.io/problems/google-shortest-subarray-at-least-k-distinct-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-subarray-at-least-k-distinct-values)|Sep 13, 2026|
 |**Morgan Stanley**|[Maximum Concurrent Processes](https://www.fastprep.io/problems/morgan-stanley-maximum-concurrent-processes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/morgan-stanley-maximum-concurrent-processes)|Sep 12, 2026|
 |**Google**|[Lexicographically Smallest K-Step Return Walk](https://www.fastprep.io/problems/google-lexicographically-smallest-k-step-return-walk)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-lexicographically-smallest-k-step-return-walk)|Sep 12, 2026|
-|**Tekion**|[Dungeon Game](https://www.fastprep.io/problems/tekion-dungeon-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-dungeon-game)|Sep 12, 2026|
-|**Tekion**|[IPO](https://www.fastprep.io/problems/tekion-ipo)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-ipo)|Sep 12, 2026|
-|**Hudson River Trading**|[Lowest Number in an Open Range](https://www.fastprep.io/problems/hrt-lowest-number-in-open-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-lowest-number-in-open-range)|Sep 12, 2026|
-|**Hudson River Trading**|[Maximum Rhombic Area Sum](https://www.fastprep.io/problems/hrt-maximum-rhombic-area-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-maximum-rhombic-area-sum)|Sep 12, 2026|
-|**Hudson River Trading**|[Count One-Swap Number Pairs](https://www.fastprep.io/problems/hrt-count-one-swap-number-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-count-one-swap-number-pairs)|Sep 12, 2026|
-|**Apple**|[Merge Two Strings by Maximum Boundary Overlap](https://www.fastprep.io/problems/apple-factorize-string-extremities)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-factorize-string-extremities)|Sep 12, 2026|
 <a id="bottom"></a>
