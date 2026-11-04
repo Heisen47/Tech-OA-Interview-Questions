@@ -1332,6 +1332,7 @@
 |**Google**|[Minimum Servers for Cyclic Daily Tasks](https://www.fastprep.io/problems/google-minimum-servers-for-cyclic-daily-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-servers-for-cyclic-daily-tasks)|Feb 01, 2026|
 |**Google**|[Pivot Index After Exactly One Removal](https://www.fastprep.io/problems/google-pivot-index-after-exactly-one-removal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-pivot-index-after-exactly-one-removal)|Feb 01, 2026|
 |**Microsoft**|[Design an Initial Video-Language Model](https://www.fastprep.io/system-design/video-language-model-training-and-evaluation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/video-language-model-training-and-evaluation)|Feb 01, 2026|
+|**Google**|[Deploy and Monitor a Model for One Product](https://www.fastprep.io/system-design/single-product-model-deployment-and-monitoring)|System design|[![Practice][p]](https://www.fastprep.io/system-design/single-product-model-deployment-and-monitoring)|Feb 01, 2026|
 |**Rippling**|[House Bounds in a Ragged Grid](https://www.fastprep.io/problems/rippling-ragged-grid-house-bounds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-ragged-grid-house-bounds)|Jan 31, 2026|
 |**Amazon**|[Minimum Operations to Sort a Permutation](https://www.fastprep.io/problems/amazon-minimum-operations-to-sort-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-operations-to-sort-permutation)|Jan 30, 2026|
 |**Intuit**|[Convert M/B Amount Strings to Numbers](https://www.fastprep.io/problems/intuit-magnitude-amount-conversion)|SQL|[![Practice][p]](https://www.fastprep.io/problems/intuit-magnitude-amount-conversion)|Jan 30, 2026|
@@ -1753,6 +1754,4 @@
 |**Agoda**|[Two-Core Process Assignment](https://www.fastprep.io/problems/agoda-two-core-process-assignment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-two-core-process-assignment)|May 25, 2025|
 |**Agoda**|[Team Formation](https://www.fastprep.io/problems/agoda-team-formation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-team-formation)|May 25, 2025|
 |**IBM**|[Get Min Increment](https://www.fastprep.io/problems/ibm-get-minimum-increment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-increment)|May 25, 2025|
-|**IBM**|[Get Min Operations](https://www.fastprep.io/problems/ibm-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-min-operations)|May 25, 2025|
-|**Microsoft**|[Valid Mixed Case Letters](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|May 25, 2025|
 <a id="bottom"></a>

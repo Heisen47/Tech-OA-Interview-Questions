@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[Get Min Operations](https://www.fastprep.io/problems/ibm-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-min-operations)|May 25, 2025|
+|**Microsoft**|[Valid Mixed Case Letters](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|May 25, 2025|
 |**Airtable**|[Approximate Percentiles](https://www.fastprep.io/problems/airtable-approximate-percentiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-approximate-percentiles)|May 25, 2025|
 |**Airtable**|[Get Most Hydrated Team](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|May 25, 2025|
 |**Airtable**|[Table Editing](https://www.fastprep.io/problems/airtable-percentiles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airtable-percentiles)|May 25, 2025|
