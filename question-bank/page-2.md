@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Headlands Technologies**|[Sliding-Window Means with IEEE Special Values](https://www.fastprep.io/problems/headlands-sliding-window-means-ieee-floats)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-sliding-window-means-ieee-floats)|Sep 13, 2026|
+|**Shopify**|[Build a Bank Account Utility](https://www.fastprep.io/project-coding/shopify-bank-account-utility)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-bank-account-utility)|Sep 13, 2026|
+|**Google**|[Shortest Subarray With at Least K Distinct Values](https://www.fastprep.io/problems/google-shortest-subarray-at-least-k-distinct-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-subarray-at-least-k-distinct-values)|Sep 13, 2026|
 |**Morgan Stanley**|[Maximum Concurrent Processes](https://www.fastprep.io/problems/morgan-stanley-maximum-concurrent-processes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/morgan-stanley-maximum-concurrent-processes)|Sep 12, 2026|
 |**Google**|[Lexicographically Smallest K-Step Return Walk](https://www.fastprep.io/problems/google-lexicographically-smallest-k-step-return-walk)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-lexicographically-smallest-k-step-return-walk)|Sep 12, 2026|
 |**Tekion**|[Dungeon Game](https://www.fastprep.io/problems/tekion-dungeon-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-dungeon-game)|Sep 12, 2026|
@@ -1751,7 +1754,4 @@
 |**Wells Fargo**|[Count Array Element Frequencies](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|May 26, 2025|
 |**Wells Fargo**|[Floor Square Roots for an Array](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|May 26, 2025|
 |**Wells Fargo**|[Longest Common Prefix](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|May 26, 2025|
-|**Scale AI**|[Optimize a Resort Driving Route](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|May 26, 2025|
-|**Juniper Square**|[Reverse Odd-Position Words](https://www.fastprep.io/problems/juniper-square-reverse-odd-position-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/juniper-square-reverse-odd-position-words)|May 26, 2025|
-|**Amazon**|[Determine the Best Skipping Strategy](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|May 25, 2025|
 <a id="bottom"></a>
