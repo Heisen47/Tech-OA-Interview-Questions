@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**PeopleStrong**|[Longest Subarray with a Target Sum](https://www.fastprep.io/problems/peoplestrong-longest-target-sum-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-longest-target-sum-subarray)|May 28, 2025|
+|**Wells Fargo**|[Canonical Euler Trail](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|May 26, 2025|
+|**Wells Fargo**|[Compare Calendar Dates](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|May 26, 2025|
+|**Wells Fargo**|[Count Array Element Frequencies](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|May 26, 2025|
+|**Wells Fargo**|[Floor Square Roots for an Array](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|May 26, 2025|
+|**Wells Fargo**|[Longest Common Prefix](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|May 26, 2025|
 |**Scale AI**|[Optimize a Resort Driving Route](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|May 26, 2025|
 |**Juniper Square**|[Reverse Odd-Position Words](https://www.fastprep.io/problems/juniper-square-reverse-odd-position-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/juniper-square-reverse-odd-position-words)|May 26, 2025|
 |**Amazon**|[Determine the Best Skipping Strategy](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|May 25, 2025|
@@ -167,7 +173,6 @@
 |**Figma**|[Topmost Accessible Nodes](https://www.fastprep.io/problems/figma-topmost-accessible-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-topmost-accessible-nodes)|Jan 28, 2025|
 |**Google**|[Design Distributed Article Word-Count Aggregation](https://www.fastprep.io/system-design/distributed-article-word-count)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-article-word-count)|Jan 21, 2025|
 |**Postman**|[Design a Collaborative Document Workspace Frontend](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace)|Jan 17, 2025|
-|**Confluent**|[Design an Idempotent URL Shortening Service](https://www.fastprep.io/system-design/idempotent-url-shortening-under-contention)|System design|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-url-shortening-under-contention)|Jan 16, 2025|
 |**Confluent**|[Design Crash Recovery for a Single-Node Key-Value Store](https://www.fastprep.io/system-design/crash-recoverable-single-node-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crash-recoverable-single-node-key-value-store)|Jan 16, 2025|
 |**Confluent**|[Design and Implement a Thread-Safe Delayed Task Runner](https://www.fastprep.io/low-level-design/thread-safe-delayed-task-runner)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-delayed-task-runner)|Jan 16, 2025|
 |**Amazon**|[Maximize Product of Sizes of Subtrees](https://www.fastprep.io/problems/amazon-maximize-product-of-sizes-of-subtrees)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-product-of-sizes-of-subtrees)|Jan 09, 2025|

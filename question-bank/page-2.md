@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Scribd**|[Build a Reliable Event Write Handler](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|Sep 13, 2026|
+|**Scribd**|[Design an External-Model Document Enrichment Pipeline](https://www.fastprep.io/system-design/external-model-document-enrichment-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/external-model-document-enrichment-pipeline)|Sep 13, 2026|
+|**ByteDance / Google**|[Design a Multimedia Content Moderation Platform](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|Sep 13, 2026|
+|**Citadel**|[Maximize Workday Earnings](https://www.fastprep.io/problems/citadel-maximize-workday-earnings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-maximize-workday-earnings)|Sep 13, 2026|
+|**Scribd**|[Most Popular Actor by Movie Views](https://www.fastprep.io/problems/scribd-most-popular-actor-by-movie-views)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scribd-most-popular-actor-by-movie-views)|Sep 13, 2026|
+|**Headlands Technologies**|[Minimum Changes for Distinct Adjacent Characters](https://www.fastprep.io/problems/headlands-minimum-changes-no-equal-adjacent-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-minimum-changes-no-equal-adjacent-characters)|Sep 13, 2026|
 |**Headlands Technologies**|[Sliding-Window Means with IEEE Special Values](https://www.fastprep.io/problems/headlands-sliding-window-means-ieee-floats)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-sliding-window-means-ieee-floats)|Sep 13, 2026|
 |**Shopify**|[Build a Bank Account Utility](https://www.fastprep.io/project-coding/shopify-bank-account-utility)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-bank-account-utility)|Sep 13, 2026|
 |**Google**|[Shortest Subarray With at Least K Distinct Values](https://www.fastprep.io/problems/google-shortest-subarray-at-least-k-distinct-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-subarray-at-least-k-distinct-values)|Sep 13, 2026|
@@ -73,7 +79,6 @@
 |**Akuna Capital**|[Items Sort](https://www.fastprep.io/problems/akuna-items-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-items-sort)|Sep 10, 2026|
 |**Akuna Capital**|[Two Sum](https://www.fastprep.io/problems/akuna-two-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-two-sum)|Sep 10, 2026|
 |**Akuna Capital**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/akuna-longest-substring-without-repeating-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-longest-substring-without-repeating-characters)|Sep 10, 2026|
-|**OnePay / Razorpay / Infosys**|[Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system)|Sep 10, 2026|
 |**Atlassian / Abnormal Security**|[Audit a Service Architecture for Reliability](https://www.fastprep.io/system-design/architecture-observability-reliability-audit)|System design|[![Practice][p]](https://www.fastprep.io/system-design/architecture-observability-reliability-audit)|Sep 10, 2026|
 |**Apple**|[Design Multi-Data-Center Storage Demand Forecasting](https://www.fastprep.io/system-design/multi-data-center-storage-demand-forecasting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-data-center-storage-demand-forecasting)|Sep 10, 2026|
 |**Apple**|[Design Predictive File Storage-Tier Placement](https://www.fastprep.io/system-design/file-storage-tier-selection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/file-storage-tier-selection)|Sep 10, 2026|
@@ -1748,10 +1753,4 @@
 |**PeopleStrong**|[Detect a Cycle in a Linked List](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle)|May 28, 2025|
 |**PeopleStrong**|[First Nonrepeating Character](https://www.fastprep.io/problems/peoplestrong-first-non-repeating-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-first-non-repeating-character)|May 28, 2025|
 |**PeopleStrong**|[Lowest Common Ancestor in a BST](https://www.fastprep.io/problems/peoplestrong-lowest-common-ancestor-bst)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-lowest-common-ancestor-bst)|May 28, 2025|
-|**PeopleStrong**|[Longest Subarray with a Target Sum](https://www.fastprep.io/problems/peoplestrong-longest-target-sum-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-longest-target-sum-subarray)|May 28, 2025|
-|**Wells Fargo**|[Canonical Euler Trail](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|May 26, 2025|
-|**Wells Fargo**|[Compare Calendar Dates](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|May 26, 2025|
-|**Wells Fargo**|[Count Array Element Frequencies](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|May 26, 2025|
-|**Wells Fargo**|[Floor Square Roots for an Array](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|May 26, 2025|
-|**Wells Fargo**|[Longest Common Prefix](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|May 26, 2025|
 <a id="bottom"></a>
