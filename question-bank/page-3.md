@@ -1,7 +1,7 @@
 # Question Bank — Page 3
 
 <!-- question-pages:start -->
-<sub>[← Previous](page-2.md) · Page 3</sub>
+<sub>[← Previous](page-2.md) · Page 3 · [Next →](page-4.md)</sub>
 <!-- question-pages:end -->
 
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Postman**|[Design a Threaded Comment System with User Tags](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|Jun 07, 2025|
+|**Postman**|[Design an Annotated Comment Thread System](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|Jun 07, 2025|
+|**Datadog**|[Deduplicated Query Registration](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|Jun 01, 2025|
 |**Datadog**|[Return a Minimum-Coin Change Breakdown](https://www.fastprep.io/problems/datadog-minimum-coin-breakdown)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-minimum-coin-breakdown)|Jun 01, 2025|
 |**Datadog**|[Find Repeated Substrings Ignoring Case](https://www.fastprep.io/problems/datadog-repeated-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-repeated-substrings)|Jun 01, 2025|
 |**Amazon**|[Find Minimum Days](https://www.fastprep.io/problems/amazon-find-minimum-days)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-days)|May 31, 2025|
@@ -1448,6 +1451,7 @@
 |**Alchemy**|[Equal-Sum Digit Partitions](https://www.fastprep.io/problems/alchemy-equal-sum-digit-partitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alchemy-equal-sum-digit-partitions)|May 18, 2022|
 |**Bloomberg LP**|[Maximum Sum BST in a Binary Tree](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|May 13, 2022|
 |**Figma**|[Shell Path Autocomplete](https://www.fastprep.io/problems/figma-shell-path-autocomplete)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-shell-path-autocomplete)|May 07, 2022|
+|**Hudson River Trading**|[Debug Python Scripts and Their CSV Files](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|May 07, 2022|
 |**Notion**|[Build a Multi-Room Chat Service](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|May 06, 2022|
 |**Confluent**|[Design a Kubernetes-Managed Kafka Service](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|May 05, 2022|
 |**ZipRecruiter**|[Count Words Formable from Letters](https://www.fastprep.io/problems/ziprecruiter-count-formable-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-formable-words)|Apr 27, 2022|
@@ -1564,6 +1568,8 @@
 |**Duolingo**|[Count Distinct Word Meanings](https://www.fastprep.io/problems/duolingo-count-distinct-word-meanings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-count-distinct-word-meanings)|Sep 02, 2021|
 |**Duolingo**|[Count Legal Outfit Combinations](https://www.fastprep.io/problems/duolingo-count-legal-outfit-combinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-count-legal-outfit-combinations)|Sep 02, 2021|
 |**Wayfair**|[Review and Redesign a Shape Controller](https://www.fastprep.io/low-level-design/shape-controller-design-review)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/shape-controller-design-review)|Aug 31, 2021|
+|**Nutanix**|[Design a Pizza Chain Ordering and Delivery System](https://www.fastprep.io/system-design/pizza-chain-ordering-and-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/pizza-chain-ordering-and-delivery)|Aug 24, 2021|
+|**Nutanix**|[Repair a Readers-Writer Lock](https://www.fastprep.io/project-coding/nutanix-repair-readers-writers-lock)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-readers-writers-lock)|Aug 24, 2021|
 |**ZipRecruiter**|[Solve a Sudoku Board](https://www.fastprep.io/problems/ziprecruiter-sudoku-solver)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sudoku-solver)|Aug 16, 2021|
 |**ZipRecruiter**|[Validate a Sudoku Board](https://www.fastprep.io/problems/ziprecruiter-valid-sudoku)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-valid-sudoku)|Aug 16, 2021|
 |**Morgan Stanley**|[Design Vaccination Centre Reservations](https://www.fastprep.io/low-level-design/vaccination-centre-reservations)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/vaccination-centre-reservations)|Aug 13, 2021|
@@ -1585,6 +1591,7 @@
 |**Checkr**|[Design a Motor-Vehicle Record Rule Engine](https://www.fastprep.io/low-level-design/motor-vehicle-record-rule-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/motor-vehicle-record-rule-engine)|May 13, 2021|
 |**Intuit**|[Lexicographically Smallest Topological Order](https://www.fastprep.io/problems/intuit-lexicographic-topological-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-lexicographic-topological-order)|May 08, 2021|
 |**Datadog**|[Count All Occurrences of Duplicate Words](https://www.fastprep.io/problems/datadog-count-duplicate-word-occurrences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-count-duplicate-word-occurrences)|Apr 30, 2021|
+|**C3.ai**|[Design a Collaborative Code Editor](https://www.fastprep.io/system-design/collaborative-code-editor)|System design|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-code-editor)|Apr 17, 2021|
 |**Bloomberg LP**|[Pow(x, n)](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Apr 15, 2021|
 |**Meta**|[Maximum Subtree Sum](https://www.fastprep.io/problems/meta-maximum-subtree-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-maximum-subtree-sum)|Apr 15, 2021|
 |**Meta**|[Word Break: Construct One Sentence](https://www.fastprep.io/problems/meta-word-break-one-sentence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-word-break-one-sentence)|Apr 15, 2021|
@@ -1632,6 +1639,7 @@
 |**Bloomberg LP**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/bloomberg-lowest-common-ancestor-of-a-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lowest-common-ancestor-of-a-binary-tree)|Jan 20, 2021|
 |**Bloomberg LP**|[Number of Distinct Islands](https://www.fastprep.io/problems/bloomberg-number-of-distinct-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-distinct-islands)|Jan 20, 2021|
 |**Bloomberg LP**|[Target Sum Across Two Sorted Arrays](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|Jan 17, 2021|
+|**Nutanix**|[Repair Ordered Acknowledgments for Concurrent File Writes](https://www.fastprep.io/project-coding/nutanix-repair-ordered-write-acknowledgments)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-ordered-write-acknowledgments)|Jan 16, 2021|
 |**Bloomberg LP**|[Coin Change II](https://www.fastprep.io/problems/bloomberg-coin-change-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-coin-change-ii)|Jan 12, 2021|
 |**SpaceX**|[Design a Managed User-Script Execution Platform](https://www.fastprep.io/system-design/managed-user-script-execution-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/managed-user-script-execution-platform)|Jan 12, 2021|
 |**Scale AI**|[Adjacent Order-Statistic Gap Distributions](https://www.fastprep.io/problems/scale-ai-adjacent-order-statistic-gaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-adjacent-order-statistic-gaps)|Jan 08, 2021|
@@ -1822,6 +1830,8 @@
 |**Intuit**|[Earliest Hour with Frequent Badge Access](https://www.fastprep.io/problems/intuit-earliest-frequent-access-hour)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-earliest-frequent-access-hour)|Dec 30, 2018|
 |**Intuit**|[Resolve Inherited Server Configuration](https://www.fastprep.io/problems/intuit-inherited-server-configuration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-inherited-server-configuration)|Nov 03, 2018|
 |**Intuit**|[Longest Common Contiguous String Sequence](https://www.fastprep.io/problems/intuit-longest-common-string-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-common-string-sequence)|Sep 29, 2018|
+|**Nutanix**|[Repair Circular Linked List Insert and Split](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|Sep 26, 2018|
+|**Nutanix**|[Repair a Linked-List Merge Sort That Removes Duplicates](https://www.fastprep.io/project-coding/nutanix-repair-linked-list-merge-sort-unique)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-linked-list-merge-sort-unique)|Aug 17, 2018|
 |**Apple**|[Next Leaf in an Ordered Tree](https://www.fastprep.io/problems/apple-next-leaf-in-ordered-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-next-leaf-in-ordered-tree)|May 17, 2018|
 |**Bloomberg LP**|[Group Values into Equivalence Classes](https://www.fastprep.io/problems/bloomberg-group-equivalence-classes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-group-equivalence-classes)|May 16, 2018|
 |**Bloomberg LP**|[Implement a Dynamic Array Vector](https://www.fastprep.io/problems/bloomberg-implement-dynamic-array-vector)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-implement-dynamic-array-vector)|May 16, 2018|
@@ -1836,14 +1846,4 @@
 |**Intuit**|[Maximum Island Area](https://www.fastprep.io/problems/intuit-maximum-island-area)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-maximum-island-area)|Oct 24, 2017|
 |**Intuit**|[Employee Friendship Adjacency from CSV](https://www.fastprep.io/problems/intuit-employee-friendship-adjacency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-employee-friendship-adjacency)|Oct 08, 2017|
 |**Intuit**|[Count Each Person's Direct Parents](https://www.fastprep.io/problems/intuit-direct-parent-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-direct-parent-counts)|Sep 17, 2017|
-|**ZipRecruiter**|[Iterate Ragged Integer Lists Vertically](https://www.fastprep.io/problems/ziprecruiter-vertical-nested-list-iteration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-vertical-nested-list-iteration)|May 11, 2017|
-|**ZipRecruiter**|[Fibonacci Number with Constant Extra Space](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Mar 10, 2017|
-|**ZipRecruiter**|[Design a Community URL Shortening Service](https://www.fastprep.io/system-design/community-url-shortening-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-url-shortening-service)|Feb 03, 2017|
-|**ZipRecruiter**|[Min Stack](https://www.fastprep.io/problems/ziprecruiter-min-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-min-stack)|Feb 03, 2017|
-|**Headlands Technologies**|[Text Pattern Matching with Stars](https://www.fastprep.io/problems/headlands-text-pattern-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-text-pattern-matching)|Jan 21, 2017|
-|**Intuit**|[Complement the Significant Binary Digits](https://www.fastprep.io/problems/intuit-integer-complement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-integer-complement)|Feb 08, 2016|
-|**Intuit**|[Minimum Insertions to Make a Palindrome](https://www.fastprep.io/problems/intuit-minimum-palindrome-insertions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-minimum-palindrome-insertions)|Feb 08, 2016|
-|**Intuit**|[Count Pasture Animal Arrangements](https://www.fastprep.io/problems/intuit-pasture-animal-arrangements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-pasture-animal-arrangements)|Feb 08, 2016|
-|**Morgan Stanley**|[Design Employee Username and Birth Date Rules](https://www.fastprep.io/low-level-design/employee-username-birthdate-rules)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/employee-username-birthdate-rules)|Oct 10, 2015|
-|**Morgan Stanley**|[Design Stateful Shopping Cart Lines](https://www.fastprep.io/low-level-design/stateful-shopping-cart-lines)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/stateful-shopping-cart-lines)|Sep 14, 2014|
 <a id="bottom"></a>

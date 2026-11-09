@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Employee Ratings Management System](https://www.fastprep.io/problems/amazon-employee-ratings-data-structure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-employee-ratings-data-structure)|Sep 13, 2026|
+|**Amazon**|[Binary Tree Cameras](https://www.fastprep.io/problems/amazon-binary-tree-cameras)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-binary-tree-cameras)|Sep 13, 2026|
 |**Amazon**|[Remove Duplicate Letters for the Largest Result](https://www.fastprep.io/problems/amazon-largest-lexicographic-unique-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-largest-lexicographic-unique-letters)|Sep 13, 2026|
 |**Amazon**|[Merge k Sorted Lists](https://www.fastprep.io/problems/amazon-merge-k-sorted-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-merge-k-sorted-lists)|Sep 13, 2026|
 |**Amazon**|[Nodes at a Given N-ary Tree Level](https://www.fastprep.io/problems/amazon-nary-tree-nodes-at-level)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-nary-tree-nodes-at-level)|Sep 13, 2026|
@@ -1610,6 +1612,7 @@
 |**Shopify**|[Filter Words Containing a Letter](https://www.fastprep.io/problems/shopify-filter-words-containing-letter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/shopify-filter-words-containing-letter)|Aug 22, 2025|
 |**Shopify**|[Paint House](https://www.fastprep.io/problems/shopify-paint-house)|Coding|[![Practice][p]](https://www.fastprep.io/problems/shopify-paint-house)|Aug 22, 2025|
 |**Rippling**|[Median Across N Sorted Arrays](https://www.fastprep.io/problems/rippling-median-across-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-median-across-sorted-arrays)|Aug 18, 2025|
+|**Nutanix**|[Repair a Multi-Threaded Binary Search Tree](https://www.fastprep.io/project-coding/nutanix-repair-multithreaded-bst)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-multithreaded-bst)|Aug 16, 2025|
 |**Apple**|[Top K Frequent Elements](https://www.fastprep.io/problems/apple-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-top-k-frequent-elements)|Aug 15, 2025|
 |**Apple**|[Coin Change](https://www.fastprep.io/problems/apple-coin-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-coin-change)|Aug 14, 2025|
 |**Apple**|[Collect Letters Along a Unique Grid Path](https://www.fastprep.io/problems/apple-collect-letters-along-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-collect-letters-along-grid-path)|Aug 14, 2025|
@@ -1751,7 +1754,4 @@
 |**Amazon**|[Find Hash](https://www.fastprep.io/problems/amazon-find-hash)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-hash)|Jun 12, 2025|
 |**Fivetran**|[Aladdin and the Magic Carpet](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|Jun 12, 2025|
 |**Klaviyo**|[File Storage with User Quotas, Merging, Backups, and Restore](https://www.fastprep.io/problems/klaviyo-file-storage-users-backup-restore)|Coding|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-file-storage-users-backup-restore)|Jun 09, 2025|
-|**Postman**|[Design a Threaded Comment System with User Tags](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|Jun 07, 2025|
-|**Postman**|[Design an Annotated Comment Thread System](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|Jun 07, 2025|
-|**Datadog**|[Deduplicated Query Registration](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|Jun 01, 2025|
 <a id="bottom"></a>

@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**132 questions**
+**138 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -116,6 +116,7 @@
 |**Rippling**|[Build an In-Memory Community Q&A API](https://www.fastprep.io/project-coding/community-question-answer-api)|[![Practice][p]](https://www.fastprep.io/project-coding/community-question-answer-api)|Nov 20, 2025|
 |**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|
 |**Apple**|[Complete a DAG Task Pipeline](https://www.fastprep.io/project-coding/apple-dag-task-pipeline)|[![Practice][p]](https://www.fastprep.io/project-coding/apple-dag-task-pipeline)|Oct 07, 2025|
+|**Nutanix**|[Repair a Multi-Threaded Binary Search Tree](https://www.fastprep.io/project-coding/nutanix-repair-multithreaded-bst)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-multithreaded-bst)|Aug 16, 2025|
 |**Apple**|[Extend a Three-Bot Rock Paper Scissors Game](https://www.fastprep.io/project-coding/apple-rock-paper-scissors-rounds)|[![Practice][p]](https://www.fastprep.io/project-coding/apple-rock-paper-scissors-rounds)|Aug 14, 2025|
 |**Zip**|[Build a Four-Level Cloud Storage Query Engine](https://www.fastprep.io/project-coding/zip-cloud-storage-queries)|[![Practice][p]](https://www.fastprep.io/project-coding/zip-cloud-storage-queries)|Jul 24, 2025|
 |**Scale AI**|[Optimize a Resort Driving Route](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|May 26, 2025|
@@ -134,10 +135,15 @@
 |**NVIDIA**|[Neural-Network Graph Tracing and Autograd](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|[![Practice][p]](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|Sep 19, 2023|
 |**Motive**|[Build a Hotel Booking Frequency API](https://www.fastprep.io/project-coding/hotel-booking-frequency)|[![Practice][p]](https://www.fastprep.io/project-coding/hotel-booking-frequency)|Aug 20, 2022|
 |**Revolut**|[Make Account Transfers Safe Under Concurrency](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|[![Practice][p]](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|Jun 20, 2022|
+|**Hudson River Trading**|[Debug Python Scripts and Their CSV Files](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|[![Practice][p]](https://www.fastprep.io/project-coding/hrt-debug-python-csv-scripts)|May 07, 2022|
 |**Notion**|[Build a Multi-Room Chat Service](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|[![Practice][p]](https://www.fastprep.io/project-coding/multi-room-chat-http-service)|May 06, 2022|
 |**Shopify**|[Build a Filterable Member Table](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-frontend-table-filter)|Mar 15, 2022|
 |**Shopify**|[Build a Warehouse Inventory Application](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|[![Practice][p]](https://www.fastprep.io/project-coding/shopify-warehouse-inventory)|Jan 27, 2022|
+|**Nutanix**|[Repair a Readers-Writer Lock](https://www.fastprep.io/project-coding/nutanix-repair-readers-writers-lock)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-readers-writers-lock)|Aug 24, 2021|
+|**Nutanix**|[Repair Ordered Acknowledgments for Concurrent File Writes](https://www.fastprep.io/project-coding/nutanix-repair-ordered-write-acknowledgments)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-ordered-write-acknowledgments)|Jan 16, 2021|
 |**JP Morgan Chase**|[Complete an Egg Supply and Demand Forecasting Website](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|[![Practice][p]](https://www.fastprep.io/project-coding/jpmorgan-egg-supply-demand-forecast)|Sep 19, 2020|
 |**Datadog**|[Build a Streaming Request Log Aggregator](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-streaming-request-log-aggregator)|Sep 03, 2019|
 |**Datadog**|[Console Website Monitor](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|May 26, 2019|
+|**Nutanix**|[Repair Circular Linked List Insert and Split](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|Sep 26, 2018|
+|**Nutanix**|[Repair a Linked-List Merge Sort That Removes Duplicates](https://www.fastprep.io/project-coding/nutanix-repair-linked-list-merge-sort-unique)|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-linked-list-merge-sort-unique)|Aug 17, 2018|
 <a id="bottom"></a>
