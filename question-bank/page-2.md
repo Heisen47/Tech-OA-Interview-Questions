@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Amazon**|[Max Consecutive Ones III](https://www.fastprep.io/problems/amazon-max-consecutive-ones-iii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-consecutive-ones-iii)|Sep 13, 2026|
 |**Amazon**|[Maximum Profit in Job Scheduling](https://www.fastprep.io/problems/amazon-maximum-profit-job-scheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-profit-job-scheduling)|Sep 13, 2026|
 |**Amazon**|[All Anagram Start Indices](https://www.fastprep.io/problems/amazon-anagram-start-indices)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-anagram-start-indices)|Sep 13, 2026|
 |**Amazon**|[Count Islands with Eight-Direction Adjacency](https://www.fastprep.io/problems/amazon-islands-eight-direction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-islands-eight-direction)|Sep 13, 2026|
@@ -1754,4 +1753,5 @@
 |**Datadog**|[Return a Minimum-Coin Change Breakdown](https://www.fastprep.io/problems/datadog-minimum-coin-breakdown)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-minimum-coin-breakdown)|Jun 01, 2025|
 |**Datadog**|[Find Repeated Substrings Ignoring Case](https://www.fastprep.io/problems/datadog-repeated-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-repeated-substrings)|Jun 01, 2025|
 |**Amazon**|[Find Minimum Days](https://www.fastprep.io/problems/amazon-find-minimum-days)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-days)|May 31, 2025|
+|**Amazon**|[Split Prefix Suffix](https://www.fastprep.io/problems/amazon-split-prefix-suffix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-split-prefix-suffix)|May 31, 2025|
 <a id="bottom"></a>
