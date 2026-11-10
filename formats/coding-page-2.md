@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Stripe**|[Risky Fraud Ring](https://www.fastprep.io/problems/stripe-risky-fraud-ring)|[![Practice][p]](https://www.fastprep.io/problems/stripe-risky-fraud-ring)|Jul 10, 2026|
 |**Two Sigma**|[Balanced Split String with Wildcards](https://www.fastprep.io/problems/two-sigma-balanced-split-string-with-wildcards)|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-balanced-split-string-with-wildcards)|Jul 10, 2026|
 |**Two Sigma**|[Closest Color](https://www.fastprep.io/problems/two-sigma-closest-color)|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-closest-color)|Jul 10, 2026|
 |**TCS**|[Array Rank Transform](https://www.fastprep.io/problems/tcs-array-rank-transform)|[![Practice][p]](https://www.fastprep.io/problems/tcs-array-rank-transform)|Jul 10, 2026|

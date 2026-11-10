@@ -9,8 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Postman**|[Design a Threaded Comment System with User Tags](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|Jun 07, 2025|
-|**Postman**|[Design an Annotated Comment Thread System](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|Jun 07, 2025|
 |**Datadog**|[Deduplicated Query Registration](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|Jun 01, 2025|
 |**Datadog**|[Return a Minimum-Coin Change Breakdown](https://www.fastprep.io/problems/datadog-minimum-coin-breakdown)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-minimum-coin-breakdown)|Jun 01, 2025|
 |**Datadog**|[Find Repeated Substrings Ignoring Case](https://www.fastprep.io/problems/datadog-repeated-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-repeated-substrings)|Jun 01, 2025|
@@ -1846,4 +1844,6 @@
 |**Intuit**|[Maximum Island Area](https://www.fastprep.io/problems/intuit-maximum-island-area)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-maximum-island-area)|Oct 24, 2017|
 |**Intuit**|[Employee Friendship Adjacency from CSV](https://www.fastprep.io/problems/intuit-employee-friendship-adjacency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-employee-friendship-adjacency)|Oct 08, 2017|
 |**Intuit**|[Count Each Person's Direct Parents](https://www.fastprep.io/problems/intuit-direct-parent-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-direct-parent-counts)|Sep 17, 2017|
+|**ZipRecruiter**|[Iterate Ragged Integer Lists Vertically](https://www.fastprep.io/problems/ziprecruiter-vertical-nested-list-iteration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-vertical-nested-list-iteration)|May 11, 2017|
+|**ZipRecruiter**|[Fibonacci Number with Constant Extra Space](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Mar 10, 2017|
 <a id="bottom"></a>
