@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Intuit**|[Count Each Person's Direct Parents](https://www.fastprep.io/problems/intuit-direct-parent-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-direct-parent-counts)|Sep 17, 2017|
 |**ZipRecruiter**|[Iterate Ragged Integer Lists Vertically](https://www.fastprep.io/problems/ziprecruiter-vertical-nested-list-iteration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-vertical-nested-list-iteration)|May 11, 2017|
 |**ZipRecruiter**|[Fibonacci Number with Constant Extra Space](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Mar 10, 2017|
 |**ZipRecruiter**|[Design a Community URL Shortening Service](https://www.fastprep.io/system-design/community-url-shortening-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-url-shortening-service)|Feb 03, 2017|

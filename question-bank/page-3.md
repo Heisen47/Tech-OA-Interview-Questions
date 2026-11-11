@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Klaviyo**|[File Storage with User Quotas, Merging, Backups, and Restore](https://www.fastprep.io/problems/klaviyo-file-storage-users-backup-restore)|Coding|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-file-storage-users-backup-restore)|Jun 09, 2025|
 |**Postman**|[Design a Threaded Comment System with User Tags](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|Jun 07, 2025|
 |**Postman**|[Design an Annotated Comment Thread System](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|Jun 07, 2025|
 |**Datadog**|[Deduplicated Query Registration](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|Jun 01, 2025|
@@ -1846,4 +1845,5 @@
 |**Intuit**|[Department Headcounts and External Friendships](https://www.fastprep.io/problems/intuit-department-friendship-stats)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-department-friendship-stats)|Oct 25, 2017|
 |**Intuit**|[Maximum Island Area](https://www.fastprep.io/problems/intuit-maximum-island-area)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-maximum-island-area)|Oct 24, 2017|
 |**Intuit**|[Employee Friendship Adjacency from CSV](https://www.fastprep.io/problems/intuit-employee-friendship-adjacency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-employee-friendship-adjacency)|Oct 08, 2017|
+|**Intuit**|[Count Each Person's Direct Parents](https://www.fastprep.io/problems/intuit-direct-parent-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-direct-parent-counts)|Sep 17, 2017|
 <a id="bottom"></a>
