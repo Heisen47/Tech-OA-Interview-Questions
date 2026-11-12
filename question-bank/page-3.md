@@ -1605,6 +1605,7 @@
 |**Checkr**|[Design a Motor-Vehicle Record Rule Engine](https://www.fastprep.io/low-level-design/motor-vehicle-record-rule-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/motor-vehicle-record-rule-engine)|May 13, 2021|
 |**Intuit**|[Lexicographically Smallest Topological Order](https://www.fastprep.io/problems/intuit-lexicographic-topological-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-lexicographic-topological-order)|May 08, 2021|
 |**Datadog**|[Count All Occurrences of Duplicate Words](https://www.fastprep.io/problems/datadog-count-duplicate-word-occurrences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-count-duplicate-word-occurrences)|Apr 30, 2021|
+|**Nutanix**|[Repair a Producer-Consumer Buffer](https://www.fastprep.io/project-coding/nutanix-repair-producer-consumer-buffer)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-producer-consumer-buffer)|Apr 29, 2021|
 |**C3.ai**|[Design a Collaborative Code Editor](https://www.fastprep.io/system-design/collaborative-code-editor)|System design|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-code-editor)|Apr 17, 2021|
 |**Bloomberg LP**|[Pow(x, n)](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Apr 15, 2021|
 |**Meta**|[Maximum Subtree Sum](https://www.fastprep.io/problems/meta-maximum-subtree-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-maximum-subtree-sum)|Apr 15, 2021|
@@ -1846,5 +1847,4 @@
 |**Intuit**|[Longest Common Contiguous String Sequence](https://www.fastprep.io/problems/intuit-longest-common-string-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-common-string-sequence)|Sep 29, 2018|
 |**Nutanix**|[Repair Circular Linked List Insert and Split](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|Sep 26, 2018|
 |**Nutanix**|[Repair a Linked-List Merge Sort That Removes Duplicates](https://www.fastprep.io/project-coding/nutanix-repair-linked-list-merge-sort-unique)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-linked-list-merge-sort-unique)|Aug 17, 2018|
-|**Apple**|[Next Leaf in an Ordered Tree](https://www.fastprep.io/problems/apple-next-leaf-in-ordered-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-next-leaf-in-ordered-tree)|May 17, 2018|
 <a id="bottom"></a>
