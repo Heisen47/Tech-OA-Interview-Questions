@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Postman**|[Design a Threaded Comment System with User Tags](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags)|Jun 07, 2025|
 |**Postman**|[Design an Annotated Comment Thread System](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/annotated-comment-thread-system)|Jun 07, 2025|
 |**Datadog**|[Deduplicated Query Registration](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-deduplicated-query-registration)|Jun 01, 2025|
 |**Datadog**|[Return a Minimum-Coin Change Breakdown](https://www.fastprep.io/problems/datadog-minimum-coin-breakdown)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-minimum-coin-breakdown)|Jun 01, 2025|
@@ -1058,6 +1057,7 @@
 |**Amazon**|[Get Min Num Moves](https://www.fastprep.io/problems/amazon-get-min-num-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-num-moves)|Feb 19, 2024|
 |**Amazon**|[Count Distinct Passwords](https://www.fastprep.io/problems/amazon-count-distinct-passwords)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-distinct-passwords)|Feb 19, 2024|
 |**Citadel**|[Max the Lottery ID](https://www.fastprep.io/problems/citadel-maximize-the-lottery-id)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-maximize-the-lottery-id)|Feb 19, 2024|
+|**Expedia**|[Design a Pinned Favorites Bar](https://www.fastprep.io/low-level-design/pinned-favorites-bar)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/pinned-favorites-bar)|Feb 19, 2024|
 |**Meta**|[Search Mysterious Grid](https://www.fastprep.io/problems/mt-search-myterious-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mt-search-myterious-grid)|Feb 18, 2024|
 |**Meta**|[Enumerating Narrative Sections](https://www.fastprep.io/problems/mt-enumerating-narrative-sections)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mt-enumerating-narrative-sections)|Feb 18, 2024|
 |**Snowflake**|[Efficient Deployments](https://www.fastprep.io/problems/snowflake-efficient-deployments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-efficient-deployments)|Feb 18, 2024|
@@ -1494,6 +1494,7 @@
 |**ZipRecruiter**|[Largest Square in a Histogram](https://www.fastprep.io/problems/ziprecruiter-largest-square-in-histogram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-largest-square-in-histogram)|Feb 22, 2022|
 |**ZipRecruiter**|[Peak Elements in Removal Order](https://www.fastprep.io/problems/ziprecruiter-peak-removal-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-peak-removal-order)|Feb 22, 2022|
 |**Meta**|[Find an Equal-Sum Split](https://www.fastprep.io/problems/meta-equal-sum-array-split)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-equal-sum-array-split)|Feb 21, 2022|
+|**Expedia**|[Design a Travel Map App's Places and Routes](https://www.fastprep.io/low-level-design/travel-map-places-and-routes)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/travel-map-places-and-routes)|Feb 19, 2022|
 |**Airbnb**|[Fraction to Recurring Decimal](https://www.fastprep.io/problems/airbnb-fraction-to-recurring-decimal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-fraction-to-recurring-decimal)|Feb 18, 2022|
 |**ZipRecruiter**|[Multiset Intersection of Three Lists](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|Feb 17, 2022|
 |**ZipRecruiter**|[Rotation with at Most Three Mismatches](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|Feb 17, 2022|
@@ -1845,5 +1846,4 @@
 |**Intuit**|[Department Headcounts and External Friendships](https://www.fastprep.io/problems/intuit-department-friendship-stats)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-department-friendship-stats)|Oct 25, 2017|
 |**Intuit**|[Maximum Island Area](https://www.fastprep.io/problems/intuit-maximum-island-area)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-maximum-island-area)|Oct 24, 2017|
 |**Intuit**|[Employee Friendship Adjacency from CSV](https://www.fastprep.io/problems/intuit-employee-friendship-adjacency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-employee-friendship-adjacency)|Oct 08, 2017|
-|**Intuit**|[Count Each Person's Direct Parents](https://www.fastprep.io/problems/intuit-direct-parent-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-direct-parent-counts)|Sep 17, 2017|
 <a id="bottom"></a>
