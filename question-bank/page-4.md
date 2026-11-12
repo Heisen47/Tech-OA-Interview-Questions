@@ -9,6 +9,18 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Group Values into Equivalence Classes](https://www.fastprep.io/problems/bloomberg-group-equivalence-classes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-group-equivalence-classes)|May 16, 2018|
+|**Bloomberg LP**|[Implement a Dynamic Array Vector](https://www.fastprep.io/problems/bloomberg-implement-dynamic-array-vector)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-implement-dynamic-array-vector)|May 16, 2018|
+|**Bloomberg LP**|[Longest Palindromic Substring](https://www.fastprep.io/problems/bloomberg-longest-palindromic-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-longest-palindromic-substring)|May 16, 2018|
+|**Morgan Stanley**|[Design a Company Payroll Allocation Database](https://www.fastprep.io/system-design/company-payroll-allocation-database)|System design|[![Practice][p]](https://www.fastprep.io/system-design/company-payroll-allocation-database)|May 11, 2018|
+|**Bloomberg LP**|[Latest Top 100 News Stories](https://www.fastprep.io/problems/bloomberg-latest-top-100-news-stories)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-latest-top-100-news-stories)|May 07, 2018|
+|**Bloomberg LP**|[Furthest Episode Meeting a Completion Threshold](https://www.fastprep.io/problems/bloomberg-series-episode-completion-threshold)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-series-episode-completion-threshold)|May 07, 2018|
+|**Headlands Technologies**|[Design an Incremental Lattice Coverage Tracker](https://www.fastprep.io/low-level-design/lattice-segment-coverage-tracker)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/lattice-segment-coverage-tracker)|Apr 17, 2018|
+|**Intuit**|[Earliest Concurrent Workflow Stages](https://www.fastprep.io/problems/intuit-earliest-workflow-stages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-earliest-workflow-stages)|Nov 02, 2017|
+|**Intuit**|[Bounding Coordinates of Rectangular Regions](https://www.fastprep.io/problems/intuit-rectangular-region-bounds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-rectangular-region-bounds)|Nov 02, 2017|
+|**Intuit**|[Department Headcounts and External Friendships](https://www.fastprep.io/problems/intuit-department-friendship-stats)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-department-friendship-stats)|Oct 25, 2017|
+|**Intuit**|[Maximum Island Area](https://www.fastprep.io/problems/intuit-maximum-island-area)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-maximum-island-area)|Oct 24, 2017|
+|**Intuit**|[Employee Friendship Adjacency from CSV](https://www.fastprep.io/problems/intuit-employee-friendship-adjacency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-employee-friendship-adjacency)|Oct 08, 2017|
 |**Intuit**|[Count Each Person's Direct Parents](https://www.fastprep.io/problems/intuit-direct-parent-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-direct-parent-counts)|Sep 17, 2017|
 |**ZipRecruiter**|[Iterate Ragged Integer Lists Vertically](https://www.fastprep.io/problems/ziprecruiter-vertical-nested-list-iteration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-vertical-nested-list-iteration)|May 11, 2017|
 |**ZipRecruiter**|[Fibonacci Number with Constant Extra Space](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Mar 10, 2017|
