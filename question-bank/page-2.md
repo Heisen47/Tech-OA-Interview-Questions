@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Kth Smallest Sum from Sorted Matrix Rows](https://www.fastprep.io/problems/amazon-kth-smallest-row-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-kth-smallest-row-sum)|Sep 13, 2026|
 |**Amazon**|[Meeting Room Scheduler](https://www.fastprep.io/problems/amazon-meeting-room-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-meeting-room-scheduler)|Sep 13, 2026|
 |**Amazon**|[E-commerce Notification Router](https://www.fastprep.io/problems/amazon-ecommerce-notification-router)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-ecommerce-notification-router)|Sep 13, 2026|
 |**Amazon**|[Unique String Permutations](https://www.fastprep.io/problems/amazon-unique-string-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-unique-string-permutations)|Sep 13, 2026|
@@ -532,7 +533,7 @@
 |**Adobe**|[Design an Extensible Tree Traversal Toolkit](https://www.fastprep.io/system-design/extensible-tree-traversal-toolkit)|System design|[![Practice][p]](https://www.fastprep.io/system-design/extensible-tree-traversal-toolkit)|Aug 16, 2026|
 |**Apple**|[Design Cross-Device Wallpaper Synchronization](https://www.fastprep.io/system-design/cross-device-wallpaper-sync)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-device-wallpaper-sync)|Aug 16, 2026|
 |**Meta**|[Find and Reconstruct a Binary-Matrix Path](https://www.fastprep.io/problems/meta-binary-matrix-path-reconstruction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-binary-matrix-path-reconstruction)|Aug 16, 2026|
-|**Snowflake**|[Design Calendar Client State and Recurrence](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence)|System design|[![Practice][p]](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence)|Aug 15, 2026|
+|**Snowflake / Notion**|[Design Calendar Client State and Recurrence](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence)|System design|[![Practice][p]](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence)|Aug 15, 2026|
 |**Microsoft**|[Desktop Notification Center](https://www.fastprep.io/low-level-design/desktop-notification-center)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/desktop-notification-center)|Aug 15, 2026|
 |**Microsoft**|[Design Grounded Local Sports Recommendations](https://www.fastprep.io/system-design/local-sports-rag-recommendations)|System design|[![Practice][p]](https://www.fastprep.io/system-design/local-sports-rag-recommendations)|Aug 15, 2026|
 |**Navan**|[Design and Implement a Flight Status Notification Center](https://www.fastprep.io/low-level-design/flight-status-notification-center)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-status-notification-center)|Aug 15, 2026|
@@ -723,7 +724,7 @@
 |**Cresta**|[Rightward Bacteria Consumption](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cresta-rightward-bacteria-consumption)|Jul 28, 2026|
 |**Google**|[Distributed Quoted-Log Tokenization](https://www.fastprep.io/system-design/distributed-quoted-log-tokenization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-quoted-log-tokenization)|Jul 28, 2026|
 |**Uber**|[Rolling Stock Price Alert System](https://www.fastprep.io/system-design/rolling-stock-price-alert-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-stock-price-alert-system)|Jul 28, 2026|
-|**Bloomberg LP**|[Refactor a Cache for Pluggable Eviction Policies](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Jul 28, 2026|
+|**Bloomberg LP / Adobe**|[Refactor a Cache for Pluggable Eviction Policies](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-cache-eviction-policies)|Jul 28, 2026|
 |**Wells Fargo**|[Longest Subsequence That Is a Substring](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-subsequence-substring)|Jul 28, 2026|
 |**Wells Fargo**|[Overloaded Game Account Inventories](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|SQL|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|Jul 28, 2026|
 |**Rippling**|[LFU Cache with LRU Tie-Breaking](https://www.fastprep.io/problems/rippling-lfu-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-lfu-cache)|Jul 28, 2026|
@@ -1753,5 +1754,4 @@
 |**JP Morgan**|[Balanced Sum](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Jun 18, 2025|
 |**JP Morgan**|[Get Min Operations](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Jun 18, 2025|
 |**JP Morgan**|[Get Search Result](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Jun 18, 2025|
-|**JP Morgan**|[One Substring Count](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Jun 18, 2025|
 <a id="bottom"></a>
