@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Duolingo**|[Most-Read Page Across Every Valid Storyline](https://www.fastprep.io/problems/duolingo-most-read-story-page)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Oct 03, 2022|
 |**Duolingo**|[Directional Tiles: Find a Valid Reconfiguration Path](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|Oct 03, 2022|
 |**Duolingo**|[Visit Desired Attractions Without Reusing a Trail](https://www.fastprep.io/problems/duolingo-visit-attractions-without-reusing-trails)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-visit-attractions-without-reusing-trails)|Oct 03, 2022|
 |**ZipRecruiter**|[Advance or Jump to the Next Special Line](https://www.fastprep.io/problems/ziprecruiter-line-navigation)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-line-navigation)|Oct 02, 2022|

@@ -9,8 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**JP Morgan**|[Find Total Weight](https://www.fastprep.io/problems/jpmorgan-find-total-weight)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-find-total-weight)|Jun 18, 2025|
-|**PayPay**|[Sum Consecutive Identical Digits](https://www.fastprep.io/problems/paypay-sum-consecutive-identical-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypay-sum-consecutive-identical-digits)|Jun 18, 2025|
 |**PayPay**|[Board Coloring and Query Processing](https://www.fastprep.io/problems/paypay-board-coloring-and-query-processing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypay-board-coloring-and-query-processing)|Jun 18, 2025|
 |**PayPay**|[Palindromic Array Transformation](https://www.fastprep.io/problems/paypay-palindromic-array-transformation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypay-palindromic-array-transformation)|Jun 18, 2025|
 |**PayPay**|[Calculate Change](https://www.fastprep.io/problems/paypay-calculate-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypay-calculate-change)|Jun 18, 2025|
@@ -1847,4 +1845,6 @@
 |**Intuit**|[Longest Common Contiguous String Sequence](https://www.fastprep.io/problems/intuit-longest-common-string-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-common-string-sequence)|Sep 29, 2018|
 |**Nutanix**|[Repair Circular Linked List Insert and Split](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|Sep 26, 2018|
 |**Nutanix**|[Repair a Linked-List Merge Sort That Removes Duplicates](https://www.fastprep.io/project-coding/nutanix-repair-linked-list-merge-sort-unique)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-linked-list-merge-sort-unique)|Aug 17, 2018|
+|**Apple**|[Next Leaf in an Ordered Tree](https://www.fastprep.io/problems/apple-next-leaf-in-ordered-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-next-leaf-in-ordered-tree)|May 17, 2018|
+|**Bloomberg LP**|[Group Values into Equivalence Classes](https://www.fastprep.io/problems/bloomberg-group-equivalence-classes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-group-equivalence-classes)|May 16, 2018|
 <a id="bottom"></a>

@@ -9,8 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Amazon**|[Unique String Permutations](https://www.fastprep.io/problems/amazon-unique-string-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-unique-string-permutations)|Sep 13, 2026|
-|**Amazon**|[Three Sum Closest](https://www.fastprep.io/problems/amazon-three-sum-closest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-three-sum-closest)|Sep 13, 2026|
 |**Amazon**|[Product of Array Except Self](https://www.fastprep.io/problems/amazon-product-array-except-self)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-product-array-except-self)|Sep 13, 2026|
 |**Amazon**|[Maximum Sum BST in a Binary Tree](https://www.fastprep.io/problems/amazon-maximum-sum-bst)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-sum-bst)|Sep 13, 2026|
 |**Amazon**|[Initial and Final Accounts in a Transfer Chain](https://www.fastprep.io/problems/amazon-transfer-chain-endpoints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-transfer-chain-endpoints)|Sep 13, 2026|
@@ -1754,4 +1752,6 @@
 |**JP Morgan**|[Get Min Operations](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Jun 18, 2025|
 |**JP Morgan**|[Get Search Result](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Jun 18, 2025|
 |**JP Morgan**|[One Substring Count](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Jun 18, 2025|
+|**JP Morgan**|[Find Total Weight](https://www.fastprep.io/problems/jpmorgan-find-total-weight)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-find-total-weight)|Jun 18, 2025|
+|**PayPay**|[Sum Consecutive Identical Digits](https://www.fastprep.io/problems/paypay-sum-consecutive-identical-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypay-sum-consecutive-identical-digits)|Jun 18, 2025|
 <a id="bottom"></a>

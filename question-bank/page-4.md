@@ -9,8 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Apple**|[Next Leaf in an Ordered Tree](https://www.fastprep.io/problems/apple-next-leaf-in-ordered-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-next-leaf-in-ordered-tree)|May 17, 2018|
-|**Bloomberg LP**|[Group Values into Equivalence Classes](https://www.fastprep.io/problems/bloomberg-group-equivalence-classes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-group-equivalence-classes)|May 16, 2018|
 |**Bloomberg LP**|[Implement a Dynamic Array Vector](https://www.fastprep.io/problems/bloomberg-implement-dynamic-array-vector)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-implement-dynamic-array-vector)|May 16, 2018|
 |**Bloomberg LP**|[Longest Palindromic Substring](https://www.fastprep.io/problems/bloomberg-longest-palindromic-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-longest-palindromic-substring)|May 16, 2018|
 |**Morgan Stanley**|[Design a Company Payroll Allocation Database](https://www.fastprep.io/system-design/company-payroll-allocation-database)|System design|[![Practice][p]](https://www.fastprep.io/system-design/company-payroll-allocation-database)|May 11, 2018|

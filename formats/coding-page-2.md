@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Two Sigma**|[Closest Color](https://www.fastprep.io/problems/two-sigma-closest-color)|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-closest-color)|Jul 10, 2026|
 |**TCS**|[Array Rank Transform](https://www.fastprep.io/problems/tcs-array-rank-transform)|[![Practice][p]](https://www.fastprep.io/problems/tcs-array-rank-transform)|Jul 10, 2026|
 |**Codeium**|[Biggest Connected Component](https://www.fastprep.io/problems/codeium-biggest-connected-component)|[![Practice][p]](https://www.fastprep.io/problems/codeium-biggest-connected-component)|Jul 10, 2026|
 |**Flexport**|[Choose the Next Hidden-Word Guess](https://www.fastprep.io/problems/flexport-next-word-guess)|[![Practice][p]](https://www.fastprep.io/problems/flexport-next-word-guess)|Jul 10, 2026|
@@ -1942,4 +1941,5 @@
 |**Intuit**|[Cookie Monster Minimum Arrival Time](https://www.fastprep.io/problems/intuit-cookie-monster-escape)|[![Practice][p]](https://www.fastprep.io/problems/intuit-cookie-monster-escape)|Oct 05, 2022|
 |**ZipRecruiter**|[Pop Matching Balloon Neighborhoods](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|Oct 04, 2022|
 |**ZipRecruiter**|[Count Prioritized Binary-Run Operations](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|Oct 04, 2022|
+|**Duolingo**|[Most-Read Page Across Every Valid Storyline](https://www.fastprep.io/problems/duolingo-most-read-story-page)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Oct 03, 2022|
 <a id="bottom"></a>
