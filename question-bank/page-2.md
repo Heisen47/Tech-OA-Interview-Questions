@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Meeting Room Scheduler](https://www.fastprep.io/problems/amazon-meeting-room-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-meeting-room-scheduler)|Sep 13, 2026|
+|**Amazon**|[E-commerce Notification Router](https://www.fastprep.io/problems/amazon-ecommerce-notification-router)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-ecommerce-notification-router)|Sep 13, 2026|
+|**Amazon**|[Unique String Permutations](https://www.fastprep.io/problems/amazon-unique-string-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-unique-string-permutations)|Sep 13, 2026|
+|**Amazon**|[Three Sum Closest](https://www.fastprep.io/problems/amazon-three-sum-closest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-three-sum-closest)|Sep 13, 2026|
 |**Amazon**|[Product of Array Except Self](https://www.fastprep.io/problems/amazon-product-array-except-self)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-product-array-except-self)|Sep 13, 2026|
 |**Amazon**|[Maximum Sum BST in a Binary Tree](https://www.fastprep.io/problems/amazon-maximum-sum-bst)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-sum-bst)|Sep 13, 2026|
 |**Amazon**|[Initial and Final Accounts in a Transfer Chain](https://www.fastprep.io/problems/amazon-transfer-chain-endpoints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-transfer-chain-endpoints)|Sep 13, 2026|
@@ -187,7 +191,6 @@
 |**Syfe**|[Allocate And Release Brokerage Inventory](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-inventory-allocation)|Sep 09, 2026|
 |**Get My Parking**|[List Failed And TTL-Expired Pending Payments](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/failed-and-expired-pending-transactions)|Sep 09, 2026|
 |**LinkedIn**|[Design a High-Throughput Single-Node Key-Value Store](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|Sep 09, 2026|
-|**Tesla**|[Design a Content Delivery Network](https://www.fastprep.io/system-design/content-delivery-network)|System design|[![Practice][p]](https://www.fastprep.io/system-design/content-delivery-network)|Sep 09, 2026|
 |**Nuro / Motive**|[Design a Vehicle Sensor and Obstacle Data Platform](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|Sep 09, 2026|
 |**Nuro**|[Design Petabyte-Scale Range Search for Large Rows](https://www.fastprep.io/system-design/large-row-range-query-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-row-range-query-search)|Sep 09, 2026|
 |**Verkada**|[Build SQLite-Backed GET and POST Endpoints](https://www.fastprep.io/project-coding/verkada-sqlite-backed-get-post-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/verkada-sqlite-backed-get-post-api)|Sep 09, 2026|
@@ -1123,7 +1126,6 @@
 |**Hudson River Trading**|[Integer to String Without Built-ins](https://www.fastprep.io/problems/hudson-river-trading-integer-to-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudson-river-trading-integer-to-string)|May 13, 2026|
 |**Waymo**|[Decode Repeated Groups](https://www.fastprep.io/problems/waymo-decode-repeated-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-decode-repeated-groups)|May 13, 2026|
 |**Deloitte**|[Seventh Nearest Palindrome](https://www.fastprep.io/problems/deloitte-seventh-nearest-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deloitte-seventh-nearest-palindrome)|May 12, 2026|
-|**Anduril**|[Design and Implement a Doubly Linked List](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design)|May 12, 2026|
 |**Uber**|[Maximal Square Area](https://www.fastprep.io/problems/uber-maximal-square-area)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-maximal-square-area)|May 11, 2026|
 |**Snowflake**|[Closest Bathroom / Desk on a Grid](https://www.fastprep.io/problems/snowflake-closest-bathroom-desk-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-closest-bathroom-desk-grid)|May 11, 2026|
 |**Snowflake**|[Minimum Index Distance Between Person and Cake](https://www.fastprep.io/problems/snowflake-minimum-index-distance-between-person-and-cake)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-index-distance-between-person-and-cake)|May 11, 2026|
@@ -1752,6 +1754,4 @@
 |**JP Morgan**|[Get Min Operations](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Jun 18, 2025|
 |**JP Morgan**|[Get Search Result](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Jun 18, 2025|
 |**JP Morgan**|[One Substring Count](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Jun 18, 2025|
-|**JP Morgan**|[Find Total Weight](https://www.fastprep.io/problems/jpmorgan-find-total-weight)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-find-total-weight)|Jun 18, 2025|
-|**PayPay**|[Sum Consecutive Identical Digits](https://www.fastprep.io/problems/paypay-sum-consecutive-identical-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypay-sum-consecutive-identical-digits)|Jun 18, 2025|
 <a id="bottom"></a>
