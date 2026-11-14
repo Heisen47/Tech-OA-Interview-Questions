@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**JP Morgan**|[One Substring Count](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Jun 18, 2025|
 |**JP Morgan**|[Find Total Weight](https://www.fastprep.io/problems/jpmorgan-find-total-weight)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-find-total-weight)|Jun 18, 2025|
 |**PayPay**|[Sum Consecutive Identical Digits](https://www.fastprep.io/problems/paypay-sum-consecutive-identical-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypay-sum-consecutive-identical-digits)|Jun 18, 2025|
 |**PayPay**|[Board Coloring and Query Processing](https://www.fastprep.io/problems/paypay-board-coloring-and-query-processing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/paypay-board-coloring-and-query-processing)|Jun 18, 2025|
@@ -1847,4 +1846,5 @@
 |**Intuit**|[Resolve Inherited Server Configuration](https://www.fastprep.io/problems/intuit-inherited-server-configuration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-inherited-server-configuration)|Nov 03, 2018|
 |**Intuit**|[Longest Common Contiguous String Sequence](https://www.fastprep.io/problems/intuit-longest-common-string-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-common-string-sequence)|Sep 29, 2018|
 |**Nutanix**|[Repair Circular Linked List Insert and Split](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|Sep 26, 2018|
+|**Nutanix**|[Repair a Linked-List Merge Sort That Removes Duplicates](https://www.fastprep.io/project-coding/nutanix-repair-linked-list-merge-sort-unique)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-linked-list-merge-sort-unique)|Aug 17, 2018|
 <a id="bottom"></a>

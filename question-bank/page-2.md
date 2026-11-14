@@ -9,7 +9,6 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-|**Amazon**|[Kth Smallest Sum from Sorted Matrix Rows](https://www.fastprep.io/problems/amazon-kth-smallest-row-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-kth-smallest-row-sum)|Sep 13, 2026|
 |**Amazon**|[Meeting Room Scheduler](https://www.fastprep.io/problems/amazon-meeting-room-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-meeting-room-scheduler)|Sep 13, 2026|
 |**Amazon**|[E-commerce Notification Router](https://www.fastprep.io/problems/amazon-ecommerce-notification-router)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-ecommerce-notification-router)|Sep 13, 2026|
 |**Amazon**|[Unique String Permutations](https://www.fastprep.io/problems/amazon-unique-string-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-unique-string-permutations)|Sep 13, 2026|
@@ -1754,4 +1753,5 @@
 |**JP Morgan**|[Balanced Sum](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Jun 18, 2025|
 |**JP Morgan**|[Get Min Operations](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Jun 18, 2025|
 |**JP Morgan**|[Get Search Result](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Jun 18, 2025|
+|**JP Morgan**|[One Substring Count](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Jun 18, 2025|
 <a id="bottom"></a>

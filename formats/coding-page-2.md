@@ -8,8 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**TCS**|[Array Rank Transform](https://www.fastprep.io/problems/tcs-array-rank-transform)|[![Practice][p]](https://www.fastprep.io/problems/tcs-array-rank-transform)|Jul 10, 2026|
-|**Codeium**|[Biggest Connected Component](https://www.fastprep.io/problems/codeium-biggest-connected-component)|[![Practice][p]](https://www.fastprep.io/problems/codeium-biggest-connected-component)|Jul 10, 2026|
 |**Flexport**|[Choose the Next Hidden-Word Guess](https://www.fastprep.io/problems/flexport-next-word-guess)|[![Practice][p]](https://www.fastprep.io/problems/flexport-next-word-guess)|Jul 10, 2026|
 |**Apple**|[Phone Directory](https://www.fastprep.io/problems/apple-phone-directory)|[![Practice][p]](https://www.fastprep.io/problems/apple-phone-directory)|Jul 10, 2026|
 |**Okta**|[CD Rental System](https://www.fastprep.io/problems/okta-cd-rental-system)|[![Practice][p]](https://www.fastprep.io/problems/okta-cd-rental-system)|Jul 10, 2026|
@@ -1942,4 +1940,6 @@
 |**ZipRecruiter**|[Pop Matching Balloon Neighborhoods](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|Oct 04, 2022|
 |**ZipRecruiter**|[Count Prioritized Binary-Run Operations](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|Oct 04, 2022|
 |**Duolingo**|[Most-Read Page Across Every Valid Storyline](https://www.fastprep.io/problems/duolingo-most-read-story-page)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Oct 03, 2022|
+|**Duolingo**|[Directional Tiles: Find a Valid Reconfiguration Path](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|Oct 03, 2022|
+|**Duolingo**|[Visit Desired Attractions Without Reusing a Trail](https://www.fastprep.io/problems/duolingo-visit-attractions-without-reusing-trails)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-visit-attractions-without-reusing-trails)|Oct 03, 2022|
 <a id="bottom"></a>
