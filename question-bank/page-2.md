@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Task Scheduler](https://www.fastprep.io/problems/amazon-task-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-task-scheduler)|Sep 13, 2026|
+|**Amazon**|[Merge Intervals](https://www.fastprep.io/problems/amazon-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-merge-intervals)|Sep 13, 2026|
+|**Amazon**|[K Closest Elements in a Sorted Array](https://www.fastprep.io/problems/amazon-k-closest-elements-in-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-k-closest-elements-in-sorted-array)|Sep 13, 2026|
+|**Amazon**|[Fare Between Stops on a Train Route](https://www.fastprep.io/problems/amazon-train-route-fare)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-train-route-fare)|Sep 13, 2026|
+|**Amazon**|[Find the Safest Path in a Grid](https://www.fastprep.io/problems/amazon-find-safest-path-in-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-safest-path-in-grid)|Sep 13, 2026|
 |**Amazon**|[Stack with Constant-Time Middle Queries](https://www.fastprep.io/problems/amazon-middle-stack-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-middle-stack-operations)|Sep 13, 2026|
 |**Amazon**|[Decode an Encoded String](https://www.fastprep.io/problems/amazon-decode-encoded-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-decode-encoded-string)|Sep 13, 2026|
 |**Amazon**|[Minimum Moves for Two Knights to Meet](https://www.fastprep.io/problems/amazon-two-knights-minimum-meeting-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-two-knights-minimum-meeting-moves)|Sep 13, 2026|
@@ -806,7 +811,6 @@
 |**OnePay**|[Design a Community Chat Platform](https://www.fastprep.io/system-design/community-chat-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-chat-platform)|Jul 23, 2026|
 |**OnePay**|[Count Complete Toll Journeys](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|Jul 23, 2026|
 |**OnePay**|[Per-Segment Speeding](https://www.fastprep.io/problems/onepay-per-segment-speeding)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onepay-per-segment-speeding)|Jul 23, 2026|
-|**Datadog**|[Build a Snowflake Query Client](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-snowflake-query-client)|Jul 23, 2026|
 |**Bloomberg LP**|[Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Jul 22, 2026|
 |**Microsoft**|[Binary String Swap Time](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Jul 22, 2026|
 |**Microsoft**|[Minimum Effort Task Schedule](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Jul 22, 2026|
@@ -1410,7 +1414,6 @@
 |**Stripe**|[Filter Contacts by Email Domain](https://www.fastprep.io/problems/stripe-contact-domain-filter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-contact-domain-filter)|Jan 16, 2026|
 |**Bloomberg LP**|[Design a Wordle Game Round](https://www.fastprep.io/low-level-design/wordle-game-round)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/wordle-game-round)|Jan 16, 2026|
 |**Citadel**|[Four-Exit Roundabout Simulator](https://www.fastprep.io/low-level-design/four-exit-roundabout-simulator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/four-exit-roundabout-simulator)|Jan 16, 2026|
-|**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|Jan 15, 2026|
 |**Motive**|[Group Anagrams](https://www.fastprep.io/problems/motive-group-anagrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-group-anagrams)|Jan 15, 2026|
 |**Motive**|[Longest Equal-Zero-One Subarray](https://www.fastprep.io/problems/motive-longest-equal-zero-one-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-longest-equal-zero-one-subarray)|Jan 15, 2026|
 |**Motive**|[Maximum Weighted Sum After Left Rotations](https://www.fastprep.io/problems/motive-maximum-weighted-left-rotation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-maximum-weighted-left-rotation)|Jan 15, 2026|
@@ -1750,7 +1753,4 @@
 |**Fortinet**|[Signal Pings](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Jun 24, 2025|
 |**Box**|[Retention Policy Collision](https://www.fastprep.io/problems/box-find-remaining-policies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-find-remaining-policies)|Jun 24, 2025|
 |**Box**|[Counterfeit Currency](https://www.fastprep.io/problems/box-count-counterfeit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-count-counterfeit)|Jun 24, 2025|
-|**Box**|[Box Fro~yo](https://www.fastprep.io/problems/box-flavor-changer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-flavor-changer)|Jun 24, 2025|
-|**Amazon**|[Predict Answer](https://www.fastprep.io/problems/amazon-predict-answer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-predict-answer)|Jun 23, 2025|
-|**Motive**|[Restore IP Addresses](https://www.fastprep.io/problems/motive-restore-ip-addresses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-restore-ip-addresses)|Jun 21, 2025|
 <a id="bottom"></a>

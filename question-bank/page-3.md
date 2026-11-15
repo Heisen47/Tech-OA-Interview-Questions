@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Box**|[Box Fro~yo](https://www.fastprep.io/problems/box-flavor-changer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-flavor-changer)|Jun 24, 2025|
+|**Amazon**|[Predict Answer](https://www.fastprep.io/problems/amazon-predict-answer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-predict-answer)|Jun 23, 2025|
+|**Motive**|[Restore IP Addresses](https://www.fastprep.io/problems/motive-restore-ip-addresses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-restore-ip-addresses)|Jun 21, 2025|
 |**Apple**|[Longest Valid Parentheses](https://www.fastprep.io/problems/apple-longest-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-longest-valid-parentheses)|Jun 20, 2025|
 |**Apple**|[Valid Parentheses](https://www.fastprep.io/problems/apple-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-valid-parentheses)|Jun 20, 2025|
 |**Amazon**|[Get Min Subsegments](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Jun 18, 2025|
@@ -1846,6 +1849,4 @@
 |**Deloitte**|[Top N Longest Sentences](https://www.fastprep.io/problems/deloitte-top-n-longest-sentences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deloitte-top-n-longest-sentences)|Feb 12, 2019|
 |**Intuit**|[Do Two People Share a Strict Ancestor?](https://www.fastprep.io/problems/intuit-share-strict-ancestor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-share-strict-ancestor)|Feb 10, 2019|
 |**Benchling**|[2048 Move Simulator](https://www.fastprep.io/problems/benchling-2048-game-simulator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-2048-game-simulator)|Feb 03, 2019|
-|**Benchling**|[Minimum Genetic Mutation](https://www.fastprep.io/problems/benchling-minimum-genetic-mutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-minimum-genetic-mutation)|Feb 03, 2019|
-|**Apple**|[Design a Recursive DNS Resolver](https://www.fastprep.io/system-design/recursive-dns-resolver)|System design|[![Practice][p]](https://www.fastprep.io/system-design/recursive-dns-resolver)|Jan 22, 2019|
 <a id="bottom"></a>

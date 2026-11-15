@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Benchling**|[Minimum Genetic Mutation](https://www.fastprep.io/problems/benchling-minimum-genetic-mutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-minimum-genetic-mutation)|Feb 03, 2019|
+|**Apple**|[Design a Recursive DNS Resolver](https://www.fastprep.io/system-design/recursive-dns-resolver)|System design|[![Practice][p]](https://www.fastprep.io/system-design/recursive-dns-resolver)|Jan 22, 2019|
 |**Mygate**|[Count Vowels and Consonants](https://www.fastprep.io/problems/mygate-count-vowels-consonants)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mygate-count-vowels-consonants)|Jan 19, 2019|
 |**Mygate**|[Merge Sorted Arrays with Duplicates](https://www.fastprep.io/problems/mygate-merge-arrays-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mygate-merge-arrays-duplicates)|Jan 19, 2019|
 |**Datadog**|[Longest Common URL History Run](https://www.fastprep.io/problems/datadog-longest-common-url-run)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-longest-common-url-run)|Jan 15, 2019|
