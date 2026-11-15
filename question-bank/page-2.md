@@ -9,6 +9,15 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Stack with Constant-Time Middle Queries](https://www.fastprep.io/problems/amazon-middle-stack-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-middle-stack-operations)|Sep 13, 2026|
+|**Amazon**|[Decode an Encoded String](https://www.fastprep.io/problems/amazon-decode-encoded-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-decode-encoded-string)|Sep 13, 2026|
+|**Amazon**|[Minimum Moves for Two Knights to Meet](https://www.fastprep.io/problems/amazon-two-knights-minimum-meeting-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-two-knights-minimum-meeting-moves)|Sep 13, 2026|
+|**Amazon**|[Bit at an Index After Repeated Binary Expansion](https://www.fastprep.io/problems/amazon-indexed-bit-after-binary-expansion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-indexed-bit-after-binary-expansion)|Sep 13, 2026|
+|**Amazon**|[Minimum Window Substring](https://www.fastprep.io/problems/amazon-minimum-window-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-window-substring)|Sep 13, 2026|
+|**Amazon**|[Maximize Distance to the Closest Occupied Seat](https://www.fastprep.io/problems/amazon-maximize-distance-to-closest-person)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-distance-to-closest-person)|Sep 13, 2026|
+|**Amazon**|[Validate a Two-Color Chessboard](https://www.fastprep.io/problems/amazon-validate-two-color-chessboard)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-validate-two-color-chessboard)|Sep 13, 2026|
+|**Amazon**|[Longest Common Subsequence Length](https://www.fastprep.io/problems/amazon-longest-common-subsequence-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-common-subsequence-length)|Sep 13, 2026|
+|**Amazon**|[Count Uni-Valued Subtrees](https://www.fastprep.io/problems/amazon-count-univalued-subtrees)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-univalued-subtrees)|Sep 13, 2026|
 |**Amazon**|[Next Palindromic Time](https://www.fastprep.io/problems/amazon-next-palindromic-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-next-palindromic-time)|Sep 13, 2026|
 |**Amazon**|[Kth Smallest Sum from Sorted Matrix Rows](https://www.fastprep.io/problems/amazon-kth-smallest-row-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-kth-smallest-row-sum)|Sep 13, 2026|
 |**Amazon**|[Meeting Room Scheduler](https://www.fastprep.io/problems/amazon-meeting-room-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-meeting-room-scheduler)|Sep 13, 2026|
@@ -1198,7 +1207,6 @@
 |**Meta**|[Design an Event Attendance Prediction Service](https://www.fastprep.io/system-design/event-attendance-prediction-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-attendance-prediction-service)|Apr 24, 2026|
 |**Meta**|[Repair and Extend a Maze Solver](https://www.fastprep.io/project-coding/meta-maze-solver)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/meta-maze-solver)|Apr 24, 2026|
 |**Duolingo**|[Rank Word-Translation Hints from Sentence Translations](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Apr 21, 2026|
-|**Scale AI**|[Repair Contractor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|Apr 21, 2026|
 |**Point72**|[Initial Public Offering](https://www.fastprep.io/problems/point72-initial-public-offering)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-initial-public-offering)|Apr 19, 2026|
 |**Duolingo**|[Encrypt and Decrypt Strings](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Apr 17, 2026|
 |**Mistral AI**|[GPU Capacity With Limited Cluster Switching](https://www.fastprep.io/problems/mistral-ai-gpu-cluster-switching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mistral-ai-gpu-cluster-switching)|Apr 16, 2026|
@@ -1745,13 +1753,4 @@
 |**Box**|[Box Fro~yo](https://www.fastprep.io/problems/box-flavor-changer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-flavor-changer)|Jun 24, 2025|
 |**Amazon**|[Predict Answer](https://www.fastprep.io/problems/amazon-predict-answer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-predict-answer)|Jun 23, 2025|
 |**Motive**|[Restore IP Addresses](https://www.fastprep.io/problems/motive-restore-ip-addresses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-restore-ip-addresses)|Jun 21, 2025|
-|**Apple**|[Longest Valid Parentheses](https://www.fastprep.io/problems/apple-longest-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-longest-valid-parentheses)|Jun 20, 2025|
-|**Apple**|[Valid Parentheses](https://www.fastprep.io/problems/apple-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-valid-parentheses)|Jun 20, 2025|
-|**Amazon**|[Get Min Subsegments](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Jun 18, 2025|
-|**Amazon**|[Find Security Level](https://www.fastprep.io/problems/amazon-find-security-level)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-security-level)|Jun 18, 2025|
-|**Amazon**|[Minimize Variation](https://www.fastprep.io/problems/amazon-minimize-variation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-variation)|Jun 18, 2025|
-|**JP Morgan**|[Calculate Net Profit](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|Jun 18, 2025|
-|**JP Morgan**|[Balanced Sum](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Jun 18, 2025|
-|**JP Morgan**|[Get Min Operations](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Jun 18, 2025|
-|**JP Morgan**|[Get Search Result](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Jun 18, 2025|
 <a id="bottom"></a>
