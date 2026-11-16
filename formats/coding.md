@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**4,144 questions**
+**4,145 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -605,6 +605,7 @@
 |**Capital One**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|Oct 01, 2026|
 |**Capital One**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|Oct 01, 2026|
 |**Capital One**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|Oct 01, 2026|
+|**Capital One**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|Oct 01, 2026|
 |**Microsoft**|[K Most Recent Unique Request IDs](https://www.fastprep.io/problems/microsoft-k-most-recent-unique-request-ids)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-k-most-recent-unique-request-ids)|Oct 01, 2026|
 |**Microsoft**|[Shortest Board Length to Cover Holes](https://www.fastprep.io/problems/microsoft-cover-holes)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-cover-holes)|Oct 01, 2026|
 |**Microsoft**|[Prepare Notification](https://www.fastprep.io/problems/microsoft-prepare-notification)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-prepare-notification)|Oct 01, 2026|
@@ -1829,5 +1830,4 @@
 |**Amazon**|[Domain Weight Calculation](https://www.fastprep.io/problems/amazon-domain-weight-calculation)|[![Practice][p]](https://www.fastprep.io/problems/amazon-domain-weight-calculation)|Jul 10, 2026|
 |**Amazon**|[Minimum Contiguous Replacements](https://www.fastprep.io/problems/amazon-minimum-contiguous-replacements)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-contiguous-replacements)|Jul 10, 2026|
 |**Walmart**|[K-Capable Model Costs](https://www.fastprep.io/problems/walmart-k-capable-model-costs)|[![Practice][p]](https://www.fastprep.io/problems/walmart-k-capable-model-costs)|Jul 10, 2026|
-|**Google**|[Ad Rotation Scheduler With Cooldown](https://www.fastprep.io/problems/google-ad-rotation-scheduler-with-cooldown)|[![Practice][p]](https://www.fastprep.io/problems/google-ad-rotation-scheduler-with-cooldown)|Jul 10, 2026|
 <a id="bottom"></a>

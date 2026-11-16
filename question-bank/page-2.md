@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Distance Between Two Tree Nodes](https://www.fastprep.io/problems/amazon-distance-between-tree-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-distance-between-tree-nodes)|Sep 13, 2026|
+|**Amazon**|[Longest Increasing Subsequence With Bounded Adjacent Difference](https://www.fastprep.io/problems/amazon-longest-increasing-subsequence-bounded-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-increasing-subsequence-bounded-difference)|Sep 13, 2026|
 |**Amazon**|[Task Scheduler](https://www.fastprep.io/problems/amazon-task-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-task-scheduler)|Sep 13, 2026|
 |**Amazon**|[Merge Intervals](https://www.fastprep.io/problems/amazon-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-merge-intervals)|Sep 13, 2026|
 |**Amazon**|[K Closest Elements in a Sorted Array](https://www.fastprep.io/problems/amazon-k-closest-elements-in-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-k-closest-elements-in-sorted-array)|Sep 13, 2026|
@@ -1058,7 +1060,6 @@
 |**Klaviyo**|[Design a CRM Marketing Campaign Platform](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crm-marketing-campaign-platform)|Jun 24, 2026|
 |**Globalization Partners**|[Design an Extensible Role-Based Access Control System](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-role-based-access-control)|Jun 23, 2026|
 |**Google**|[Design Student Room Preference Allocation](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/student-room-preference-allocation)|Jun 23, 2026|
-|**Datadog**|[Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|Jun 22, 2026|
 |**HSBC**|[Find ID of Soldier](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-id-of-soldier)|Jun 21, 2026|
 |**HSBC**|[Find Most Frequently Purchased Products](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products)|Jun 21, 2026|
 |**Amazon**|[Maximum Equal Parts for Prefixes](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes)|Jun 19, 2026|
@@ -1752,5 +1753,4 @@
 |**Fortinet**|[Madam C.J. Walker's Business Plan](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Jun 24, 2025|
 |**Fortinet**|[K-Means Clustering](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Jun 24, 2025|
 |**Fortinet**|[Signal Pings](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Jun 24, 2025|
-|**Box**|[Retention Policy Collision](https://www.fastprep.io/problems/box-find-remaining-policies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-find-remaining-policies)|Jun 24, 2025|
 <a id="bottom"></a>
