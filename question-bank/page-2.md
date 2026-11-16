@@ -1045,6 +1045,7 @@
 |**Expedia**|[Maximum Team Size](https://www.fastprep.io/problems/expedia-maximum-team-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/expedia-maximum-team-size)|Jun 29, 2026|
 |**Datadog**|[Mean Binary Focal Loss](https://www.fastprep.io/problems/datadog-binary-focal-loss)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-binary-focal-loss)|Jun 28, 2026|
 |**Datadog**|[Grouped-Query Attention Forward Pass](https://www.fastprep.io/problems/datadog-grouped-query-attention)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-grouped-query-attention)|Jun 28, 2026|
+|**exacare ai**|[Design an RSS Feed Backend with Web Push Notifications](https://www.fastprep.io/system-design/rss-feed-web-push-notification-backend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rss-feed-web-push-notification-backend)|Jun 28, 2026|
 |**SeekOut**|[Merge Intervals](https://www.fastprep.io/problems/seekout-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/seekout-merge-intervals)|Jun 27, 2026|
 |**Headlands Technologies**|[Market Order Book](https://www.fastprep.io/problems/headlands-market-order-book)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-market-order-book)|Jun 25, 2026|
 |**Amazon**|[Repair Workflow Team Editing and Deletion](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|Jun 25, 2026|
@@ -1752,5 +1753,4 @@
 |**Fortinet**|[K-Means Clustering](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Jun 24, 2025|
 |**Fortinet**|[Signal Pings](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Jun 24, 2025|
 |**Box**|[Retention Policy Collision](https://www.fastprep.io/problems/box-find-remaining-policies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-find-remaining-policies)|Jun 24, 2025|
-|**Box**|[Counterfeit Currency](https://www.fastprep.io/problems/box-count-counterfeit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-count-counterfeit)|Jun 24, 2025|
 <a id="bottom"></a>

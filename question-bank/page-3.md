@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Box**|[Counterfeit Currency](https://www.fastprep.io/problems/box-count-counterfeit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-count-counterfeit)|Jun 24, 2025|
 |**Box**|[Box Fro~yo](https://www.fastprep.io/problems/box-flavor-changer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-flavor-changer)|Jun 24, 2025|
 |**Amazon**|[Predict Answer](https://www.fastprep.io/problems/amazon-predict-answer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-predict-answer)|Jun 23, 2025|
 |**Motive**|[Restore IP Addresses](https://www.fastprep.io/problems/motive-restore-ip-addresses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-restore-ip-addresses)|Jun 21, 2025|
@@ -47,6 +48,7 @@
 |**Cloudflare**|[Determine Min Partitions Required](https://www.fastprep.io/problems/cloudflare-determine-min-partitions-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cloudflare-determine-min-partitions-required)|May 31, 2025|
 |**Atlassian**|[Diagnose and Scale a Recipe Commerce Service](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|System design|[![Practice][p]](https://www.fastprep.io/system-design/recipe-commerce-performance-review)|May 31, 2025|
 |**Atlassian**|[Migrate an Ethernet Appliance to a Microcontroller](https://www.fastprep.io/system-design/embedded-appliance-platform-port)|System design|[![Practice][p]](https://www.fastprep.io/system-design/embedded-appliance-platform-port)|May 31, 2025|
+|**exacare ai**|[Design Medication Data Import from Multiple Providers](https://www.fastprep.io/system-design/multi-provider-medication-data-import)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-provider-medication-data-import)|May 29, 2025|
 |**PeopleStrong**|[Shortest Subarray with an Exact Target Sum](https://www.fastprep.io/problems/peoplestrong-minimum-exact-sum-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-minimum-exact-sum-subarray)|May 28, 2025|
 |**PeopleStrong**|[Number of Provinces](https://www.fastprep.io/problems/peoplestrong-number-of-provinces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-number-of-provinces)|May 28, 2025|
 |**PeopleStrong**|[Detect a Cycle in a Linked List](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/peoplestrong-linked-list-cycle)|May 28, 2025|
@@ -1847,6 +1849,4 @@
 |**Deloitte**|[Parameterized Divisibility Labels](https://www.fastprep.io/problems/deloitte-parameterized-divisibility-labels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deloitte-parameterized-divisibility-labels)|Feb 12, 2019|
 |**Deloitte**|[Sorted Character Frequencies](https://www.fastprep.io/problems/deloitte-sorted-character-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deloitte-sorted-character-frequencies)|Feb 12, 2019|
 |**Deloitte**|[Top N Longest Sentences](https://www.fastprep.io/problems/deloitte-top-n-longest-sentences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deloitte-top-n-longest-sentences)|Feb 12, 2019|
-|**Intuit**|[Do Two People Share a Strict Ancestor?](https://www.fastprep.io/problems/intuit-share-strict-ancestor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-share-strict-ancestor)|Feb 10, 2019|
-|**Benchling**|[2048 Move Simulator](https://www.fastprep.io/problems/benchling-2048-game-simulator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-2048-game-simulator)|Feb 03, 2019|
 <a id="bottom"></a>
