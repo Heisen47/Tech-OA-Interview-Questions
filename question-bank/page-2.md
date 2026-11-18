@@ -1359,6 +1359,7 @@
 |**Figma**|[Symmetric Binary Tree](https://www.fastprep.io/problems/figma-symmetric-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-symmetric-binary-tree)|Feb 07, 2026|
 |**DoorDash**|[Minimum Batches Within a Time Window](https://www.fastprep.io/problems/doordash-minimum-time-window-batches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-minimum-time-window-batches)|Feb 07, 2026|
 |**DoorDash**|[Minimum Riders for Delivery Intervals](https://www.fastprep.io/problems/doordash-minimum-delivery-riders)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-minimum-delivery-riders)|Feb 07, 2026|
+|**Sentry**|[Design and Implement a Dependency-Aware Package Manager](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Feb 07, 2026|
 |**Hebbia**|[LRU Cache Snapshot Printer](https://www.fastprep.io/problems/hebbia-cache-snapshot-printer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-cache-snapshot-printer)|Feb 06, 2026|
 |**Salesforce**|[Collect Opportunity Data in a Tree](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-collect-opportunity-data-in-a-tree)|Feb 06, 2026|
 |**Salesforce**|[Replace '?' to Avoid Adjacent Duplicates](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-replace-question-mark-to-avoid-adjacent-duplicates)|Feb 06, 2026|
@@ -1751,6 +1752,4 @@
 |**SpaceX**|[Pressure Chamber Linear Interpolation](https://www.fastprep.io/problems/spacex-pressure-chamber-linear-interpolation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-pressure-chamber-linear-interpolation)|Jun 26, 2025|
 |**Fortinet**|[Madam C.J. Walker's Business Plan](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Jun 24, 2025|
 |**Fortinet**|[K-Means Clustering](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Jun 24, 2025|
-|**Fortinet**|[Signal Pings](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Jun 24, 2025|
-|**Box**|[Retention Policy Collision](https://www.fastprep.io/problems/box-find-remaining-policies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-find-remaining-policies)|Jun 24, 2025|
 <a id="bottom"></a>

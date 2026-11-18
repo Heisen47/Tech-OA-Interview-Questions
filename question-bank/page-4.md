@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Hartford Financial Services**|[Swap Adjacent Character Pairs](https://www.fastprep.io/problems/hartford-swap-adjacent-character-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hartford-swap-adjacent-character-pairs)|Mar 27, 2019|
+|**Airbnb**|[Minimum Wizard Referral Cost](https://www.fastprep.io/problems/airbnb-minimum-wizard-referral-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-minimum-wizard-referral-cost)|Mar 11, 2019|
+|**Airbnb**|[Count Decreasing Triplets](https://www.fastprep.io/problems/airbnb-count-decreasing-triplets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-count-decreasing-triplets)|Mar 05, 2019|
+|**Airbnb**|[Missing Words](https://www.fastprep.io/problems/airbnb-missing-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-missing-words)|Mar 05, 2019|
 |**Benchling**|[Apply Overlapping HTML Formatting Ranges](https://www.fastprep.io/problems/benchling-html-formatting-ranges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/benchling-html-formatting-ranges)|Feb 28, 2019|
 |**Deloitte**|[Parameterized Divisibility Labels](https://www.fastprep.io/problems/deloitte-parameterized-divisibility-labels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deloitte-parameterized-divisibility-labels)|Feb 12, 2019|
 |**Deloitte**|[Sorted Character Frequencies](https://www.fastprep.io/problems/deloitte-sorted-character-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deloitte-sorted-character-frequencies)|Feb 12, 2019|

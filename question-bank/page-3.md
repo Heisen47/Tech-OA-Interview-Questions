@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Fortinet**|[Signal Pings](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Jun 24, 2025|
+|**Box**|[Retention Policy Collision](https://www.fastprep.io/problems/box-find-remaining-policies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-find-remaining-policies)|Jun 24, 2025|
 |**Box**|[Counterfeit Currency](https://www.fastprep.io/problems/box-count-counterfeit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-count-counterfeit)|Jun 24, 2025|
 |**Box**|[Box Fro~yo](https://www.fastprep.io/problems/box-flavor-changer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-flavor-changer)|Jun 24, 2025|
 |**Amazon**|[Predict Answer](https://www.fastprep.io/problems/amazon-predict-answer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-predict-answer)|Jun 23, 2025|
@@ -787,6 +789,7 @@
 |**Citadel**|[Get Recommended Friends](https://www.fastprep.io/problems/citadel-get-recommended-friends)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-get-recommended-friends)|Jul 10, 2024|
 |**Goldman Sachs**|[Alphanumeric Combinations](https://www.fastprep.io/problems/goldman-alphanumeric-combinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-alphanumeric-combinations)|Jul 10, 2024|
 |**Amazon**|[Max Consecutive ON Servers](https://www.fastprep.io/problems/amazon-get-max-consecutive-on)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-consecutive-on)|Jul 09, 2024|
+|**Capital One**|[Accounting Automation Repair](https://www.fastprep.io/project-coding/capital-one-accounting-automation-repair)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/capital-one-accounting-automation-repair)|Jul 07, 2024|
 |**Skydio**|[Drone API Sliding-Window Rate Limiter](https://www.fastprep.io/problems/skydio-drone-api-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/skydio-drone-api-rate-limiter)|Jul 06, 2024|
 |**Retool**|[Next Consistent Wordle Guess](https://www.fastprep.io/problems/retool-next-wordle-guess)|Coding|[![Practice][p]](https://www.fastprep.io/problems/retool-next-wordle-guess)|Jun 30, 2024|
 |**Retool**|[Wordle Feedback](https://www.fastprep.io/problems/retool-wordle-feedback)|Coding|[![Practice][p]](https://www.fastprep.io/problems/retool-wordle-feedback)|Jun 30, 2024|
@@ -1011,7 +1014,6 @@
 |**Zscaler**|[Count Sentences](https://www.fastprep.io/problems/zscaler-count-sentences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-count-sentences)|Mar 09, 2024|
 |**WhatNot**|[Split Text into Fixed-Length Chunks](https://www.fastprep.io/problems/whatnot-fixed-length-string-split)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-fixed-length-string-split)|Mar 09, 2024|
 |**Sentry**|[Five-Minute Hit Counter](https://www.fastprep.io/problems/sentry-five-minute-hit-counter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sentry-five-minute-hit-counter)|Mar 08, 2024|
-|**Sentry**|[Design and Implement a Dependency-Aware Package Manager](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dependency-aware-package-manager)|Mar 08, 2024|
 |**Optiver**|[Get Biggest Lions](https://www.fastprep.io/problems/get-biggest-lions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-biggest-lions)|Mar 06, 2024|
 |**Airbnb**|[Minimum Eating Speed](https://www.fastprep.io/problems/airbnb-minimum-eating-speed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-minimum-eating-speed)|Mar 06, 2024|
 |**Google**|[Largest Lexicographical Substring](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Mar 05, 2024|
@@ -1354,6 +1356,7 @@
 |**ZipRecruiter**|[Count Prefix-Related Word Pairs](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|Feb 07, 2023|
 |**ZipRecruiter**|[Longest Common Normalized Path Suffix](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|Jan 26, 2023|
 |**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
+|**Sentry**|[Design an Inventory Tracking System](https://www.fastprep.io/low-level-design/store-inventory-tracking-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/store-inventory-tracking-system)|Jan 13, 2023|
 |**WhatNot**|[Group Anagram Names](https://www.fastprep.io/problems/whatnot-group-anagram-names)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-group-anagram-names)|Jan 10, 2023|
 |**Vanguard**|[Binge Watching](https://www.fastprep.io/problems/vanguard-binge-watching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-binge-watching)|Jan 02, 2023|
 |**ZipRecruiter**|[K-Group Digit-Sum Compression](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|Dec 28, 2022|
@@ -1837,6 +1840,7 @@
 |**Bloomberg LP**|[Generate Rand7 from Rand5](https://www.fastprep.io/problems/bloomberg-rand7-from-rand5)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-rand7-from-rand5)|Jul 12, 2019|
 |**Bloomberg LP**|[Random Removal from a Set](https://www.fastprep.io/problems/bloomberg-random-removal-from-set)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-random-removal-from-set)|Jul 12, 2019|
 |**Marshall Wace**|[Length of the Longest Common Subsequence](https://www.fastprep.io/problems/marshall-wace-longest-common-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-longest-common-subsequence)|Jun 23, 2019|
+|**Sentry**|[Design an Error SDK Breadcrumb Trail](https://www.fastprep.io/low-level-design/error-sdk-breadcrumb-trail)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/error-sdk-breadcrumb-trail)|Jun 11, 2019|
 |**Headlands Technologies**|[Numeric Wildcard Dictionary Matching](https://www.fastprep.io/problems/headlands-numeric-wildcard-dictionary-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-numeric-wildcard-dictionary-matching)|Jun 09, 2019|
 |**Apple**|[Elements After the First Target](https://www.fastprep.io/problems/apple-elements-after-target)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-elements-after-target)|May 30, 2019|
 |**Datadog**|[Console Website Monitor](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/datadog-console-website-monitor)|May 26, 2019|
@@ -1845,8 +1849,4 @@
 |**Airbnb**|[Paginate Search Results by Unique Host](https://www.fastprep.io/problems/airbnb-paginate-search-results)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-paginate-search-results)|May 12, 2019|
 |**Airbnb**|[Round Prices to Match Target](https://www.fastprep.io/problems/airbnb-round-prices-to-match-target)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-round-prices-to-match-target)|Apr 01, 2019|
 |**Hartford Financial Services**|[Bubble Sort](https://www.fastprep.io/problems/hartford-bubble-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hartford-bubble-sort)|Mar 27, 2019|
-|**Hartford Financial Services**|[Swap Adjacent Character Pairs](https://www.fastprep.io/problems/hartford-swap-adjacent-character-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hartford-swap-adjacent-character-pairs)|Mar 27, 2019|
-|**Airbnb**|[Minimum Wizard Referral Cost](https://www.fastprep.io/problems/airbnb-minimum-wizard-referral-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-minimum-wizard-referral-cost)|Mar 11, 2019|
-|**Airbnb**|[Count Decreasing Triplets](https://www.fastprep.io/problems/airbnb-count-decreasing-triplets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-count-decreasing-triplets)|Mar 05, 2019|
-|**Airbnb**|[Missing Words](https://www.fastprep.io/problems/airbnb-missing-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-missing-words)|Mar 05, 2019|
 <a id="bottom"></a>
