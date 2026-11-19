@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[All Simple Paths in an Undirected Graph](https://www.fastprep.io/problems/bloomberg-all-simple-paths-undirected-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-all-simple-paths-undirected-graph)|Nov 29, 2019|
+|**Palantir**|[Design an Ingredient Recipe and Cook Booking App](https://www.fastprep.io/system-design/ingredient-recipes-and-cook-booking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ingredient-recipes-and-cook-booking)|Nov 25, 2019|
+|**Bloomberg LP**|[N-ary Tree Right Side View](https://www.fastprep.io/problems/bloomberg-nary-tree-right-side-view)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-nary-tree-right-side-view)|Nov 19, 2019|
+|**Vanguard**|[Group Anagrams](https://www.fastprep.io/problems/vanguard-group-anagrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanguard-group-anagrams)|Nov 19, 2019|
 |**Bloomberg LP**|[Four-Direction Unique Grid Paths](https://www.fastprep.io/problems/bloomberg-four-direction-unique-grid-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-four-direction-unique-grid-paths)|Nov 16, 2019|
 |**Bloomberg LP**|[Implement Queue Using Stacks](https://www.fastprep.io/problems/bloomberg-implement-queue-using-stacks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-implement-queue-using-stacks)|Nov 16, 2019|
 |**Bloomberg LP**|[Rebuild Binary Tree from Level Order](https://www.fastprep.io/problems/bloomberg-rebuild-tree-from-level-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-rebuild-tree-from-level-order)|Nov 16, 2019|
@@ -76,6 +80,7 @@
 |**Datadog**|[Longest Common URL History Run](https://www.fastprep.io/problems/datadog-longest-common-url-run)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-longest-common-url-run)|Jan 15, 2019|
 |**Datadog**|[Subdomain Visit Counts](https://www.fastprep.io/problems/datadog-subdomain-visit-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-subdomain-visit-counts)|Jan 15, 2019|
 |**Intuit**|[Earliest Hour with Frequent Badge Access](https://www.fastprep.io/problems/intuit-earliest-frequent-access-hour)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-earliest-frequent-access-hour)|Dec 30, 2018|
+|**Capital One**|[Design Secure Storage for Customer Financial Data](https://www.fastprep.io/system-design/customer-financial-data-vault)|System design|[![Practice][p]](https://www.fastprep.io/system-design/customer-financial-data-vault)|Nov 10, 2018|
 |**Intuit**|[Resolve Inherited Server Configuration](https://www.fastprep.io/problems/intuit-inherited-server-configuration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-inherited-server-configuration)|Nov 03, 2018|
 |**Intuit**|[Longest Common Contiguous String Sequence](https://www.fastprep.io/problems/intuit-longest-common-string-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-longest-common-string-sequence)|Sep 29, 2018|
 |**Nutanix**|[Repair Circular Linked List Insert and Split](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nutanix-repair-circular-list-insert-and-split)|Sep 26, 2018|
@@ -96,6 +101,7 @@
 |**Intuit**|[Count Each Person's Direct Parents](https://www.fastprep.io/problems/intuit-direct-parent-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-direct-parent-counts)|Sep 17, 2017|
 |**ZipRecruiter**|[Iterate Ragged Integer Lists Vertically](https://www.fastprep.io/problems/ziprecruiter-vertical-nested-list-iteration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-vertical-nested-list-iteration)|May 11, 2017|
 |**ZipRecruiter**|[Fibonacci Number with Constant Extra Space](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-fibonacci-constant-space)|Mar 10, 2017|
+|**Capital One**|[Encrypt Every Customer File in a Folder](https://www.fastprep.io/project-coding/capital-one-encrypt-customer-files)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/capital-one-encrypt-customer-files)|Feb 21, 2017|
 |**ZipRecruiter**|[Design a Community URL Shortening Service](https://www.fastprep.io/system-design/community-url-shortening-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-url-shortening-service)|Feb 03, 2017|
 |**ZipRecruiter**|[Min Stack](https://www.fastprep.io/problems/ziprecruiter-min-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-min-stack)|Feb 03, 2017|
 |**Headlands Technologies**|[Text Pattern Matching with Stars](https://www.fastprep.io/problems/headlands-text-pattern-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-text-pattern-matching)|Jan 21, 2017|
