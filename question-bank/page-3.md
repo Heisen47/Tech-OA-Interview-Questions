@@ -9,6 +9,14 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Rippling**|[Server Upgrade Planning](https://www.fastprep.io/problems/rippling-server-upgrade-planning)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-server-upgrade-planning)|Jul 19, 2025|
+|**Rippling**|[Shortest Substring](https://www.fastprep.io/problems/rippling-shortest-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-shortest-substring)|Jul 19, 2025|
+|**Stripe**|[Indexed API Field Pattern Queries](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Jul 19, 2025|
+|**Rippling**|[Hash-Based Network Load](https://www.fastprep.io/problems/rippling-hash-based-network-load)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-hash-based-network-load)|Jul 19, 2025|
+|**Rippling**|[REST API: Energy Bar](https://www.fastprep.io/problems/rippling-rest-api-energy-bar)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-rest-api-energy-bar)|Jul 19, 2025|
+|**Abnormal Security**|[Find Duplicate Image Files](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|Jul 15, 2025|
+|**Klaviyo**|[Banking Transfers, Account Merges, and Historical Balances](https://www.fastprep.io/problems/klaviyo-banking-transfers-merges-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-banking-transfers-merges-history)|Jul 14, 2025|
+|**Klaviyo**|[In-Memory Database with Permanent and Expiring Values](https://www.fastprep.io/problems/klaviyo-in-memory-database-with-ttl)|Coding|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-in-memory-database-with-ttl)|Jul 13, 2025|
 |**Klaviyo**|[Design a Crypto Portfolio Purchase Experience](https://www.fastprep.io/system-design/crypto-portfolio-purchase-interface)|System design|[![Practice][p]](https://www.fastprep.io/system-design/crypto-portfolio-purchase-interface)|Jul 09, 2025|
 |**Klaviyo**|[Validate Input Against Length Bounds](https://www.fastprep.io/problems/klaviyo-input-length-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-input-length-validation)|Jul 09, 2025|
 |**Klaviyo**|[Render Sidebar Labels as HTML](https://www.fastprep.io/problems/klaviyo-render-sidebar-labels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/klaviyo-render-sidebar-labels)|Jul 09, 2025|
@@ -1592,6 +1600,7 @@
 |**ZipRecruiter**|[Add Two Numeric Strings with Carry](https://www.fastprep.io/problems/ziprecruiter-add-numeric-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-add-numeric-strings)|Nov 19, 2021|
 |**ZipRecruiter**|[Expand Decimal Digits into Runs of Ones](https://www.fastprep.io/problems/ziprecruiter-expand-digits-to-ones)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-expand-digits-to-ones)|Nov 19, 2021|
 |**ZipRecruiter**|[Website Pair with the Most Common Visitors](https://www.fastprep.io/problems/ziprecruiter-website-pair-common-visitors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-website-pair-common-visitors)|Nov 19, 2021|
+|**C3.ai**|[Design a Flight Seat Booking System](https://www.fastprep.io/low-level-design/flight-seat-booking-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-seat-booking-system)|Nov 19, 2021|
 |**FlexTrade**|[Merge Two Sorted Arrays](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|Nov 16, 2021|
 |**FlexTrade**|[Minimum Number of Taps to Water a Garden](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-minimum-number-of-taps-to-water-a-garden)|Nov 16, 2021|
 |**Bloomberg LP**|[Passing Cars](https://www.fastprep.io/problems/bloomberg-passing-cars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-passing-cars)|Nov 15, 2021|
@@ -1839,12 +1848,4 @@
 |**Bloomberg LP**|[Maximum Blocks in a Constrained Cave](https://www.fastprep.io/problems/bloomberg-maximum-blocks-in-cave)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-blocks-in-cave)|Oct 24, 2019|
 |**Bloomberg LP**|[Ordered Acknowledgement API](https://www.fastprep.io/problems/bloomberg-ordered-acknowledgement-api)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-ordered-acknowledgement-api)|Oct 24, 2019|
 |**Bloomberg LP**|[Symmetric Tree](https://www.fastprep.io/problems/bloomberg-symmetric-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-symmetric-tree)|Oct 24, 2019|
-|**Bloomberg LP**|[Transitive Greater-Than Relation Queries](https://www.fastprep.io/problems/bloomberg-transitive-greater-than-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-transitive-greater-than-queries)|Oct 24, 2019|
-|**SambaNova Systems**|[K Closest Points to the Origin](https://www.fastprep.io/problems/sambanova-k-closest-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-k-closest-points)|Oct 19, 2019|
-|**Bloomberg LP**|[Design an Ordered Document and Page Model](https://www.fastprep.io/low-level-design/ordered-document-page-word-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ordered-document-page-word-model)|Oct 17, 2019|
-|**Bloomberg LP**|[Missing Element in Sorted Array](https://www.fastprep.io/problems/bloomberg-missing-element-in-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-missing-element-in-sorted-array)|Oct 17, 2019|
-|**Marshall Wace**|[Minimum Winning Rounds with Limited All-In Bets](https://www.fastprep.io/problems/marshall-wace-limited-all-in-rounds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-limited-all-in-rounds)|Oct 17, 2019|
-|**Marshall Wace**|[Maximum Apples from Two Disjoint Fixed-Length Segments](https://www.fastprep.io/problems/marshall-wace-two-apple-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-two-apple-segments)|Oct 17, 2019|
-|**Airbnb**|[Resolve Battles](https://www.fastprep.io/problems/airbnb-resolve-battles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-resolve-battles)|Oct 16, 2019|
-|**Intuit**|[Merge Meeting Intervals](https://www.fastprep.io/problems/intuit-merge-meeting-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-merge-meeting-intervals)|Oct 16, 2019|
 <a id="bottom"></a>

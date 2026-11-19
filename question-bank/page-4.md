@@ -9,6 +9,14 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Transitive Greater-Than Relation Queries](https://www.fastprep.io/problems/bloomberg-transitive-greater-than-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-transitive-greater-than-queries)|Oct 24, 2019|
+|**SambaNova Systems**|[K Closest Points to the Origin](https://www.fastprep.io/problems/sambanova-k-closest-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-k-closest-points)|Oct 19, 2019|
+|**Bloomberg LP**|[Design an Ordered Document and Page Model](https://www.fastprep.io/low-level-design/ordered-document-page-word-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ordered-document-page-word-model)|Oct 17, 2019|
+|**Bloomberg LP**|[Missing Element in Sorted Array](https://www.fastprep.io/problems/bloomberg-missing-element-in-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-missing-element-in-sorted-array)|Oct 17, 2019|
+|**Marshall Wace**|[Minimum Winning Rounds with Limited All-In Bets](https://www.fastprep.io/problems/marshall-wace-limited-all-in-rounds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-limited-all-in-rounds)|Oct 17, 2019|
+|**Marshall Wace**|[Maximum Apples from Two Disjoint Fixed-Length Segments](https://www.fastprep.io/problems/marshall-wace-two-apple-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-two-apple-segments)|Oct 17, 2019|
+|**Airbnb**|[Resolve Battles](https://www.fastprep.io/problems/airbnb-resolve-battles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-resolve-battles)|Oct 16, 2019|
+|**Intuit**|[Merge Meeting Intervals](https://www.fastprep.io/problems/intuit-merge-meeting-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-merge-meeting-intervals)|Oct 16, 2019|
 |**Marshall Wace**|[Count Squares of Any Orientation](https://www.fastprep.io/problems/marshall-wace-count-squares-any-orientation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-count-squares-any-orientation)|Oct 15, 2019|
 |**Postman**|[Without Whitespaces](https://www.fastprep.io/problems/postman-without-whitespaces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-without-whitespaces)|Sep 26, 2019|
 |**JP Morgan Chase**|[Low-Cost Access to a File Archive](https://www.fastprep.io/system-design/low-cost-file-archive-access)|System design|[![Practice][p]](https://www.fastprep.io/system-design/low-cost-file-archive-access)|Sep 23, 2019|
