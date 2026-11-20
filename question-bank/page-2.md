@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Vanta**|[Implement uniq: Unique Lines](https://www.fastprep.io/problems/vanta-unique-lines-command)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanta-unique-lines-command)|Sep 14, 2026|
+|**Airwallex**|[Paginated K-Way Unique Merge](https://www.fastprep.io/problems/airwallex-paginated-k-way-unique-merge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airwallex-paginated-k-way-unique-merge)|Sep 14, 2026|
+|**Applied Intuition**|[Merge Overlapping Closed Intervals](https://www.fastprep.io/problems/applied-intuition-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/applied-intuition-merge-intervals)|Sep 14, 2026|
 |**LinkedIn**|[Restricted Decimal Number Validator](https://www.fastprep.io/problems/linkedin-restricted-decimal-number-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-restricted-decimal-number-validator)|Sep 14, 2026|
 |**LinkedIn**|[Second Minimum in a Tournament Tree](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|Sep 14, 2026|
 |**The Walt Disney Company**|[Resizable Array-Backed Integer Set](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|Coding|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|Sep 14, 2026|
@@ -502,7 +505,7 @@
 |**Microsoft**|[Design a Web Crawler and Inverted Index](https://www.fastprep.io/system-design/web-crawler-inverted-search-index)|System design|[![Practice][p]](https://www.fastprep.io/system-design/web-crawler-inverted-search-index)|Aug 23, 2026|
 |**Walmart / Crowdstrike**|[Design Multi-Cloud Blob Malware Scanning](https://www.fastprep.io/system-design/multicloud-blob-malware-scanning)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multicloud-blob-malware-scanning)|Aug 23, 2026|
 |**Salesforce / Bloomberg LP**|[Design a Connect Four Game](https://www.fastprep.io/low-level-design/connect-four-game-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/connect-four-game-domain)|Aug 23, 2026|
-|**Walmart**|[Design a Job Marketplace Domain](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|Aug 23, 2026|
+|**Walmart / Capital One**|[Design a Job Marketplace Domain](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain)|Aug 23, 2026|
 |**Barclays**|[Allocate Workers for a Production Ratio](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|Aug 22, 2026|
 |**Anthropic**|[Cloud Storage System](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|Aug 22, 2026|
 |**Google**|[Longest Unique Substring Range](https://www.fastprep.io/problems/google-longest-unique-substring-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-longest-unique-substring-range)|Aug 22, 2026|
@@ -863,7 +866,6 @@
 |**Amazon**|[Loyal Customers Across Two Days](https://www.fastprep.io/problems/amazon-loyal-customers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-loyal-customers)|Jul 21, 2026|
 |**Amazon**|[Smallest Number With a Given Digit Sum](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|Jul 21, 2026|
 |**Oracle**|[Merge k Sorted Lists](https://www.fastprep.io/problems/oracle-merge-k-sorted-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-merge-k-sorted-lists)|Jul 21, 2026|
-|**Amazon**|[Design Music Search, Playlists, and Playback](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|Jul 21, 2026|
 |**Capital One**|[Design an Online Banking System](https://www.fastprep.io/system-design/online-banking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-banking-system)|Jul 21, 2026|
 |**Airbnb**|[Most Frequent Reduced Digit](https://www.fastprep.io/problems/airbnb-most-frequent-reduced-digit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-most-frequent-reduced-digit)|Jul 20, 2026|
 |**Airbnb**|[Rectangle Fit Queries](https://www.fastprep.io/problems/airbnb-rectangle-fit-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-rectangle-fit-queries)|Jul 20, 2026|
@@ -1748,6 +1750,4 @@
 |**Tekion**|[Set Matrix Zeroes](https://www.fastprep.io/problems/tekion-set-matrix-zeroes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-set-matrix-zeroes)|Jul 26, 2025|
 |**TikTok**|[Can Reach the Exit with Teleports](https://www.fastprep.io/problems/tiktok-teleport-labyrinth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-teleport-labyrinth)|Jul 26, 2025|
 |**TikTok**|[Check Monotonic Triples](https://www.fastprep.io/problems/tiktok-check-monotonic-triples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-check-monotonic-triples)|Jul 26, 2025|
-|**TikTok**|[Shift Every K-th Consonant](https://www.fastprep.io/problems/tiktok-shift-every-kth-consonant)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-shift-every-kth-consonant)|Jul 26, 2025|
-|**Together AI**|[Find GPU Capacity and Drain a Node](https://www.fastprep.io/problems/together-ai-gpu-node-rescheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/together-ai-gpu-node-rescheduling)|Jul 26, 2025|
 <a id="bottom"></a>

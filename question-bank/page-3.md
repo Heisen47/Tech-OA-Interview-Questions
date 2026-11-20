@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Shift Every K-th Consonant](https://www.fastprep.io/problems/tiktok-shift-every-kth-consonant)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-shift-every-kth-consonant)|Jul 26, 2025|
+|**Together AI**|[Find GPU Capacity and Drain a Node](https://www.fastprep.io/problems/together-ai-gpu-node-rescheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/together-ai-gpu-node-rescheduling)|Jul 26, 2025|
 |**Virtu Financial**|[Count Substrings With Identical Characters](https://www.fastprep.io/problems/virtu-count-identical-character-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/virtu-count-identical-character-substrings)|Jul 26, 2025|
 |**Virtu Financial**|[HexSpeak](https://www.fastprep.io/problems/virtu-hexspeak)|Coding|[![Practice][p]](https://www.fastprep.io/problems/virtu-hexspeak)|Jul 26, 2025|
 |**Virtu Financial**|[Maximum Apples That Fit in a Box](https://www.fastprep.io/problems/virtu-maximum-apples-in-box)|Coding|[![Practice][p]](https://www.fastprep.io/problems/virtu-maximum-apples-in-box)|Jul 26, 2025|
@@ -890,6 +892,7 @@
 |**Figma**|[Nested Template Variable Expansion](https://www.fastprep.io/problems/figma-template-variable-expansion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-template-variable-expansion)|Jun 08, 2024|
 |**Figma**|[Parse, Validate, and Repair Markdown Formatting](https://www.fastprep.io/problems/figma-markdown-formatting-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-markdown-formatting-parser)|Jun 08, 2024|
 |**Motive**|[Resolve Variable Equations with Dependency Errors](https://www.fastprep.io/problems/motive-variable-equation-evaluator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-variable-equation-evaluator)|Jun 05, 2024|
+|**Capital One**|[Design Bank Accounts with Transaction History](https://www.fastprep.io/low-level-design/bank-customer-accounts-and-transaction-history)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/bank-customer-accounts-and-transaction-history)|Jun 04, 2024|
 |**Amazon**|[Optimizing Box Weights](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a)|Jun 02, 2024|
 |**Amazon**|[Find K Level Permutation](https://www.fastprep.io/problems/amazon-find-k-level-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-k-level-permutation)|Jun 02, 2024|
 |**Salesforce**|[Winning Square](https://www.fastprep.io/problems/salesforce-construct-winning-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-construct-winning-sequence)|Jun 02, 2024|
@@ -1845,7 +1848,4 @@
 |**Bloomberg LP**|[Generate All String Permutations](https://www.fastprep.io/problems/bloomberg-string-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-string-permutations)|Mar 15, 2020|
 |**Bloomberg LP**|[Course Schedule](https://www.fastprep.io/problems/bloomberg-course-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-course-schedule)|Mar 11, 2020|
 |**Bloomberg LP**|[Last Position of a Target in a Sorted Array](https://www.fastprep.io/problems/bloomberg-last-position-in-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-last-position-in-sorted-array)|Mar 11, 2020|
-|**Bloomberg LP**|[Three Calls Within Three Seconds](https://www.fastprep.io/problems/bloomberg-three-calls-within-three-seconds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-three-calls-within-three-seconds)|Feb 28, 2020|
-|**Bloomberg LP**|[Sort an Absolute-Value-Sorted Linked List](https://www.fastprep.io/problems/bloomberg-sort-absolute-value-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sort-absolute-value-linked-list)|Feb 25, 2020|
-|**London Stock Exchange**|[Implement a Queue Using an Array](https://www.fastprep.io/problems/london-stock-exchange-array-queue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/london-stock-exchange-array-queue)|Feb 19, 2020|
 <a id="bottom"></a>

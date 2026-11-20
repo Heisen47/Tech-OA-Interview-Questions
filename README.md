@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,145)](formats/coding.md) · [SQL (80)](formats/sql.md) · [System design (730)](formats/system-design.md) · [Low-level design (228)](formats/low-level-design.md) · [AI coding (159)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,145)](formats/coding.md) · [SQL (80)](formats/sql.md) · [System design (730)](formats/system-design.md) · [Low-level design (230)](formats/low-level-design.md) · [AI coding (159)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Design Music Search, Playlists, and Playback](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|🔥 Nov 20, 2026|
+|**Capital One**|[Design and Implement a Simple Web Chat](https://www.fastprep.io/low-level-design/simple-web-chat-object-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/simple-web-chat-object-model)|🔥 Nov 20, 2026|
 |**Bloomberg LP**|[Design a Book Upload and Search Service](https://www.fastprep.io/system-design/book-upload-and-search-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/book-upload-and-search-service)|🔥 Nov 19, 2026|
 |**Bloomberg LP**|[Design App Version Targeting for User Groups](https://www.fastprep.io/system-design/app-version-targeting-by-user-group)|System design|[![Practice][p]](https://www.fastprep.io/system-design/app-version-targeting-by-user-group)|🔥 Nov 19, 2026|
 |**Amazon / Meta / ByteDance / Harvey / Clio / Microsoft / Wayfair / Apple**|[Design a Cloud File Storage System](https://www.fastprep.io/system-design/cloud-file-storage)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-file-storage)|🔥 Nov 19, 2026|
@@ -1682,7 +1684,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Goldman Sachs**|[Insert, Delete, And Get Random In Constant Time](https://www.fastprep.io/problems/goldman-sachs-insert-delete-getrandom-o1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-insert-delete-getrandom-o1)|Sep 14, 2026|
 |**Goldman Sachs**|[Dungeon Health](https://www.fastprep.io/problems/goldman-sachs-dungeon-health)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-dungeon-health)|Sep 14, 2026|
 |**Goldman Sachs**|[Least Recently Used Cache](https://www.fastprep.io/problems/goldman-sachs-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-lru-cache)|Sep 14, 2026|
-|**Vanta**|[Implement uniq: Unique Lines](https://www.fastprep.io/problems/vanta-unique-lines-command)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanta-unique-lines-command)|Sep 14, 2026|
-|**Airwallex**|[Paginated K-Way Unique Merge](https://www.fastprep.io/problems/airwallex-paginated-k-way-unique-merge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airwallex-paginated-k-way-unique-merge)|Sep 14, 2026|
-|**Applied Intuition**|[Merge Overlapping Closed Intervals](https://www.fastprep.io/problems/applied-intuition-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/applied-intuition-merge-intervals)|Sep 14, 2026|
 <a id="bottom"></a>

@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Three Calls Within Three Seconds](https://www.fastprep.io/problems/bloomberg-three-calls-within-three-seconds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-three-calls-within-three-seconds)|Feb 28, 2020|
+|**Bloomberg LP**|[Sort an Absolute-Value-Sorted Linked List](https://www.fastprep.io/problems/bloomberg-sort-absolute-value-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sort-absolute-value-linked-list)|Feb 25, 2020|
+|**London Stock Exchange**|[Implement a Queue Using an Array](https://www.fastprep.io/problems/london-stock-exchange-array-queue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/london-stock-exchange-array-queue)|Feb 19, 2020|
 |**London Stock Exchange**|[Two Sum](https://www.fastprep.io/problems/london-stock-exchange-two-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/london-stock-exchange-two-sum)|Feb 19, 2020|
 |**London Stock Exchange**|[Two Sum in a Sorted Array](https://www.fastprep.io/problems/london-stock-exchange-two-sum-sorted)|Coding|[![Practice][p]](https://www.fastprep.io/problems/london-stock-exchange-two-sum-sorted)|Feb 19, 2020|
 |**London Stock Exchange**|[Palindrome Partitioning](https://www.fastprep.io/problems/london-stock-exchange-palindrome-partitioning)|Coding|[![Practice][p]](https://www.fastprep.io/problems/london-stock-exchange-palindrome-partitioning)|Feb 19, 2020|
