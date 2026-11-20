@@ -9,6 +9,15 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**London Stock Exchange**|[Two Sum](https://www.fastprep.io/problems/london-stock-exchange-two-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/london-stock-exchange-two-sum)|Feb 19, 2020|
+|**London Stock Exchange**|[Two Sum in a Sorted Array](https://www.fastprep.io/problems/london-stock-exchange-two-sum-sorted)|Coding|[![Practice][p]](https://www.fastprep.io/problems/london-stock-exchange-two-sum-sorted)|Feb 19, 2020|
+|**London Stock Exchange**|[Palindrome Partitioning](https://www.fastprep.io/problems/london-stock-exchange-palindrome-partitioning)|Coding|[![Practice][p]](https://www.fastprep.io/problems/london-stock-exchange-palindrome-partitioning)|Feb 19, 2020|
+|**London Stock Exchange**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/london-stock-exchange-lowest-common-ancestor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/london-stock-exchange-lowest-common-ancestor)|Feb 19, 2020|
+|**Microsoft**|[Design a Spreadsheet Next-Command Recommender](https://www.fastprep.io/system-design/spreadsheet-next-command-recommender)|System design|[![Practice][p]](https://www.fastprep.io/system-design/spreadsheet-next-command-recommender)|Feb 11, 2020|
+|**Datadog**|[Intersections of Two Interval Lists](https://www.fastprep.io/problems/datadog-interval-intersections)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-interval-intersections)|Feb 07, 2020|
+|**Bloomberg LP**|[Maximal Consecutive Number Ranges](https://www.fastprep.io/problems/bloomberg-consecutive-number-ranges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-consecutive-number-ranges)|Jan 04, 2020|
+|**Apple**|[First and Last Position in a Sorted Array](https://www.fastprep.io/problems/apple-first-and-last-position)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-first-and-last-position)|Dec 10, 2019|
+|**Google**|[Design an Incremental Spelling and Grammar Assistant](https://www.fastprep.io/system-design/incremental-spelling-and-grammar-assistant)|System design|[![Practice][p]](https://www.fastprep.io/system-design/incremental-spelling-and-grammar-assistant)|Dec 05, 2019|
 |**Bloomberg LP**|[All Simple Paths in an Undirected Graph](https://www.fastprep.io/problems/bloomberg-all-simple-paths-undirected-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-all-simple-paths-undirected-graph)|Nov 29, 2019|
 |**Palantir**|[Design an Ingredient Recipe and Cook Booking App](https://www.fastprep.io/system-design/ingredient-recipes-and-cook-booking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ingredient-recipes-and-cook-booking)|Nov 25, 2019|
 |**Bloomberg LP**|[N-ary Tree Right Side View](https://www.fastprep.io/problems/bloomberg-nary-tree-right-side-view)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-nary-tree-right-side-view)|Nov 19, 2019|

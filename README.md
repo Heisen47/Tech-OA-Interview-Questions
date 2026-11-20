@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,145)](formats/coding.md) · [SQL (80)](formats/sql.md) · [System design (724)](formats/system-design.md) · [Low-level design (225)](formats/low-level-design.md) · [AI coding (158)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,145)](formats/coding.md) · [SQL (80)](formats/sql.md) · [System design (730)](formats/system-design.md) · [Low-level design (228)](formats/low-level-design.md) · [AI coding (159)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -218,6 +218,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**The D.E. Shaw Group**|[Design a Snakes and Ladders Game](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/snakes-and-ladders-game)|🆕 Oct 30, 2026|
 |**Zomato / Eternal / Amazon / Tekion / Motive / Capgemini / Booking.com**|[Design an Online Ordering Platform](https://www.fastprep.io/system-design/online-ordering-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-ordering-platform)|🆕 Oct 30, 2026|
 |**Roblox**|[Candy Crush Grid Matching and Gravity](https://www.fastprep.io/problems/roblox-candy-crush-grid-matching-and-gravity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-candy-crush-grid-matching-and-gravity)|🆕 Oct 30, 2026|
+|**Bloomberg LP**|[Debug Seat Hold, Confirm and Cancel Rules](https://www.fastprep.io/project-coding/bloomberg-debug-seat-hold-booking)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/bloomberg-debug-seat-hold-booking)|🆕 Oct 30, 2026|
 |**Microsoft**|[Fewest Buses with the Full Route](https://www.fastprep.io/problems/microsoft-bus-routes-full-route)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-bus-routes-full-route)|🆕 Oct 29, 2026|
 |**Microsoft**|[Pizza Price Calculator](https://www.fastprep.io/problems/microsoft-pizza-price-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-pizza-price-calculator)|🆕 Oct 29, 2026|
 |**Oracle**|[Maximum Bouquet Value](https://www.fastprep.io/problems/oracle-maximum-bouquet-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-maximum-bouquet-value)|🆕 Oct 29, 2026|
@@ -397,6 +398,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Search a Row and Column Sorted Matrix](https://www.fastprep.io/problems/amazon-search-row-column-sorted-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-search-row-column-sorted-matrix)|🆕 Oct 22, 2026|
 |**Google**|[Maximum Subarray Endpoint Score](https://www.fastprep.io/problems/google-maximum-subarray-endpoint-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-subarray-endpoint-score)|🆕 Oct 22, 2026|
 |**LinkedIn**|[Valid Number with Exponents](https://www.fastprep.io/problems/linkedin-valid-number-with-exponents)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-valid-number-with-exponents)|🆕 Oct 22, 2026|
+|**Bloomberg LP**|[Design a Wordle Game Round](https://www.fastprep.io/low-level-design/wordle-game-round)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/wordle-game-round)|🆕 Oct 22, 2026|
 |**Roblox**|[Topological Sort with Secondary Ordering](https://www.fastprep.io/problems/roblox-topological-sort-with-secondary-ordering)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-topological-sort-with-secondary-ordering)|🆕 Oct 21, 2026|
 |**Confluent**|[Design a Podcast Subscription Feed API and Data Model](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|🆕 Oct 21, 2026|
 |**Amazon**|[Design a Pizza Ordering Domain](https://www.fastprep.io/low-level-design/pizza-order-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/pizza-order-domain)|🆕 Oct 21, 2026|
@@ -922,6 +924,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Kotak Mahindra Bank**|[Find the Index of the First Occurrence in a String](https://www.fastprep.io/problems/kotak-first-string-occurrence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kotak-first-string-occurrence)|Oct 04, 2026|
 |**Kotak Mahindra Bank**|[Subarrays Whose Sum Is a Power of Two](https://www.fastprep.io/problems/kotak-power-of-two-sum-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kotak-power-of-two-sum-subarrays)|Oct 04, 2026|
 |**Kotak Mahindra Bank**|[Roman to Integer](https://www.fastprep.io/problems/kotak-roman-to-integer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kotak-roman-to-integer)|Oct 04, 2026|
+|**Bloomberg LP**|[Design a Fair Job Scheduler for a Small Worker Pool](https://www.fastprep.io/system-design/fair-share-job-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fair-share-job-scheduler)|Oct 04, 2026|
 |**Google**|[Minimum Union of Two Routes](https://www.fastprep.io/problems/google-minimum-union-route-edges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-union-route-edges)|Oct 03, 2026|
 |**Microsoft**|[Design a Product Page Sharing and Rewards Platform](https://www.fastprep.io/system-design/product-page-sharing-and-rewards-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/product-page-sharing-and-rewards-platform)|Oct 03, 2026|
 |**Cohere**|[Enterprise Research Assistant](https://www.fastprep.io/system-design/enterprise-research-assistant)|System design|[![Practice][p]](https://www.fastprep.io/system-design/enterprise-research-assistant)|Oct 03, 2026|
@@ -1682,6 +1685,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Vanta**|[Implement uniq: Unique Lines](https://www.fastprep.io/problems/vanta-unique-lines-command)|Coding|[![Practice][p]](https://www.fastprep.io/problems/vanta-unique-lines-command)|Sep 14, 2026|
 |**Airwallex**|[Paginated K-Way Unique Merge](https://www.fastprep.io/problems/airwallex-paginated-k-way-unique-merge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airwallex-paginated-k-way-unique-merge)|Sep 14, 2026|
 |**Applied Intuition**|[Merge Overlapping Closed Intervals](https://www.fastprep.io/problems/applied-intuition-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/applied-intuition-merge-intervals)|Sep 14, 2026|
-|**LinkedIn**|[Restricted Decimal Number Validator](https://www.fastprep.io/problems/linkedin-restricted-decimal-number-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-restricted-decimal-number-validator)|Sep 14, 2026|
-|**LinkedIn**|[Second Minimum in a Tournament Tree](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|Sep 14, 2026|
 <a id="bottom"></a>
