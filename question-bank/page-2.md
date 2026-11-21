@@ -17,6 +17,7 @@
 |**The Walt Disney Company**|[Resizable Array-Backed Integer Set](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|Coding|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|Sep 14, 2026|
 |**Google**|[Find the Duplicate Number Without Modifying the Array](https://www.fastprep.io/problems/google-find-the-duplicate-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-the-duplicate-number)|Sep 14, 2026|
 |**Google**|[Set Matrix Zeroes](https://www.fastprep.io/problems/google-set-matrix-zeroes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-set-matrix-zeroes)|Sep 14, 2026|
+|**Bloomberg LP / Jane Street**|[Design a Stock Exchange Order-Matching Platform](https://www.fastprep.io/system-design/stock-exchange-matching-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/stock-exchange-matching-platform)|Sep 14, 2026|
 |**Citadel**|[Exchange BBO and Market-Wide NBBO](https://www.fastprep.io/problems/citadel-exchange-bbo-nbbo-order-book)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-exchange-bbo-nbbo-order-book)|Sep 13, 2026|
 |**Google**|[Determine Whether Two Horses Are Genetically Related](https://www.fastprep.io/problems/google-horse-genetic-relatedness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-horse-genetic-relatedness)|Sep 13, 2026|
 |**JP Morgan Chase**|[Spark Cluster Sizing for a 100 GB Workload](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|System design|[![Practice][p]](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|Sep 13, 2026|
@@ -1132,7 +1133,6 @@
 |**Notion**|[Nested Todo List](https://www.fastprep.io/problems/notion-nested-todo-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-nested-todo-list)|Jun 07, 2026|
 |**Hebbia**|[Detect a Winner on a 3x3 Tic-Tac-Toe Board](https://www.fastprep.io/problems/hebbia-tic-tac-toe-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-tic-tac-toe-winner)|Jun 06, 2026|
 |**OpenAI**|[Design Rate Limits for an LLM Inference API](https://www.fastprep.io/system-design/llm-inference-api-rate-limits)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-inference-api-rate-limits)|Jun 06, 2026|
-|**Bloomberg LP**|[Design a Stock Exchange Order-Matching Platform](https://www.fastprep.io/system-design/stock-exchange-matching-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/stock-exchange-matching-platform)|Jun 06, 2026|
 |**Amazon**|[Next Greater Element on a Stream](https://www.fastprep.io/problems/amazon-streaming-next-greater-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-streaming-next-greater-element)|Jun 05, 2026|
 |**Amazon**|[Design an E-commerce Recommendation Event Pipeline](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|Jun 05, 2026|
 |**Notion**|[Design a Calendar Search and Sync Platform](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|Jun 05, 2026|
@@ -1543,6 +1543,7 @@
 |**Datadog**|[Buffered File Writer with Partial Writes](https://www.fastprep.io/problems/datadog-buffered-file-writer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-buffered-file-writer)|Nov 25, 2025|
 |**BitGo**|[Design and Implement an In-Memory Relational Database Engine](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Nov 23, 2025|
 |**Bloomberg LP**|[Trapping Rain Water](https://www.fastprep.io/problems/bloomberg-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-trapping-rain-water)|Nov 23, 2025|
+|**Jane Street**|[Design the Order Messages Between a Trading Firm and an Exchange](https://www.fastprep.io/low-level-design/trading-firm-exchange-order-messages)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/trading-firm-exchange-order-messages)|Nov 23, 2025|
 |**Bloomberg LP**|[Design and Implement a Fair Event Registration Queue](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Nov 21, 2025|
 |**Bloomberg LP**|[Generate Wildcard Binary Strings](https://www.fastprep.io/problems/bloomberg-generate-wildcard-binary-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-generate-wildcard-binary-strings)|Nov 21, 2025|
 |**Apple**|[Compute TF-IDF Scores](https://www.fastprep.io/problems/apple-compute-tf-idf)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-compute-tf-idf)|Nov 21, 2025|
@@ -1748,6 +1749,4 @@
 |**Tekion**|[Minimum Size Subarray Sum With Negatives](https://www.fastprep.io/problems/tekion-minimum-size-subarray-sum-with-negatives)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-minimum-size-subarray-sum-with-negatives)|Jul 26, 2025|
 |**Tekion**|[Number of Islands](https://www.fastprep.io/problems/tekion-number-of-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-number-of-islands)|Jul 26, 2025|
 |**Tekion**|[Set Matrix Zeroes](https://www.fastprep.io/problems/tekion-set-matrix-zeroes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-set-matrix-zeroes)|Jul 26, 2025|
-|**TikTok**|[Can Reach the Exit with Teleports](https://www.fastprep.io/problems/tiktok-teleport-labyrinth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-teleport-labyrinth)|Jul 26, 2025|
-|**TikTok**|[Check Monotonic Triples](https://www.fastprep.io/problems/tiktok-check-monotonic-triples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-check-monotonic-triples)|Jul 26, 2025|
 <a id="bottom"></a>
