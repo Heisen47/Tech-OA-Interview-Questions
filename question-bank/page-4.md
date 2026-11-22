@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Instant Runoff Election](https://www.fastprep.io/problems/bloomberg-instant-runoff-election)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-instant-runoff-election)|Apr 08, 2020|
 |**Bloomberg LP**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/bloomberg-largest-rectangle-in-histogram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-largest-rectangle-in-histogram)|Apr 08, 2020|
 |**NVIDIA**|[Design a Versioned Flask Model Inference Service](https://www.fastprep.io/system-design/versioned-flask-model-inference-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/versioned-flask-model-inference-service)|Apr 04, 2020|
 |**Bloomberg LP**|[Browser History by Frequency and Recency](https://www.fastprep.io/problems/bloomberg-browser-history-frequency-recency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-browser-history-frequency-recency)|Apr 02, 2020|
