@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Nuro**|[Maximum Value for Two Delivery Robots](https://www.fastprep.io/problems/nuro-maximum-two-robot-delivery-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-maximum-two-robot-delivery-value)|Jul 26, 2025|
+|**OpenAI**|[Versioned Followers and Followees](https://www.fastprep.io/problems/openai-versioned-followers-and-followees)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-versioned-followers-and-followees)|Jul 26, 2025|
 |**OpenAI**|[Versioned Friend Recommendations](https://www.fastprep.io/problems/openai-versioned-friend-recommendations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-versioned-friend-recommendations)|Jul 26, 2025|
 |**Salesforce**|[Maximum Barbell Weight](https://www.fastprep.io/problems/salesforce-weight-capacity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-weight-capacity)|Jul 26, 2025|
 |**Salesforce**|[Minimum No-Repeat Segments After One Character Removal](https://www.fastprep.io/problems/salesforce-minimum-no-repeat-segments-after-removal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-no-repeat-segments-after-removal)|Jul 26, 2025|
@@ -166,6 +168,7 @@
 |**Amazon**|[Compute Beauty of Array Products](https://www.fastprep.io/problems/amazon-compute-beauty-of-array-products)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-compute-beauty-of-array-products)|Apr 27, 2025|
 |**Datadog**|[Count Repeated Word Occurrences](https://www.fastprep.io/problems/datadog-count-word-repetitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-count-word-repetitions)|Apr 23, 2025|
 |**Datadog**|[File Sizes Under Directory Paths](https://www.fastprep.io/problems/datadog-directory-file-sizes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-directory-file-sizes)|Apr 23, 2025|
+|**WhatNot**|[Design a Music Upload Service](https://www.fastprep.io/system-design/music-upload-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/music-upload-service)|Apr 23, 2025|
 |**Zip**|[Design Personalized Customer Document Search](https://www.fastprep.io/system-design/personalized-customer-document-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-customer-document-search)|Apr 21, 2025|
 |**Ramp**|[Convert Snake Case Variables to Camel Case](https://www.fastprep.io/problems/ramp-convert-snake-case-variables-to-camel-case)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-convert-snake-case-variables-to-camel-case)|Apr 20, 2025|
 |**Checkr**|[Design a Background-Check Processing Platform](https://www.fastprep.io/system-design/background-check-processing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/background-check-processing-platform)|Apr 19, 2025|
@@ -421,6 +424,7 @@
 |**Google**|[Maximize Points](https://www.fastprep.io/problems/google-maximize-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-points)|Nov 05, 2024|
 |**Google**|[Find Contiguous Subarray With Largest Min Plux Max](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Nov 05, 2024|
 |**Google**|[Design Road-Segment Travel-Time Prediction](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|Nov 05, 2024|
+|**WhatNot**|[Design the Home Feed for a Live Shopping App](https://www.fastprep.io/system-design/live-shopping-home-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-shopping-home-feed)|Nov 01, 2024|
 |**Clipboard Health**|[Design a Dimmer and Connected Bulbs System](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|Oct 31, 2024|
 |**Navan**|[Roman to Integer](https://www.fastprep.io/problems/navan-roman-to-integer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-roman-to-integer)|Oct 31, 2024|
 |**Navan**|[Sort Colors](https://www.fastprep.io/problems/navan-sort-colors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-sort-colors)|Oct 31, 2024|
@@ -1138,6 +1142,7 @@
 |**Intuit**|[Letter Candles](https://www.fastprep.io/problems/intuit-letter-candles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-letter-candles)|Feb 22, 2024|
 |**Intuit**|[Get Min Difference](https://www.fastprep.io/problems/intuit-get-minimum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-get-minimum-difference)|Feb 22, 2024|
 |**Microsoft**|[Maximize Difference](https://www.fastprep.io/problems/microsoft-maximizing-difference-in-array-elements-with-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximizing-difference-in-array-elements-with-moves)|Feb 22, 2024|
+|**WhatNot**|[Design Go-Live Notifications for Followers](https://www.fastprep.io/system-design/go-live-follower-notifications)|System design|[![Practice][p]](https://www.fastprep.io/system-design/go-live-follower-notifications)|Feb 22, 2024|
 |**JP Morgan**|[Min Operations](https://www.fastprep.io/problems/jpmorgan-get-minimum-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-minimum-operations)|Feb 21, 2024|
 |**JP Morgan**|[How Many Flips?](https://www.fastprep.io/problems/jpmorgan-minimum-flips)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-minimum-flips)|Feb 21, 2024|
 |**Roblox**|[Largest Value of Usage in Minutes](https://www.fastprep.io/problems/roblox-largest-value-of-usage-in-minutes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-largest-value-of-usage-in-minutes)|Feb 21, 2024|
@@ -1843,9 +1848,4 @@
 |**Meta**|[Design Offensive Ad Content Detection](https://www.fastprep.io/system-design/offensive-ad-content-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/offensive-ad-content-detection)|Jun 02, 2020|
 |**Bloomberg LP**|[Minimum in a Rotated Sorted Array](https://www.fastprep.io/problems/bloomberg-find-minimum-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-minimum-in-rotated-sorted-array)|May 20, 2020|
 |**Bloomberg LP**|[First Unique Letter, Case Insensitive](https://www.fastprep.io/problems/bloomberg-first-unique-letter-case-insensitive)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-first-unique-letter-case-insensitive)|May 20, 2020|
-|**Bloomberg LP**|[Stock Price Range over a Sliding Day Window](https://www.fastprep.io/problems/bloomberg-stock-price-range-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-stock-price-range-window)|May 11, 2020|
-|**Bloomberg LP**|[Trending Stock](https://www.fastprep.io/problems/bloomberg-trending-stock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-trending-stock)|May 11, 2020|
-|**Bloomberg LP**|[Sort Characters by Frequency](https://www.fastprep.io/problems/bloomberg-sort-characters-by-frequency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sort-characters-by-frequency)|May 09, 2020|
-|**Bloomberg LP**|[Minimum Insertions to Make a Palindrome](https://www.fastprep.io/problems/bloomberg-minimum-insertions-to-make-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-insertions-to-make-palindrome)|Apr 21, 2020|
-|**Bloomberg LP**|[Shortest Suffix to Form a Palindrome](https://www.fastprep.io/problems/bloomberg-shortest-suffix-to-form-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shortest-suffix-to-form-palindrome)|Apr 21, 2020|
 <a id="bottom"></a>

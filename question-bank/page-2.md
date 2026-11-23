@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Akuna Capital**|[Count Server Replacements](https://www.fastprep.io/problems/akuna-count-server-replacements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-count-server-replacements)|Sep 14, 2026|
+|**Akuna Capital**|[Maximum Remaining Drone Power](https://www.fastprep.io/problems/akuna-maximum-remaining-drone-power)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-remaining-drone-power)|Sep 14, 2026|
 |**Two Sigma**|[Online No-Intercept Linear Regression](https://www.fastprep.io/problems/two-sigma-online-no-intercept-linear-regression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-online-no-intercept-linear-regression)|Sep 14, 2026|
 |**Two Sigma**|[Linear Interpolator](https://www.fastprep.io/problems/two-sigma-linear-interpolator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-linear-interpolator)|Sep 14, 2026|
 |**Two Sigma**|[Daily Temperature By Town](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|SQL|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|Sep 14, 2026|
@@ -120,7 +122,6 @@
 |**SquadStack.ai**|[Minimum-Cost Digit String Decoding](https://www.fastprep.io/problems/squadstack-weighted-decode-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squadstack-weighted-decode-ways)|Sep 12, 2026|
 |**SquadStack.ai**|[Minimum Seats for One-Way Car Pooling](https://www.fastprep.io/problems/squadstack-minimum-seats-car-pooling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squadstack-minimum-seats-car-pooling)|Sep 12, 2026|
 |**SquadStack.ai**|[Find the Dominant Seller](https://www.fastprep.io/problems/squadstack-dominant-seller)|SQL|[![Practice][p]](https://www.fastprep.io/problems/squadstack-dominant-seller)|Sep 12, 2026|
-|**Amazon / Goldman Sachs**|[Repair recurring payments in the Wallet backend](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|Sep 12, 2026|
 |**Bobyard**|[Design an Ordered Canvas Operation Coordinator](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|Sep 12, 2026|
 |**Google / Microsoft**|[Design and Implement a Highway Toll Session Domain](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|Sep 12, 2026|
 |**ByteDance / The Walt Disney Company**|[Design an Advertiser Campaign Configuration Platform](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|Sep 12, 2026|
@@ -1096,6 +1097,7 @@
 |**Datadog**|[Grouped-Query Attention Forward Pass](https://www.fastprep.io/problems/datadog-grouped-query-attention)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-grouped-query-attention)|Jun 28, 2026|
 |**exacare ai**|[Design an RSS Feed Backend with Web Push Notifications](https://www.fastprep.io/system-design/rss-feed-web-push-notification-backend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rss-feed-web-push-notification-backend)|Jun 28, 2026|
 |**SeekOut**|[Merge Intervals](https://www.fastprep.io/problems/seekout-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/seekout-merge-intervals)|Jun 27, 2026|
+|**WhatNot**|[WhatNot: One-to-One Chat Service](https://www.fastprep.io/system-design/whatnot-one-to-one-chat-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/whatnot-one-to-one-chat-service)|Jun 26, 2026|
 |**Headlands Technologies**|[Market Order Book](https://www.fastprep.io/problems/headlands-market-order-book)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-market-order-book)|Jun 25, 2026|
 |**Amazon**|[Repair Workflow Team Editing and Deletion](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|Jun 25, 2026|
 |**ByteDance**|[Test Task Management User Assignments](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|Jun 25, 2026|
@@ -1133,6 +1135,7 @@
 |**Luma AI**|[Minimum Euclidean Distance Between Points](https://www.fastprep.io/problems/luma-ai-minimum-euclidean-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-minimum-euclidean-distance)|Jun 12, 2026|
 |**Luma AI**|[Impute Missing Values and Normalize Columns](https://www.fastprep.io/problems/luma-ai-impute-and-normalize-columns)|Coding|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-impute-and-normalize-columns)|Jun 12, 2026|
 |**Amazon**|[Design an Advertising Campaign Metrics Tracker](https://www.fastprep.io/low-level-design/advertising-campaign-metrics-tracker)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/advertising-campaign-metrics-tracker)|Jun 12, 2026|
+|**WhatNot**|[WhatNot: Design an Online Coding Practice Platform](https://www.fastprep.io/system-design/whatnot-online-coding-practice-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/whatnot-online-coding-practice-platform)|Jun 11, 2026|
 |**Rippling**|[In-Memory Fixed-Window Rate Limiter](https://www.fastprep.io/problems/rippling-in-memory-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-in-memory-rate-limiter)|Jun 10, 2026|
 |**Salesforce**|[Count Prime Strings](https://www.fastprep.io/problems/salesforce-count-prime-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-prime-strings)|Jun 10, 2026|
 |**Onehouse**|[Design a Thread-Safe In-Memory Workflow Orchestrator](https://www.fastprep.io/low-level-design/thread-safe-in-memory-workflow-orchestrator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-workflow-orchestrator)|Jun 10, 2026|
@@ -1297,7 +1300,6 @@
 |**Headlands Technologies**|[Pearson Correlation Coefficient](https://www.fastprep.io/problems/headlands-pearson-correlation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-pearson-correlation)|Apr 09, 2026|
 |**Headlands Technologies**|[Top K Frequent Elements](https://www.fastprep.io/problems/headlands-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/headlands-top-k-frequent-elements)|Apr 09, 2026|
 |**Modular**|[Critical Path Through Dependent Tasks](https://www.fastprep.io/problems/modular-critical-path-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/modular-critical-path-schedule)|Apr 08, 2026|
-|**Notion / Juniper Square**|[Design an Event Data Warehouse Platform](https://www.fastprep.io/system-design/event-data-warehouse-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-data-warehouse-platform)|Apr 08, 2026|
 |**Notion**|[DAG Downstream Nodes](https://www.fastprep.io/problems/notion-dag-downstream-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-dag-downstream-nodes)|Apr 08, 2026|
 |**WhatNot**|[Merge Sorted Squares of Two Arrays](https://www.fastprep.io/problems/whatnot-merge-sorted-squares-two-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-merge-sorted-squares-two-arrays)|Apr 08, 2026|
 |**WhatNot**|[Palindrome with One Deletion](https://www.fastprep.io/problems/whatnot-valid-palindrome-one-deletion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-valid-palindrome-one-deletion)|Apr 08, 2026|
@@ -1747,6 +1749,4 @@
 |**Meta**|[Count Key Changes](https://www.fastprep.io/problems/meta-count-key-changes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-count-key-changes)|Jul 26, 2025|
 |**Meta**|[Minimum Operations for a Stepwise Sequence](https://www.fastprep.io/problems/meta-minimum-stepwise-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-minimum-stepwise-operations)|Jul 26, 2025|
 |**Meta**|[Most Frequent Reduced Digit](https://www.fastprep.io/problems/meta-most-frequent-reduced-digit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-most-frequent-reduced-digit)|Jul 26, 2025|
-|**Nuro**|[Maximum Value for Two Delivery Robots](https://www.fastprep.io/problems/nuro-maximum-two-robot-delivery-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-maximum-two-robot-delivery-value)|Jul 26, 2025|
-|**OpenAI**|[Versioned Followers and Followees](https://www.fastprep.io/problems/openai-versioned-followers-and-followees)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-versioned-followers-and-followees)|Jul 26, 2025|
 <a id="bottom"></a>

@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Stock Price Range over a Sliding Day Window](https://www.fastprep.io/problems/bloomberg-stock-price-range-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-stock-price-range-window)|May 11, 2020|
+|**Bloomberg LP**|[Trending Stock](https://www.fastprep.io/problems/bloomberg-trending-stock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-trending-stock)|May 11, 2020|
+|**Bloomberg LP**|[Sort Characters by Frequency](https://www.fastprep.io/problems/bloomberg-sort-characters-by-frequency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sort-characters-by-frequency)|May 09, 2020|
+|**Bloomberg LP**|[Minimum Insertions to Make a Palindrome](https://www.fastprep.io/problems/bloomberg-minimum-insertions-to-make-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-insertions-to-make-palindrome)|Apr 21, 2020|
+|**Bloomberg LP**|[Shortest Suffix to Form a Palindrome](https://www.fastprep.io/problems/bloomberg-shortest-suffix-to-form-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shortest-suffix-to-form-palindrome)|Apr 21, 2020|
 |**Bloomberg LP**|[Valid Palindrome](https://www.fastprep.io/problems/bloomberg-valid-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-valid-palindrome)|Apr 21, 2020|
 |**Bloomberg LP**|[Binary Tree Inorder Traversal](https://www.fastprep.io/problems/bloomberg-binary-tree-inorder-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-inorder-traversal)|Apr 08, 2020|
 |**Bloomberg LP**|[Instant Runoff Election](https://www.fastprep.io/problems/bloomberg-instant-runoff-election)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-instant-runoff-election)|Apr 08, 2020|
