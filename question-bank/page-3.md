@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Meta**|[Most Frequent Reduced Digit](https://www.fastprep.io/problems/meta-most-frequent-reduced-digit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-most-frequent-reduced-digit)|Jul 26, 2025|
 |**Nuro**|[Maximum Value for Two Delivery Robots](https://www.fastprep.io/problems/nuro-maximum-two-robot-delivery-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-maximum-two-robot-delivery-value)|Jul 26, 2025|
 |**OpenAI**|[Versioned Followers and Followees](https://www.fastprep.io/problems/openai-versioned-followers-and-followees)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-versioned-followers-and-followees)|Jul 26, 2025|
 |**OpenAI**|[Versioned Friend Recommendations](https://www.fastprep.io/problems/openai-versioned-friend-recommendations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-versioned-friend-recommendations)|Jul 26, 2025|
@@ -466,6 +467,7 @@
 |**Amazon**|[Min Time to Create Beautiful Canvas](https://www.fastprep.io/problems/amazon-find-minimum-time-to-create-beautiful-canvas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time-to-create-beautiful-canvas)|Oct 11, 2024|
 |**Amazon**|[Rearrange Binary String](https://www.fastprep.io/problems/amazon-rearrange-binary-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-rearrange-binary-string)|Oct 11, 2024|
 |**Amazon**|[Sort Permutation](https://www.fastprep.io/problems/amazon-can-sort-permutation-in-given-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-can-sort-permutation-in-given-moves)|Oct 11, 2024|
+|**Bank of America**|[Design Crash Diagnosis and Fix Rollout for an Employee App](https://www.fastprep.io/system-design/employee-app-crash-diagnosis-and-fix-rollout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/employee-app-crash-diagnosis-and-fix-rollout)|Oct 11, 2024|
 |**Wells Fargo**|[Allocate Wells](https://www.fastprep.io/problems/wellsfargo-fair-distribution)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-fair-distribution)|Oct 09, 2024|
 |**Wells Fargo**|[Find Affected Systems](https://www.fastprep.io/problems/wellsfargo-shot-on-mi-a3-ai-triple-camera)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-shot-on-mi-a3-ai-triple-camera)|Oct 09, 2024|
 |**Wells Fargo**|[Max Distance](https://www.fastprep.io/problems/wellsfargo-find-maximum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-find-maximum-distance)|Oct 09, 2024|
@@ -1399,7 +1401,6 @@
 |**Marshall Wace**|[Maximum Frog Separation with One Upward Jump (Practice Reconstruction)](https://www.fastprep.io/problems/marshall-wace-one-jump-frog-separation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-one-jump-frog-separation)|Jul 23, 2023|
 |**Marshall Wace**|[Minimum Deletions Before Rearranging into a Palindrome](https://www.fastprep.io/problems/marshall-wace-palindrome-rearrangement-deletions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-palindrome-rearrangement-deletions)|Jul 23, 2023|
 |**Arcesium**|[Robo Data Sharing Direction](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Jul 17, 2023|
-|**WhatNot**|[Design a Livestream Ranking Serving API](https://www.fastprep.io/system-design/livestream-ranking-serving-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/livestream-ranking-serving-api)|Jul 14, 2023|
 |**Hudson River Trading**|[Design a Hit Counter with Disk-Backed Payloads](https://www.fastprep.io/low-level-design/hit-counter-with-disk-backed-payloads)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/hit-counter-with-disk-backed-payloads)|Jul 03, 2023|
 |**WhatNot**|[Design Daily JSON Ingestion into a Data Warehouse](https://www.fastprep.io/system-design/daily-json-warehouse-ingestion)|System design|[![Practice][p]](https://www.fastprep.io/system-design/daily-json-warehouse-ingestion)|Jun 30, 2023|
 |**Headlands Technologies**|[Design Distributed Unused-Code Analysis](https://www.fastprep.io/system-design/distributed-unused-code-analysis)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-unused-code-analysis)|Jun 28, 2023|
@@ -1847,5 +1848,4 @@
 |**Google**|[Design ML Landing-Page Optimization](https://www.fastprep.io/system-design/landing-page-optimization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/landing-page-optimization)|Jun 02, 2020|
 |**Meta**|[Design Offensive Ad Content Detection](https://www.fastprep.io/system-design/offensive-ad-content-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/offensive-ad-content-detection)|Jun 02, 2020|
 |**Bloomberg LP**|[Minimum in a Rotated Sorted Array](https://www.fastprep.io/problems/bloomberg-find-minimum-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-minimum-in-rotated-sorted-array)|May 20, 2020|
-|**Bloomberg LP**|[First Unique Letter, Case Insensitive](https://www.fastprep.io/problems/bloomberg-first-unique-letter-case-insensitive)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-first-unique-letter-case-insensitive)|May 20, 2020|
 <a id="bottom"></a>

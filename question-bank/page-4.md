@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[First Unique Letter, Case Insensitive](https://www.fastprep.io/problems/bloomberg-first-unique-letter-case-insensitive)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-first-unique-letter-case-insensitive)|May 20, 2020|
 |**Bloomberg LP**|[Stock Price Range over a Sliding Day Window](https://www.fastprep.io/problems/bloomberg-stock-price-range-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-stock-price-range-window)|May 11, 2020|
 |**Bloomberg LP**|[Trending Stock](https://www.fastprep.io/problems/bloomberg-trending-stock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-trending-stock)|May 11, 2020|
 |**Bloomberg LP**|[Sort Characters by Frequency](https://www.fastprep.io/problems/bloomberg-sort-characters-by-frequency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sort-characters-by-frequency)|May 09, 2020|

@@ -1370,6 +1370,7 @@
 |**OpenAI**|[Digit-Sum Sequence Join Point](https://www.fastprep.io/problems/openai-digit-sum-sequence-join)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-digit-sum-sequence-join)|Mar 09, 2026|
 |**OpenAI**|[Minimum Dining Table Rotations](https://www.fastprep.io/problems/openai-minimum-dining-table-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-minimum-dining-table-rotations)|Mar 09, 2026|
 |**Notion**|[Text Document History](https://www.fastprep.io/problems/notion-text-document-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-text-document-history)|Mar 08, 2026|
+|**WhatNot**|[Design a Livestream Ranking Serving API](https://www.fastprep.io/system-design/livestream-ranking-serving-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/livestream-ranking-serving-api)|Mar 07, 2026|
 |**Bloomberg LP**|[Two City Scheduling with an Odd Candidate Count](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|Mar 05, 2026|
 |**Ramp**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Mar 04, 2026|
 |**Stripe**|[Repair Template Lookup, Arguments and Includes](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|Mar 04, 2026|
@@ -1748,5 +1749,4 @@
 |**Meta**|[Count Fully Used Batteries](https://www.fastprep.io/problems/meta-count-fully-used-batteries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-count-fully-used-batteries)|Jul 26, 2025|
 |**Meta**|[Count Key Changes](https://www.fastprep.io/problems/meta-count-key-changes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-count-key-changes)|Jul 26, 2025|
 |**Meta**|[Minimum Operations for a Stepwise Sequence](https://www.fastprep.io/problems/meta-minimum-stepwise-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-minimum-stepwise-operations)|Jul 26, 2025|
-|**Meta**|[Most Frequent Reduced Digit](https://www.fastprep.io/problems/meta-most-frequent-reduced-digit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-most-frequent-reduced-digit)|Jul 26, 2025|
 <a id="bottom"></a>
