@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Robinhood**|[Transitive Employee Referral Counts](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|Sep 15, 2026|
+|**Google**|[Detect Duplicate Trace IDs in a Linked List](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|Sep 15, 2026|
+|**Amazon**|[Design Usage Billing for One Account](https://www.fastprep.io/low-level-design/single-account-usage-billing)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/single-account-usage-billing)|Sep 14, 2026|
+|**Amazon**|[Root-to-Leaf Paths with a Target Sum](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|Sep 14, 2026|
+|**Amazon**|[First Non-Repeating Character](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|Sep 14, 2026|
+|**Unattributed**|[Design and Implement a Concurrency-Safe Wallet](https://www.fastprep.io/low-level-design/concurrency-safe-wallet)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrency-safe-wallet)|Sep 14, 2026|
 |**Akuna Capital**|[Count Server Replacements](https://www.fastprep.io/problems/akuna-count-server-replacements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-count-server-replacements)|Sep 14, 2026|
 |**Akuna Capital**|[Maximum Remaining Drone Power](https://www.fastprep.io/problems/akuna-maximum-remaining-drone-power)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-remaining-drone-power)|Sep 14, 2026|
 |**Two Sigma**|[Online No-Intercept Linear Regression](https://www.fastprep.io/problems/two-sigma-online-no-intercept-linear-regression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-online-no-intercept-linear-regression)|Sep 14, 2026|
@@ -1743,10 +1749,4 @@
 |**Google**|[Binary Matrix Top-to-Bottom Reachability](https://www.fastprep.io/problems/google-binary-matrix-top-to-bottom-reachability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-binary-matrix-top-to-bottom-reachability)|Jul 26, 2025|
 |**Google**|[Enumerate Top-to-Bottom Grid Paths](https://www.fastprep.io/problems/google-enumerate-top-to-bottom-grid-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-enumerate-top-to-bottom-grid-paths)|Jul 26, 2025|
 |**Google**|[Inclusive Rectangle Coverage Counts](https://www.fastprep.io/problems/google-inclusive-rectangle-coverage-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-inclusive-rectangle-coverage-counts)|Jul 26, 2025|
-|**Google**|[Minimum-Weight Top-to-Bottom Grid Path](https://www.fastprep.io/problems/google-minimum-weight-top-to-bottom-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-weight-top-to-bottom-grid-path)|Jul 26, 2025|
-|**Google**|[Priority Job Scheduler with Cooldowns](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|Jul 26, 2025|
-|**Illumio**|[Time-Based Key-Value Database](https://www.fastprep.io/problems/illumio-time-based-key-value-database)|Coding|[![Practice][p]](https://www.fastprep.io/problems/illumio-time-based-key-value-database)|Jul 26, 2025|
-|**Meta**|[Count Fully Used Batteries](https://www.fastprep.io/problems/meta-count-fully-used-batteries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-count-fully-used-batteries)|Jul 26, 2025|
-|**Meta**|[Count Key Changes](https://www.fastprep.io/problems/meta-count-key-changes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-count-key-changes)|Jul 26, 2025|
-|**Meta**|[Minimum Operations for a Stepwise Sequence](https://www.fastprep.io/problems/meta-minimum-stepwise-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-minimum-stepwise-operations)|Jul 26, 2025|
 <a id="bottom"></a>
