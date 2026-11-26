@@ -9,6 +9,14 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Capillary Technologies**|[Delete a Linked-List Node Without the Head](https://www.fastprep.io/problems/capillary-delete-linked-list-node-without-head)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capillary-delete-linked-list-node-without-head)|Jul 26, 2025|
+|**Capillary Technologies**|[Top View of a Binary Tree](https://www.fastprep.io/problems/capillary-top-view-of-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capillary-top-view-of-binary-tree)|Jul 26, 2025|
+|**Cisco**|[Longest Non-Repeating Substring](https://www.fastprep.io/problems/cisco-longest-non-repeating-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-longest-non-repeating-substring)|Jul 26, 2025|
+|**Databricks**|[Durable Data Writer](https://www.fastprep.io/problems/databricks-durable-data-writer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-durable-data-writer)|Jul 26, 2025|
+|**Databricks**|[Snapshot Set Iterator](https://www.fastprep.io/problems/databricks-snapshot-set-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/databricks-snapshot-set-iterator)|Jul 26, 2025|
+|**Google**|[Binary Matrix Top-to-Bottom Reachability](https://www.fastprep.io/problems/google-binary-matrix-top-to-bottom-reachability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-binary-matrix-top-to-bottom-reachability)|Jul 26, 2025|
+|**Google**|[Enumerate Top-to-Bottom Grid Paths](https://www.fastprep.io/problems/google-enumerate-top-to-bottom-grid-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-enumerate-top-to-bottom-grid-paths)|Jul 26, 2025|
+|**Google**|[Inclusive Rectangle Coverage Counts](https://www.fastprep.io/problems/google-inclusive-rectangle-coverage-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-inclusive-rectangle-coverage-counts)|Jul 26, 2025|
 |**Google**|[Minimum-Weight Top-to-Bottom Grid Path](https://www.fastprep.io/problems/google-minimum-weight-top-to-bottom-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-weight-top-to-bottom-grid-path)|Jul 26, 2025|
 |**Google**|[Priority Job Scheduler with Cooldowns](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-priority-job-scheduler-with-cooldown)|Jul 26, 2025|
 |**Illumio**|[Time-Based Key-Value Database](https://www.fastprep.io/problems/illumio-time-based-key-value-database)|Coding|[![Practice][p]](https://www.fastprep.io/problems/illumio-time-based-key-value-database)|Jul 26, 2025|
@@ -1841,12 +1849,4 @@
 |**Bloomberg LP**|[Directional Distance to Mines and Boundaries](https://www.fastprep.io/problems/bloomberg-directional-distance-to-mines)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-directional-distance-to-mines)|Aug 07, 2020|
 |**Bloomberg LP**|[Find K Closest Elements in a Sorted Array](https://www.fastprep.io/problems/bloomberg-find-k-closest-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-k-closest-elements)|Jul 30, 2020|
 |**Bloomberg LP**|[Integer Square Root with Error Checks](https://www.fastprep.io/problems/bloomberg-integer-square-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-integer-square-root)|Jul 30, 2020|
-|**Bloomberg LP**|[Clicked One-Dimensional Candy Crush](https://www.fastprep.io/problems/bloomberg-clicked-one-dimensional-candy-crush)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-clicked-one-dimensional-candy-crush)|Jul 20, 2020|
-|**Bloomberg LP**|[Design an iPod-Style Music Player](https://www.fastprep.io/low-level-design/portable-music-player-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/portable-music-player-domain)|Jul 17, 2020|
-|**Bloomberg LP**|[Design Low-Latency Stock Information Queries](https://www.fastprep.io/system-design/low-latency-stock-information-query)|System design|[![Practice][p]](https://www.fastprep.io/system-design/low-latency-stock-information-query)|Jul 13, 2020|
-|**Bloomberg LP**|[Design a Punctuation-Prediction Experiment](https://www.fastprep.io/system-design/punctuation-prediction-experiment-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/punctuation-prediction-experiment-platform)|Jul 05, 2020|
-|**Bloomberg LP**|[Print Unique Numbers](https://www.fastprep.io/problems/bloomberg-print-unique-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-print-unique-numbers)|Jul 05, 2020|
-|**Bloomberg LP**|[Sum of Mutated Array Closest to Target](https://www.fastprep.io/problems/bloomberg-sum-mutated-array-closest-target)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sum-mutated-array-closest-target)|Jul 05, 2020|
-|**Datadog**|[Fill Missing Values in a Fixed-Step Sequence](https://www.fastprep.io/problems/datadog-fill-missing-sequence-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-fill-missing-sequence-values)|Jul 03, 2020|
-|**Bloomberg LP**|[Design Client Application Incident Response](https://www.fastprep.io/system-design/terminal-incident-response-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/terminal-incident-response-system)|Jun 26, 2020|
 <a id="bottom"></a>

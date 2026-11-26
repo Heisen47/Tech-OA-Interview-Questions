@@ -9,6 +9,14 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Clicked One-Dimensional Candy Crush](https://www.fastprep.io/problems/bloomberg-clicked-one-dimensional-candy-crush)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-clicked-one-dimensional-candy-crush)|Jul 20, 2020|
+|**Bloomberg LP**|[Design an iPod-Style Music Player](https://www.fastprep.io/low-level-design/portable-music-player-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/portable-music-player-domain)|Jul 17, 2020|
+|**Bloomberg LP**|[Design Low-Latency Stock Information Queries](https://www.fastprep.io/system-design/low-latency-stock-information-query)|System design|[![Practice][p]](https://www.fastprep.io/system-design/low-latency-stock-information-query)|Jul 13, 2020|
+|**Bloomberg LP**|[Design a Punctuation-Prediction Experiment](https://www.fastprep.io/system-design/punctuation-prediction-experiment-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/punctuation-prediction-experiment-platform)|Jul 05, 2020|
+|**Bloomberg LP**|[Print Unique Numbers](https://www.fastprep.io/problems/bloomberg-print-unique-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-print-unique-numbers)|Jul 05, 2020|
+|**Bloomberg LP**|[Sum of Mutated Array Closest to Target](https://www.fastprep.io/problems/bloomberg-sum-mutated-array-closest-target)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sum-mutated-array-closest-target)|Jul 05, 2020|
+|**Datadog**|[Fill Missing Values in a Fixed-Step Sequence](https://www.fastprep.io/problems/datadog-fill-missing-sequence-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-fill-missing-sequence-values)|Jul 03, 2020|
+|**Bloomberg LP**|[Design Client Application Incident Response](https://www.fastprep.io/system-design/terminal-incident-response-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/terminal-incident-response-system)|Jun 26, 2020|
 |**Bloomberg LP**|[Build a Tree from Preorder and Inorder Traversals](https://www.fastprep.io/problems/bloomberg-construct-binary-tree-from-preorder-and-inorder-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-construct-binary-tree-from-preorder-and-inorder-traversal)|Jun 13, 2020|
 |**Bloomberg LP**|[Maximum Concurrent Meeting Time Slots](https://www.fastprep.io/problems/bloomberg-maximum-concurrent-meeting-slots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-concurrent-meeting-slots)|Jun 09, 2020|
 |**Google**|[Design ML Landing-Page Optimization](https://www.fastprep.io/system-design/landing-page-optimization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/landing-page-optimization)|Jun 02, 2020|
