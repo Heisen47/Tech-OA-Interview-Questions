@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Pinterest**|[Design Merchant Product Catalog Ingestion](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion)|System design|[![Practice][p]](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion)|Sep 15, 2026|
+|**Hadrian / DigitalOcean**|[Design a Live Relational Database Migration](https://www.fastprep.io/system-design/live-relational-database-migration)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-relational-database-migration)|Sep 15, 2026|
 |**Meta / The Walt Disney Company**|[Design a Social Game Score Leaderboard](https://www.fastprep.io/system-design/social-game-score-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-game-score-leaderboard)|Sep 15, 2026|
 |**Amazon**|[Repair Support-Desk Ticket Creation and Replies](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|Sep 15, 2026|
 |**Concentric AI**|[Design an Institute Attendance Management Platform](https://www.fastprep.io/system-design/institute-attendance-management-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/institute-attendance-management-platform)|Sep 15, 2026|
@@ -1747,6 +1749,4 @@
 |**Amazon**|[First Valid Word Segmentation](https://www.fastprep.io/problems/amazon-first-word-segmentation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-word-segmentation)|Jul 26, 2025|
 |**Amazon**|[Nearby Fulfillment Centers with Inventory](https://www.fastprep.io/problems/amazon-nearby-fulfillment-centers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-nearby-fulfillment-centers)|Jul 26, 2025|
 |**Amperity**|[Draw Overlapping ASCII Rectangles](https://www.fastprep.io/problems/amperity-ascii-rectangle-canvas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amperity-ascii-rectangle-canvas)|Jul 26, 2025|
-|**ByteDance**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Jul 26, 2025|
-|**ByteDance**|[QuickSelect Kth Smallest](https://www.fastprep.io/problems/bytedance-quickselect-kth-smallest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-quickselect-kth-smallest)|Jul 26, 2025|
 <a id="bottom"></a>

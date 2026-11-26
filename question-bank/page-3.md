@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ByteDance**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Jul 26, 2025|
+|**ByteDance**|[QuickSelect Kth Smallest](https://www.fastprep.io/problems/bytedance-quickselect-kth-smallest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-quickselect-kth-smallest)|Jul 26, 2025|
 |**ByteDance**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/bytedance-search-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-search-in-rotated-sorted-array)|Jul 26, 2025|
 |**Capillary Technologies**|[Delete a Linked-List Node Without the Head](https://www.fastprep.io/problems/capillary-delete-linked-list-node-without-head)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capillary-delete-linked-list-node-without-head)|Jul 26, 2025|
 |**Capillary Technologies**|[Top View of a Binary Tree](https://www.fastprep.io/problems/capillary-top-view-of-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capillary-top-view-of-binary-tree)|Jul 26, 2025|
@@ -1847,6 +1849,4 @@
 |**Arcesium**|[K-th Character in an Infinite String](https://www.fastprep.io/problems/arcesium-kth-character-in-infinite-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-kth-character-in-infinite-string)|Aug 08, 2020|
 |**Bloomberg LP**|[Capacity-Bounded Browser History](https://www.fastprep.io/problems/bloomberg-capacity-bounded-browser-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-capacity-bounded-browser-history)|Aug 07, 2020|
 |**Bloomberg LP**|[Complex Number Class](https://www.fastprep.io/problems/bloomberg-complex-number-class)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-complex-number-class)|Aug 07, 2020|
-|**Bloomberg LP**|[Directional Distance to Mines and Boundaries](https://www.fastprep.io/problems/bloomberg-directional-distance-to-mines)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-directional-distance-to-mines)|Aug 07, 2020|
-|**Bloomberg LP**|[Find K Closest Elements in a Sorted Array](https://www.fastprep.io/problems/bloomberg-find-k-closest-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-k-closest-elements)|Jul 30, 2020|
 <a id="bottom"></a>
