@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ByteDance**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/bytedance-search-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-search-in-rotated-sorted-array)|Jul 26, 2025|
 |**Capillary Technologies**|[Delete a Linked-List Node Without the Head](https://www.fastprep.io/problems/capillary-delete-linked-list-node-without-head)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capillary-delete-linked-list-node-without-head)|Jul 26, 2025|
 |**Capillary Technologies**|[Top View of a Binary Tree](https://www.fastprep.io/problems/capillary-top-view-of-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capillary-top-view-of-binary-tree)|Jul 26, 2025|
 |**Cisco**|[Longest Non-Repeating Substring](https://www.fastprep.io/problems/cisco-longest-non-repeating-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-longest-non-repeating-substring)|Jul 26, 2025|
@@ -1848,5 +1849,4 @@
 |**Bloomberg LP**|[Complex Number Class](https://www.fastprep.io/problems/bloomberg-complex-number-class)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-complex-number-class)|Aug 07, 2020|
 |**Bloomberg LP**|[Directional Distance to Mines and Boundaries](https://www.fastprep.io/problems/bloomberg-directional-distance-to-mines)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-directional-distance-to-mines)|Aug 07, 2020|
 |**Bloomberg LP**|[Find K Closest Elements in a Sorted Array](https://www.fastprep.io/problems/bloomberg-find-k-closest-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-k-closest-elements)|Jul 30, 2020|
-|**Bloomberg LP**|[Integer Square Root with Error Checks](https://www.fastprep.io/problems/bloomberg-integer-square-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-integer-square-root)|Jul 30, 2020|
 <a id="bottom"></a>

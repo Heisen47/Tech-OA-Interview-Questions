@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Meta / The Walt Disney Company**|[Design a Social Game Score Leaderboard](https://www.fastprep.io/system-design/social-game-score-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-game-score-leaderboard)|Sep 15, 2026|
 |**Amazon**|[Repair Support-Desk Ticket Creation and Replies](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|Sep 15, 2026|
 |**Concentric AI**|[Design an Institute Attendance Management Platform](https://www.fastprep.io/system-design/institute-attendance-management-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/institute-attendance-management-platform)|Sep 15, 2026|
 |**Hudson River Trading**|[Tiered Expiring Item Store](https://www.fastprep.io/problems/hrt-tiered-expiring-item-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-tiered-expiring-item-store)|Sep 15, 2026|
@@ -1748,5 +1749,4 @@
 |**Amperity**|[Draw Overlapping ASCII Rectangles](https://www.fastprep.io/problems/amperity-ascii-rectangle-canvas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amperity-ascii-rectangle-canvas)|Jul 26, 2025|
 |**ByteDance**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-longest-repeating-character-replacement)|Jul 26, 2025|
 |**ByteDance**|[QuickSelect Kth Smallest](https://www.fastprep.io/problems/bytedance-quickselect-kth-smallest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-quickselect-kth-smallest)|Jul 26, 2025|
-|**ByteDance**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/bytedance-search-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-search-in-rotated-sorted-array)|Jul 26, 2025|
 <a id="bottom"></a>
