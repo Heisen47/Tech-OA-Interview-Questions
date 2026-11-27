@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**Stripe**|[Directly Linked Users](https://www.fastprep.io/problems/stripe-directly-linked-users)|[![Practice][p]](https://www.fastprep.io/problems/stripe-directly-linked-users)|Jul 10, 2026|
 |**Stripe**|[Fraud Ring Size](https://www.fastprep.io/problems/stripe-fraud-ring-size)|[![Practice][p]](https://www.fastprep.io/problems/stripe-fraud-ring-size)|Jul 10, 2026|
 |**Stripe**|[Risky Fraud Ring](https://www.fastprep.io/problems/stripe-risky-fraud-ring)|[![Practice][p]](https://www.fastprep.io/problems/stripe-risky-fraud-ring)|Jul 10, 2026|
 |**Two Sigma**|[Balanced Split String with Wildcards](https://www.fastprep.io/problems/two-sigma-balanced-split-string-with-wildcards)|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-balanced-split-string-with-wildcards)|Jul 10, 2026|
@@ -1943,4 +1942,5 @@
 |**Bloomberg LP**|[Min Stack](https://www.fastprep.io/problems/bloomberg-min-stack)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-min-stack)|Oct 06, 2022|
 |**Intuit**|[Count Courses Without Taking One Course](https://www.fastprep.io/problems/intuit-courses-without-avoided-course)|[![Practice][p]](https://www.fastprep.io/problems/intuit-courses-without-avoided-course)|Oct 06, 2022|
 |**Intuit**|[Count Connected Equal Tiles](https://www.fastprep.io/problems/intuit-connected-equal-tiles)|[![Practice][p]](https://www.fastprep.io/problems/intuit-connected-equal-tiles)|Oct 05, 2022|
+|**Intuit**|[Cookie Monster Minimum Arrival Time](https://www.fastprep.io/problems/intuit-cookie-monster-escape)|[![Practice][p]](https://www.fastprep.io/problems/intuit-cookie-monster-escape)|Oct 05, 2022|
 <a id="bottom"></a>
