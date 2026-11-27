@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (4,145)](formats/coding.md) · [SQL (80)](formats/sql.md) · [System design (760)](formats/system-design.md) · [Low-level design (234)](formats/low-level-design.md) · [AI coding (163)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (4,145)](formats/coding.md) · [SQL (80)](formats/sql.md) · [System design (760)](formats/system-design.md) · [Low-level design (235)](formats/low-level-design.md) · [AI coding (163)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,9 +33,9 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs / Salesforce / Vercel / Sentry / Motive / Deloitte / ZipRecruiter / DoorDash / Expedia / Bloomberg LP / CHECK24 / eBay**|[Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service)|🔥 Nov 27, 2026|
 |**OpenAI**|[Design a Fair Multiplayer Typing Race](https://www.fastprep.io/system-design/multiplayer-typing-race)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multiplayer-typing-race)|🔥 Nov 26, 2026|
 |**PayPay / Stripe**|[Design a Coupon Generation and Redemption Service](https://www.fastprep.io/system-design/coupon-generation-and-redemption-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/coupon-generation-and-redemption-service)|🔥 Nov 26, 2026|
-|**Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs / Salesforce / Vercel / Sentry / Motive / Deloitte / ZipRecruiter / DoorDash / Expedia / Bloomberg LP / CHECK24**|[Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service)|🔥 Nov 25, 2026|
 |**Salesforce / Replit / Sarvam AI / Microsoft / Gojek / Goldman Sachs / Amazon / Blinkit / Reddit / Qualified Health AI / Suno / WhatNot / Apple**|[Design an Event-Driven Notification System](https://www.fastprep.io/system-design/event-driven-notification-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-driven-notification-system)|🔥 Nov 25, 2026|
 |**Mercor / Salesforce / Nuro / Rippling / Qualified Health AI / Solytics Partners**|[Design a Durable Work Orchestration Platform](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-work-orchestration-platform)|🔥 Nov 25, 2026|
 |**Roblox**|[Design a Resource Loader for a Desktop Client](https://www.fastprep.io/system-design/desktop-client-resource-loader)|System design|[![Practice][p]](https://www.fastprep.io/system-design/desktop-client-resource-loader)|🔥 Nov 25, 2026|
@@ -43,6 +43,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Repair MovieDB Reviews and Ratings](https://www.fastprep.io/project-coding/amazon-repair-moviedb-reviews)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-reviews)|🔥 Nov 25, 2026|
 |**StackAdapt**|[Design a Community Discussion Forum](https://www.fastprep.io/system-design/community-discussion-forum)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-discussion-forum)|🔥 Nov 25, 2026|
 |**Amazon**|[Design an Online Multiplayer Battleship Game](https://www.fastprep.io/system-design/online-multiplayer-battleship)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-multiplayer-battleship)|🔥 Nov 25, 2026|
+|**Amazon**|[Design an Extensible Return Resolution System](https://www.fastprep.io/low-level-design/extensible-return-resolution-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-return-resolution-system)|🔥 Nov 25, 2026|
 |**Xneeti**|[Design a Backward-Compatible Upgrade for a Bus Status API](https://www.fastprep.io/system-design/backward-compatible-bus-status-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/backward-compatible-bus-status-api)|🔥 Nov 24, 2026|
 |**Xneeti**|[Design a Resilient Ingestion Worker for Unreliable Producers](https://www.fastprep.io/system-design/resilient-producer-ingestion-worker)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-producer-ingestion-worker)|🔥 Nov 24, 2026|
 |**Xneeti**|[Speed Up Daily Trending Videos on a Viewing Log](https://www.fastprep.io/system-design/daily-trending-videos-from-viewing-log)|System design|[![Practice][p]](https://www.fastprep.io/system-design/daily-trending-videos-from-viewing-log)|🔥 Nov 24, 2026|
@@ -1684,5 +1685,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Grid Reachability with a Forbidden Turn](https://www.fastprep.io/problems/amazon-grid-reachability-forbidden-turn)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-grid-reachability-forbidden-turn)|Sep 16, 2026|
 |**Rippling**|[Common Ancestors in a Directed Acyclic Graph](https://www.fastprep.io/problems/rippling-common-ancestors-dag)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-common-ancestors-dag)|Sep 15, 2026|
 |**Mercor**|[Repair a Concurrent Read-Through Cache](https://www.fastprep.io/project-coding/mercor-concurrent-read-through-cache)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/mercor-concurrent-read-through-cache)|Sep 15, 2026|
-|**Pinterest**|[Design Merchant Product Catalog Ingestion](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion)|System design|[![Practice][p]](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion)|Sep 15, 2026|
 <a id="bottom"></a>
