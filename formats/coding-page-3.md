@@ -8,7 +8,6 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-|**ZipRecruiter**|[Pop Matching Balloon Neighborhoods](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|Oct 04, 2022|
 |**ZipRecruiter**|[Count Prioritized Binary-Run Operations](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|Oct 04, 2022|
 |**Duolingo**|[Most-Read Page Across Every Valid Storyline](https://www.fastprep.io/problems/duolingo-most-read-story-page)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Oct 03, 2022|
 |**Duolingo**|[Directional Tiles: Find a Valid Reconfiguration Path](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|Oct 03, 2022|
